@@ -1,0 +1,141 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  $Remilia  >The Scarlet Devil Mansion."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A mansion on the Misty Lake where a vampire resides."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"I can't believe I got all that money!\""
+            ]
+        },
+        "3_1": {
+            "lines": [
+                "Her OBVIOUSLY A KNIFE sword let off gas."
+            ]
+        },
+        "4_1": {
+            "lines": [
+                "<r$Sakuya  >\"I guess this knife wants drugs too!\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Sakuya  >\"..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>Where'd Remilia go?"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$>I should give her all this money.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Remilia  >\"The hell are you doing?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Sakuya  >\"I'm dancing with glee!",
+                "<l$>I got all the needed money and then some!\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Remilia  >\"Oh, perfect!\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Remilia  >\"I can't believe we had to sell drugs to pay rent.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Sakuya  >\"You mean we don't own this mansion?"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$>I thought this place belonged to you and Flandre!\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Sakuya  >\"Ah..."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Remilia  >\"Haah, I'm just fucking with ya!\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>But anyway, I had to travel into a sky castle for the money!\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Remilia  >\"Is that so~?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Sakuya  >\"Yep! I had a fun final boss fight!\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Remilia  >\"That's great! There's still a few grams left, though...\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "In the end, Sakuya had sold most of the drugs."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "There was still some left, but she didn't mind."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "She had a fun fight with some dwarf girl or something.",
+                "What a weirdo! Hah! Such shortness!"
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Uh...anyway, Sakuya decided to go out the next day to sell the rest."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "She needed all the money she could get. For no reason at all!"
+            ]
+        },
+        "25_1": {
+            "lines": [
+                "<c$Ending No. 05 — I hope Sakuya doesn't do drugs herself!$>"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<c$I hope she's just a seller. Check back in the extra stage!$>"
+            ]
+        }
+    }
+}

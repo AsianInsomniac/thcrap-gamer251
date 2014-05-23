@@ -1,0 +1,51 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Damn, I bought the wrong muffins!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Muffins, you say?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "What kind of muffins?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Fish don't eat muffins!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "They were raisins, anyway."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Reisens?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I'll show you what it feels like to hate Reisens!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "I don't know why she thought I said Reisen."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I'll just go find some normal muffins."
+            ]
+        }
+    }
+}

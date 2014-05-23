@@ -1,0 +1,45 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  >Marisa's house."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Marisa was starving."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"Oh man, I didn't get any food..."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$>I need to go back for more...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Marisa was crushed under the Thwomp Hammer."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Will she ever get to eat again?"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "　",
+                "<c$Ending No. 09 — Use bombs wisely!$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Try playing on a full stomach!$>"
+            ]
+        }
+    }
+}

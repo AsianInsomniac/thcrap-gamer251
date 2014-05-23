@@ -1,0 +1,56 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I need to find someone to sell these drugs to..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "You there!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "I'll take some drugs!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "My first customer!"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "But do you have the money?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Of course I do!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I'll pay you in danmaku!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "That wasn't money!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Damn fish clogging the lake!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Fish don't belong in lakes!"
+            ]
+        }
+    }
+}

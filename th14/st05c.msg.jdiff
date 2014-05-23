@@ -1,0 +1,178 @@
+{
+    "0": {
+        "64_0": {
+            "lines": [
+                "What? Who're you?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "This is no place for humans like you."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Go away!"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Don't wanna."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Tiggermime or whatever said that",
+                "there was a food stash here!"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "...Who?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Oh, the Tsukumo sisters!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "What do you want with their food?"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Well, duh!",
+                "I want to eat it!"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "We are the topsy-turvy resistance!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Heh. You'll never get their food!",
+                "The Togameme food stash--"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Don't you mean Tsukumo?",
+                "You just said so yourself."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Ah, I guess I find myself",
+                "calling them that from time to time."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Why do they call themselves that?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "But, more to the point.",
+				"I'm very hongrey!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I suppose you want me to",
+				"give you the food stash."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Yeah, give me the food!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Yeah, how about no?",
+                "|35,5,FUCK",
+                "It's not even mine, I'm only guarding it."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "But maybe I'll tell you where it is",
+                "if you beat me! I'll flip this fight!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Ah, shit..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I acted too fast and was sent",
+				"spiraling downwards..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "That last attack reminded me of a",
+                "red-haired maid I once fought!"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "She even rode a broom, like me!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "...Strange."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "So, uh, I don't suppose you",
+                "still want that food?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, you're the 5th boss, and",
+				"there's usually one more after this."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "That's correct! There's one last",
+                "person guarding the food. Find her yourself!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Hey, wait!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Hm, there seems to be",
+				"one last person around here."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "I'll find me some sacred stones",
+				"while I'm on this path of radiance!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "...I'm getting REALLY hungry..."
+            ]
+        }
+    }
+}

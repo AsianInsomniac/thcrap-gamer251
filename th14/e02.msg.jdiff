@@ -1,0 +1,153 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  $Marisa  $Shinmyoumaru  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A shrine near some forest."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"Yeeeah, I stole that bitch's mallet!\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Marisa  >\"...\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Reimu  >\"Too bad it's just a decoration now.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"Where did you even get it?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"I was on a rampage and I beat this girl and stole it.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Marisa  >\"A rampage? You were on one when we first met.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Reimu  >\"Oh yeah, I remember!",
+                "<l$>That damn ghost!\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"...But ya actually had a reason that time.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"Give it back, you bully!\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Reimu  >\"Oh? Did somebody say something?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"I didn't even do anything wrong~!"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$>I was only planning to upturn society...\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"Oh, really?"
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$>Huh, I guess beating random youkai was good this time.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"It was still a stupid reason!\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Marisa  >\"What WAS your reason?\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"She got mad at a fish for changing some nice music!"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$>That's what she told me.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Marisa  >\"Reimu, you can't DO that!\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Reimu  >\"Whatever, just be glad I beat this person by accident.\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Shinmyoumaru  >\"My hands tickle when I move them! Help!\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Reimu went on a rampage because of Wakasagihime, and",
+                "accidentally yet luckily solved an incident."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "If not for her, society would be upturned",
+                "and Marisa's house would be more of a mess than it already is."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "But did Reimu ever learn her lesson?",
+                "In fact, what lesson DID she learn?"
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Who cares, incident OVER! ...Maybe."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<c$Ending No. 02 — Damn fish, clogging up the lakes!$>"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<c$Congrats on winning! Now try the extra stage!$>"
+            ]
+        }
+    }
+}

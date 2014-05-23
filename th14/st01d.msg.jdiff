@@ -1,0 +1,51 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I feel motivated today!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "You!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Why are you motivated?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Well, you came out of nowhere."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Where did you come from?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Ah, screw it."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Why don't we fight?"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Well, that was pointless."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Time to move on with my quest!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sakuya  $Reimu  $Marisa  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A shrine somewhere in Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Sakuya  >\"...So then I took all of them!\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"All of this over some muffins?\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Marisa  >\"Even I know the difference between raisin and Reisen!\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Sakuya  >\"It seems as if nobody did except for me.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Reimu  >\"That is so odd.\""
+            ]
+        },
+        "6_1": {
+            "lines": [
+                "<r$Marisa  >\"That's weird!\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Sakuya  >\"Yeah, and then I left the raisin muffins in their castle."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$>How convenient that they had the very flavor I needed.\""
+            ]
+        },
+        "9_1": {
+            "lines": [
+                "<r$Marisa  >\"Can I have some? I'm very hungry!\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Reimu  >\"That is strangely convenient.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Sakuya  >\"No, Marisa.",
+                "<l$>Anyway, before I left, I felt some strange presence.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Marisa  >\"What kind of presence?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$>Was it ominous?\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Sakuya  >\"No, but it felt like it was from another world...\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Reimu  >\"Maybe the outside world?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Sakuya  >\"That is a possibility..."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>But what would an outsider be doing there?"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Reimu  >\"Maybe it was Yukari's doing.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$>Or even this far into Gensokyo?\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "It was a long night, but eventually,",
+                "Sakuya got what she needed, after many arguments."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Marisa  >\"Yeah, she's the queen of gaps.\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "Remilia was quite pleased."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "She commended Sakuya's knife skills."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "Also, Reisen's muffins were sold at the time of this incident."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "As strange as it sounds, it was a mere coincidence."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "They got popular very quickly, and they were delicious among youkai."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<c$Ending No. 06 — But what was that ominous presence?$>"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<c$Find out in the extra stage!$>"
+            ]
+        }
+    }
+}

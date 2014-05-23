@@ -1,0 +1,87 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "HEY, SOMEONE COME OUT!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "...Please?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I'm coming out!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "But not in the way that you think!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "This isn't the first time a stage 2 boss",
+				"hit on me! I'll gladly--"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "...wait, I'm supposed to kill you!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "But what about your spellcard rules?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "YOU made them up, you know!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Oh, right."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Ye. Bring it on!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Ow..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Quit your bitching!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Why did you attack me?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I'm going on a rampage!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Are you serious?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Only youkai can do that!"
+            ]
+        }
+    }
+}

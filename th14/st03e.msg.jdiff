@@ -1,0 +1,114 @@
+{
+    "0": {
+        "64_0": {
+            "lines": [
+                "I see you're selling drugs."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Why yes, I am!"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Would you perhaps be interested in buying?"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Maaaybe."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Yes or no?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Uh, actually I'm not sure!"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Are you serious?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "I've wanted to try them but I heard",
+				"that they're bad for you. You know what?"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Let's fight! And if you lose,",
+				"I'll buy!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Ah, I won!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "DAMN!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "So I take it you're not buying then?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "N-no..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Well then, I guess fighting was pointless."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I'm not one to lose, anyway."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I guess I'm not gonna do drugs then."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Since they're unhealthy, I guess",
+				"I dodged a bullet there."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "You didn't dodge much of anything."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "(Why is no one buying my drugs?)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "(I'll have to search elsewhere, I need this money!)"
+            ]
+        }
+    }
+}

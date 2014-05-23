@@ -1,0 +1,41 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Reimu's spirit had been crushed."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Reimu  >\"Yikes!",
+                "<l$>Without my purification rod, this is awful...\""
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Reimu was crushed under the mighty Uchide's Mallet."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "She must practice so as not to rely on her rod!"
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "　",
+                "<c$Ending No. 08 — Practice is key!$>"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<c$Aim for a no-continue clear!$>"
+            ]
+        }
+    }
+}

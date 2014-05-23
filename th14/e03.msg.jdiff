@@ -1,0 +1,127 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Seija  >The Forest of Magic, where no one goes except Alice."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Here, Marisa's house could be found."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Marisa  >\"Mmmmm-MMM! That food sure was good!\""
+            ]
+        },
+        "3_1": {
+            "lines": [
+                "The mini-hakkero shat itself."
+            ]
+        },
+        "4_1": {
+            "lines": [
+                "<r$Marisa  >\"There was so much food I could only take a bit back!\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Marisa  >\"I won't be too surprised if I gain some weight..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$>Damn, that food was good! Where did they find it?"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$>I'll fear nothin' when I have this mini-hakkero!\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Seija  >\"Glad you found it delicious! Though it isn't mine...\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Marisa  >\"Yeah, it was great!"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$>Say, where'd you come from?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Seija  >\"Never mind that, gimme some food too!"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$>Or else I'll flip you!\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Seija  >\"...Nah, I won't do that.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Marisa  >\"It's all gone anyway. I ate all of it!\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Seija  >\"Aw..."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$>I wonder how the Togameme sisters found all of it?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "The Togameme sisters found the food from the outside world."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "...Wait no, it's Tsukumo. Whoops!",
+                "Anyway, Marisa decided to go out and find the Tsukumos."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "She wanted to thank them for the food and ask how they got it.",
+                "But where were they?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "They weren't there on Marisa's trip back home."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "And how did Seija get into Marisa's house?",
+                "And why hasn't she flipped it yet? I wanna see Marisa's reaction!"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<c$Ending No. 03 — Where did the food come from?$>"
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<l$><c$Stay tuned for the Extra Stage!$>"
+            ]
+        }
+    }
+}

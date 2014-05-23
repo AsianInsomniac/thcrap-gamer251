@@ -1,0 +1,147 @@
+{
+    "0": {
+        "64_0": {
+            "lines": [
+                "You've come for muffins, yes?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "You're quick to catch on."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "I bought some raisin muffins by mistake, and I would",
+				"like to exchange them for chocolate chip."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "But Reisen's muffins are good!"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Why is everybody talking about Reisen?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "She's selling muffins, and they're wonderful!"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Now, of all times?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Yeah, and if you don't like them, I'll just have to beat you!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "I'm about to unleash my rage!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "You used one of Reisen's attacks!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "NO I DIDN'T!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, that last one looked like one of her spells."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "But really, I don't know what's going on."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "If you want some chocolate chips, you'd better hurry."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "There's a storm brewing, and it looks bad!"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I can take on any storm, for the sake of muffins."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I'll just go up there and investigate!"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "…………"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "…………"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "You're gonna die."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "No, I'm fine."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I'm going up there right now."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Well, good luck..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "A youkai, wishing me good luck?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Such a strange world, this is."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Just go!"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Okay then, if you insist."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Up I go!"
+            ]
+        }
+    }
+}
