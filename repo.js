@@ -1,11 +1,11 @@
 {
 	"contact": "g782065@gmail.com",
-	"id": "thcrap-gamer251",
+	"id": "gamer251",
 	"patches": {
 		"mima": "The return of Mima!"
 	},
 	"servers": [
-		"http://raw.githubusercontent.com/Gamer251/thcrap-gamer251/master/"
+		"https://raw.githubusercontent.com/Gamer251/thcrap-gamer251/master/"
 	],
 	"title": "The amateur modder"
 }
