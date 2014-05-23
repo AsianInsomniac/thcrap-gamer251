@@ -1,6 +1,6 @@
 {
 	"dependencies": [
-		"thpatch/lang_en"
+		"nmlgc/base_tsa"
 	],
 	"id": "mima",
 	"servers": [
