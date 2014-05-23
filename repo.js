@@ -1,7 +1,9 @@
 {
 	"contact": "g782065@gmail.com",
 	"id": "thcrap-gamer251",
-	"patches": {},
+	"patches": {
+		"mima": "The return of Mima!"
+	},
 	"servers": [
 		"http://raw.githubusercontent.com/Gamer251/thcrap-gamer251/master/"
 	],
