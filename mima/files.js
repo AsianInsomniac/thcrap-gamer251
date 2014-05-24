@@ -14,13 +14,13 @@
 	"th14/face/pl01/title_pl01.png": 2568424220,
 	"th14/face/pl01/title_pl01b.png": 2844895932,
 	"th14/pl01.anm": 2019389403,
-	"th14/player/pl01/Thumbs.db": 1016021360,
-	"th14/player/pl01/pl01.png": 3680385520,
+	"th14/player/pl01/Thumbs.db": 3630983111,
+	"th14/player/pl01/pl01.png": 191010750,
 	"th14/player/pl01/pl01b.png": 1481901219,
 	"th14/player/pl01/pl01b2.png": 267757438,
 	"th14/player/pl01/pl01f.png": 1358841024,
 	"th14/player/pl01/pl01g.png": 827709581,
-	"th14/title/Thumbs.db": 439092711,
+	"th14/title/Thumbs.db": 1930234893,
 	"th14/title/player_01.png": 3455925924,
 	"th14/title/player_01ex.png": 3593502150
 }
