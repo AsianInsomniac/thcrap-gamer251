@@ -2,7 +2,7 @@
 	"contact": "g782065@gmail.com",
 	"id": "gamer251",
 	"patches": {
-		"mima": "The return of Mima!"
+		"mima_en": "The return of Mima! (in English)"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/Gamer251/thcrap-gamer251/master/"
