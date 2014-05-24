@@ -97,7 +97,7 @@
 	"th14/face/pl01/title_pl01b.png": 3600070361,
 	"th14/loading/Thumbs.db": 3211147917,
 	"th14/loading/sig1280.png": 1076700121,
-	"th14/pl01.anm": null,
+	"th14/pl01.anm": 2019389403,
 	"th14/player/pl01/Thumbs.db": 2069592973,
 	"th14/player/pl01/pl01.png": 191010750,
 	"th14/player/pl01/pl01b.png": 1481901219,
