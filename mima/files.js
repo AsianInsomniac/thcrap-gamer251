@@ -13,6 +13,7 @@
 	"th14/face/pl01/face_pl01sw.png": 1925551202,
 	"th14/face/pl01/title_pl01.png": 2568424220,
 	"th14/face/pl01/title_pl01b.png": 2844895932,
+	"th14/pl01.anm": 2019389403,
 	"th14/player/pl01/Thumbs.db": 1016021360,
 	"th14/player/pl01/pl01.png": 3680385520,
 	"th14/player/pl01/pl01b.png": 1481901219,
