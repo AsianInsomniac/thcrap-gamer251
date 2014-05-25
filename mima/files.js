@@ -20,7 +20,7 @@
 	"th14/player/pl01/pl01b2.png": 267757438,
 	"th14/player/pl01/pl01f.png": 1358841024,
 	"th14/player/pl01/pl01g.png": 827709581,
-	"th14/st01c.msg.jdiff": 3143820,
+	"th14/st01c.msg.jdiff": 241692838,
 	"th14/st01d.msg.jdiff": 3469901594,
 	"th14/st02c.msg.jdiff": 812702300,
 	"th14/st02d.msg.jdiff": 2732292811,
