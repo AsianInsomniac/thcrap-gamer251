@@ -1,0 +1,61 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Kinda chilly on the lake, huh."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "You there!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Have you come to exterminate me?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Hm?",
+                "Huh, yeah, I guess so."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "A mermaid, though?",
+                "Mm, sashimi..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Alright!",
+                "I'll beat you and make my way up in the world!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Soon enough, we youkai will be the ruling power!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Yep, just a mermaid.",
+                "No big deal at all."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Mm, sashimi...",
+                "Tempura..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No, no, never mind that."
+            ]
+        }
+    }
+}
