@@ -20,8 +20,9 @@
 	"th14/player/pl01/pl01b2.png": 267757438,
 	"th14/player/pl01/pl01f.png": 1358841024,
 	"th14/player/pl01/pl01g.png": 827709581,
-	"th14/title/Thumbs.db": 1973383964,
+	"th14/title/Thumbs.db": 2597569425,
 	"th14/title/player_01.png": 3455925924,
 	"th14/title/player_01ex.png": 3593502150,
-	"th14/title/weapon_01.png": 1003615941
+	"th14/title/weapon_01.png": 1003615941,
+	"th14/title/weapon_01b.png": 1573870023
 }
