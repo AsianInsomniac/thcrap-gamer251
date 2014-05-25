@@ -2,7 +2,7 @@
     "0": {
         "34_0": {
             "lines": [
-                "Kinda chilly on the lake, huh."
+                "I can shoot flames, huh?"
             ]
         },
         "102_0": {
@@ -12,49 +12,48 @@
         },
         "144_0": {
             "lines": [
-                "Have you come to exterminate me?"
+                "It smells like someone is cooking something..."
             ]
         },
         "152_0": {
             "lines": [
-                "Hm?",
-                "Huh, yeah, I guess so."
+                "That was probably my doing.,
+                "I've burned up a bunch of fairies..."
             ]
         },
         "160_0": {
             "lines": [
-                "A mermaid, though?",
-                "Mm, sashimi..."
+                "Oh, a Mermaid!",
+                "This is gonna be fun~"
             ]
         },
         "168_0": {
             "lines": [
-                "Alright!",
-                "I'll beat you and make my way up in the world!"
+                "Are you alright?",
+                "Listen to me!"
             ]
         },
         "176_0": {
             "lines": [
-                "Soon enough, we youkai will be the ruling power!"
+                "Okay, if you're not watching,",
+                "then I'll take my chance to go into offense!"
             ]
         }
     },
     "1": {
         "34_0": {
             "lines": [
-                "Yep, just a mermaid.",
-                "No big deal at all."
+                "This is really effective.",
             ]
         },
         "42_0": {
             "lines": [
-                "Mm, sashimi...",
-                "Tempura..."
+                "This would make a nice torture device~",
             ]
         },
         "50_0": {
             "lines": [
-                "No, no, never mind that."
+                "Yes, yes, I should do that."
             ]
         }
     }
