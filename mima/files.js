@@ -1,7 +1,7 @@
 {
 	"patch.js": 3351110907,
-	"th13/player/pl01/Thumbs.db": 2993404170,
-	"th13/player/pl01/pl01.png": 1022071736,
+	"th13/player/pl01/Thumbs.db": 346066539,
+	"th13/player/pl01/pl01.png": 2423680489,
 	"th13/player/pl01/pl01b.png": 1481901219,
 	"th13/player/pl01/pl01b2.png": 267757438,
 	"th13/player/pl01/pl01d.png": 1347484798,
