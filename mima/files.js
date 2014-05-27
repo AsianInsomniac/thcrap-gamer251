@@ -1,5 +1,5 @@
 {
-	"patch.js": 3351110907,
+	"patch.js": 3616395204,
 	"th13/face/Thumbs.db": 1291866594,
 	"th13/face/dummy.png": 2926711928,
 	"th13/face/pl01/Thumbs.db": 480155647,
@@ -97,7 +97,7 @@
 	"th14/face/pl01/title_pl01b.png": 3600070361,
 	"th14/loading/Thumbs.db": 3211147917,
 	"th14/loading/sig1280.png": 1076700121,
-	"th14/pl01.anm": null,
+	"th14/pl01.anm": 2019389403,
 	"th14/player/pl01/Thumbs.db": 2069592973,
 	"th14/player/pl01/pl01.png": 191010750,
 	"th14/player/pl01/pl01b.png": 1481901219,
