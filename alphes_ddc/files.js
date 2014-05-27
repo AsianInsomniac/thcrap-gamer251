@@ -14,5 +14,14 @@
 	"face/enemy2/face02lo.png": 891099345,
 	"face/enemy2/face02no.png": 2064703260,
 	"face/enemy2/face02pr.png": 3120684510,
+	"face/enemy3/ename01.png": 3766636936,
+	"face/enemy3/face03bs.png": 379292902,
+	"face/enemy3/face03ct.png": 1844246969,
+	"face/enemy3/face03dp.png": 992257895,
+	"face/enemy3/face03lo.png": 2963044669,
+	"face/enemy3/face03no.png": 3550119109,
+	"face/enemy3/face03pr.png": 3075774602,
+	"face/enemy3/face03sp.png": 3820943715,
+	"face/enemy3/face03sw.png": 971590032,
 	"patch.js": 2767103102
 }
