@@ -82,7 +82,7 @@
 	"th14/face/enemy7/face07no.png": null,
 	"th14/face/enemy7/face07pr.png": null,
 	"th14/face/enemy7/face07sp.png": null,
-	"th14/face/pl01/Thumbs.db": 2767604913,
+	"th14/face/pl01/Thumbs.db": 1399401994,
 	"th14/face/pl01/face_pl01an.png": 3345619740,
 	"th14/face/pl01/face_pl01bs.png": 1949090528,
 	"th14/face/pl01/face_pl01bs2.png": 3189510947,
