@@ -1,5 +1,5 @@
 {
-	"patch.js": 3351110907,
+	"patch.js": 3616395204,
 	"th13/face/Thumbs.db": 1291866594,
 	"th13/face/dummy.png": 2926711928,
 	"th13/face/pl01/Thumbs.db": 480155647,
