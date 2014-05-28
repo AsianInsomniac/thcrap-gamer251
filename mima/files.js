@@ -104,7 +104,7 @@
 	"th14/player/pl01/pl01b2.png": 267757438,
 	"th14/player/pl01/pl01f.png": 1358841024,
 	"th14/player/pl01/pl01g.png": 827709581,
-	"th14/st01c.msg": 12360461,
+	"th14/st01c.msg": 1706705062,
 	"th14/st01c.msg.jdiff": 2796902135,
 	"th14/st01c.txt": null,
 	"th14/st01d.msg.jdiff": null,

@@ -23,7 +23,7 @@
 	"face/enemy3/face03pr.png": null,
 	"face/enemy3/face03sp.png": null,
 	"face/enemy3/face03sw.png": null,
-	"patch.js": 2767103102,
+	"patch.js": 2152965790,
 	"th14/face/enemy1/Thumbs.db": 3719023008,
 	"th14/face/enemy1/face01an.png": 443110875,
 	"th14/face/enemy1/face01bs.png": 3138472024,
