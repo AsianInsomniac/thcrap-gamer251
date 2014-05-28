@@ -2,7 +2,6 @@
 	"contact": "g782065@gmail.com",
 	"id": "gamer251",
 	"patches": {
-		"alphes": "Alphes-styled Portraits!",
 		"mima": "The return of Mima! (English)"
 	},
 	"servers": [
