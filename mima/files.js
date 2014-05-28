@@ -116,7 +116,7 @@
 	"th14/st05c.msg.jdiff": 2729901808,
 	"th14/st06c.msg": 2784607008,
 	"th14/st06c.msg.jdiff": 2983848782,
-	"th14/st07c.msg": 2407172723,
+	"th14/st07c.msg": 2579536731,
 	"th14/st07c.msg.jdiff": 4163072759,
 	"th14/title/Thumbs.db": 407029901,
 	"th14/title/player_01.png": 3455925924,
