@@ -118,7 +118,7 @@
 	"th14/st03d.msg.jdiff": 1017133852,
 	"th14/st04c.msg": 2533445188,
 	"th14/st04c.msg.jdiff": 1496313342,
-	"th14/st04d.msg": 857512015,
+	"th14/st04d.msg": null,
 	"th14/st05c.msg": 686166602,
 	"th14/st05c.msg.jdiff": 2729901808,
 	"th14/st06c.msg": 2784607008,
