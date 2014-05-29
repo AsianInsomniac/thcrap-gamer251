@@ -131,7 +131,7 @@
 	"th14/st07c.msg": 3497187957,
 	"th14/st07c.msg.jdiff": 3467114766,
 	"th14/st07d.msg": 389171808,
-	"th14/st07d.msg.jdiff": 1202817344,
+	"th14/st07d.msg.jdiff": 210841588,
 	"th14/title/Thumbs.db": null,
 	"th14/title/player_01.png": 3455925924,
 	"th14/title/player_01ex.png": 3593502150,
