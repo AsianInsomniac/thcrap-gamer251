@@ -126,6 +126,8 @@
 	"th14/st05d.msg.jdiff": 4172888041,
 	"th14/st06c.msg": 2784607008,
 	"th14/st06c.msg.jdiff": 2983848782,
+	"th14/st06d.msg": 1007708603,
+	"th14/st06d.msg.jdiff": 3187415123,
 	"th14/st07c.msg": 3497187957,
 	"th14/st07c.msg.jdiff": 3467114766,
 	"th14/title/Thumbs.db": null,
