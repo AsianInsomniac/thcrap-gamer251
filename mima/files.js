@@ -20,6 +20,8 @@
 	"th13/player/pl01/pl01b.png": 1481901219,
 	"th13/player/pl01/pl01b2.png": 267757438,
 	"th13/player/pl01/pl01d.png": 2996408601,
+	"th13/title/weapon_01.png": 2079681708,
+	"th13/title/weapon_01ex.png": 507181046,
 	"th14/face/enemy1/ename01.png": null,
 	"th14/face/enemy1/enamebk.png": null,
 	"th14/face/enemy1/face01an.png": null,
