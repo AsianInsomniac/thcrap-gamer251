@@ -2,54 +2,52 @@
     "2": {
         "34_0": {
             "lines": [
-                "Hm, you're that—"
+                "And who might you be?"
             ]
         },
         "42_0": {
             "lines": [
-                "Ah, you came at a good time!"
+                "Hey, you. Nice timing!"
             ]
         },
         "50_0": {
             "lines": [
-                "I saw this girl I've never",
-                "seen before keeping watch back there."
+                "There's this girl guarding something."
             ]
         },
         "58_0": {
             "lines": [
-                "But no matter how much I shoot her,",
-                "I always lose by time out..."
+                "She's absurdly robust, to the point",
+                "I have to time out all her phases!"
             ]
         },
         "66_0": {
             "lines": [
-                "So could you do something about her?",
-                "Please!"
+                "Do something about her!",
+                "She hurts my pride..."
             ]
         },
         "74_0": {
             "lines": [
-                "Oho, even a youkai's at a loss?",
-                "Very interesting."
+                "So I should do something about your",
+                "incompetence to restore your pride?"
             ]
         },
         "82_0": {
             "lines": [
-                "I'll wipe you two out together!"
+                "I think I did not miss out anything by not knowing you..."
             ]
         }
     },
     "0": {
         "34_0": {
             "lines": [
-                "Where's this <i$girl>",
-                "Kogasa mentioned?"
+                "But now I am certainly curious."
             ]
         },
         "42_0": {
             "lines": [
-                "Hm, I feel a warm breeze..."
+                "Ugh, hot air..."
             ]
         },
         "50_0": {
@@ -59,41 +57,40 @@
         },
         "118_0": {
             "lines": [
-                "This is no place for",
-                "the likes of you to enter!"
+                "Wait...",
+                "Now that I'm looking at you, go ahead."
             ]
         },
         "126_0": {
             "lines": [
-                "Is that so?",
-                "So who is it a good place for?"
+                "I'm not what you think I am."
             ]
         },
         "134_0": {
             "lines": [
-                "Ummm... who is it good for?"
+                "Huh? You're not a...?"
             ]
         },
         "142_0": {
             "lines": [
-                "What are you protecting?"
+                "What are you guarding?"
             ]
         },
         "150_0": {
             "lines": [
-                "Um... what am I guarding..."
+                "Uuuuh... This... thing... ?"
             ]
         },
         "158_0": {
             "lines": [
-                "This won't result in a conversation.",
-                "Is your brain rotten?"
+                "I didn't think the quality of the",
+                "conversations could lower down, but..."
             ]
         },
         "166_0": {
             "lines": [
-                "Rotten as I may be, I'm a jiang shi!",
-                "Right! I remembered!"
+                "Hey now, I may be bit slow but...",
+                "Oh, right! I remember now!"
             ]
         },
         "174_0": {
@@ -103,20 +100,19 @@
         },
         "182_0": {
             "lines": [
-                "Jiang shi, eh?",
-                "Ah, so you really are rotten."
+                "Mausoleum you say?",
+                "Sounds promising. Out with it!"
             ]
         },
         "190_0": {
             "lines": [
-                "I can't let you enter!",
-                "Though I can't quite remember why..."
+                "I won't let you enter!",
+                "And I will not tell you!"
             ]
         },
         "198_0": {
             "lines": [
-                "But if you want to become",
-                "one of us, feel free!"
+                "You shall be consumed and fuel my power!"
             ]
         }
     },
@@ -124,58 +120,58 @@
         "30_0": {
             "lines": [
                 "Curse yooooou!",
-                "I'm done fooooor!"
+                "I am beateeeeen!"
             ]
         },
         "38_0": {
             "lines": [
-                "Ah, geez..."
+                "How theatrical."
             ]
         },
         "46_0": {
             "lines": [
-                "Fighting a zombie in a cemetery?",
-                "What kind of third-rate movie is this?"
+                "I did not think zombies could act.",
+                "I'll go now."
             ]
         },
         "54_0": {
             "lines": [
-                "This isn't a movie?",
-                "I'm a zombie?"
+                "Noooo, you can't!",
+                "I'm hungry!"
             ]
         },
         "62_0": {
             "lines": [
-                "So do you know anything",
-                "about these divine spirits?"
+                "Eww, let go of me!",
+                "Just sink back into your grave!"
             ]
         },
         "70_0": {
             "lines": [
-                "Divine spirits?",
-                "What're those? Are they nutritious?"
+                "But I can't...",
+                "I'm on duty."
             ]
         },
         "78_0": {
             "lines": [
-                "I was a fool to think I could",
-                "make conversation with a corpse..."
+                "Duty, huh? So who is your master?"
             ]
         },
         "86_0": {
             "lines": [
-                "Well, you rest in peace, now.",
-                "Amen."
+                "And while we're at it:",
+                "Where's this mausoleum you were speaking of?"
             ]
         },
         "94_0": {
             "lines": [
-                "When it's 10PM, wake me up."
+                "Master? Mausoleum? Wha...?"
             ]
         },
         "102_0": {
             "lines": [
-                "I'm not gonna wake you up!"
+                "Okay. Just... stay here.",
+				"I can find it myself."
             ]
         }
     }
