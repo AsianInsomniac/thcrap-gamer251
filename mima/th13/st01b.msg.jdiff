@@ -1,0 +1,83 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "An eerie force is attracting divine spirits...",
+				"Do you know anything about this?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Ah, a visitor."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Is it calling out to you as well?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Not really, but it seems troublesome."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "So, what do you think about it?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Divine spirits you say?",
+                "We don't have any..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "But I think I will keep you here,",
+                "you attached spirit~"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "I don't think I'd fit in with your crowd.",
+                "Now tell me what you know."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Aww...",
+                "I could really use some company now that Youmu's so busy..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "You were pretty spot on with calling them divine spirits.",
+				"There's nothing special I could tell you."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "That's disappointing...",
+				"I shall take my leave then."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Where will you go now?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I've heard there's a commotion at the temple's graveyard~"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Is that so...?"
+            ]
+        }
+    }
+}
