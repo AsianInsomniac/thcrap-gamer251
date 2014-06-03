@@ -13,6 +13,7 @@
 	"th11/player/pl01/pl01.png": 1411596786,
 	"th11/player/pl01/pl01b.png": 3276522889,
 	"th11/player/pl01/pl01c.png": 2875808866,
+	"th11/title/sl_pl00.png": 1372963217,
 	"th11/title/title00a.png": 1963204395,
 	"th12/face/pl01/face_pl01an.png": 1722571836,
 	"th12/face/pl01/face_pl01dp.png": 2472131179,
