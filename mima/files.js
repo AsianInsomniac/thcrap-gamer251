@@ -1,6 +1,6 @@
 {
 	"patch.js": 3616395204,
-	"th11/player/pl01/pl01.png": 3088790563,
+	"th11/player/pl01/pl01.png": 1835333719,
 	"th11/player/pl01/pl01b.png": 1172363398,
 	"th11/player/pl01/pl01c.png": 54773464,
 	"th12/face/pl01/face_pl01an.png": 1722571836,
