@@ -75,7 +75,7 @@
 	"th13/st04b.msg": 4153463587,
 	"th13/st04b.msg.jdiff": 292485675,
 	"th13/st05b.msg": 1635029483,
-	"th13/st05b.msg.jdiff": 3367921775,
+	"th13/st05b.msg.jdiff": 2532318087,
 	"th13/st06b.msg": 2995975571,
 	"th13/st06b.msg.jdiff": 228602977,
 	"th13/st07b.msg.jdiff": 2819753302,
