@@ -51,7 +51,7 @@
 	"th13/face/pl01/Thumbs.db": null,
 	"th13/face/pl01/face_pl01an.png": 1363210958,
 	"th13/face/pl01/face_pl01bs.png": 3440763977,
-	"th13/face/pl01/face_pl01dp.png": 1818906234,
+	"th13/face/pl01/face_pl01dp.png": 157519685,
 	"th13/face/pl01/face_pl01hp.png": 559294773,
 	"th13/face/pl01/face_pl01n2.png": 1996374936,
 	"th13/face/pl01/face_pl01no.png": 774143031,
