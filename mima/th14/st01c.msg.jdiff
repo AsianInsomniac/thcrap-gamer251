@@ -1,0 +1,62 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I can shoot flames, huh?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "You there!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "It smells like someone is cooking something..."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Oh someone's there.",
+                "That was probably my doing."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "A mermaid, though?",
+                "This'll be good~"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Are you all right?",
+                "Listen to me!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Okay, if you're not watching,",
+				"then I'll take my chance to go into offense!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "This is really effective~",
+                "Would make for a nice torture device."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Frying everything up...",
+                "Fried youkai..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Yes, yes, I should do that."
+            ]
+        }
+    }
+}

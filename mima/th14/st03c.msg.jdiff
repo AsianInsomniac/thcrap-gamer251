@@ -1,0 +1,112 @@
+{
+    "0": {
+        "64_0": {
+            "lines": [
+                "I've heard from my comrades.",
+				"You're some kind of maniac, aren't you!"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Now, now.",
+				"It's not nice to call me that."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "But it is the truth, isn't it?"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Hah! Maybe I am!"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "That dress of yours sure looks highly flammable~"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "No!",
+				"I won't let you!"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I'll boil your blood and turn your",
+				"insides out with this ghostly fire~"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Not if I can help it!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Under this full moon, I shall put a stop on your rampage!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "A wolfgirl, huh..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Any last words?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "You're really going to do this?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Hah...",
+				"Maybe you can convince me not to. Go ahead."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You'd regret it in your next life..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "You're funny."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, whatever."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "You can now join your fallen comrades in your \"next life\"."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "I'm so sorry...",
+				"I did my best..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "It seems to only grow more powerful each time it claims another soul..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Well, time to go find some other youkai~"
+            ]
+        }
+    }
+}
