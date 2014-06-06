@@ -1081,7 +1081,7 @@
 	"th13/st06b.msg": 2995975571,
 	"th13/st06b.msg.jdiff": 228602977,
 	"th13/st07b.msg": 1341954436,
-	"th13/st07b.msg.jdiff": 1432514618,
+	"th13/st07b.msg.jdiff": 2249601297,
 	"th13/title/weapon_01.png": 2079681708,
 	"th13/title/weapon_01ex.png": 507181046,
 	"th14-loading-sig1280.png": null,
