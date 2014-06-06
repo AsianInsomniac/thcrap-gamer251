@@ -998,7 +998,7 @@
 	"th09/data/title/slpl01.png": 4053439070,
 	"th09/data/title/slpl01tx.png": 2687076667,
 	"th09/data/title/slstname.png": 872733534,
-	"th09/pl01.msg.jdiff": 2083813671,
+	"th09/pl01.msg.jdiff": 3177254234,
 	"th09/pl01_match.msg.jdiff": 372549896,
 	"th09/th09logo.jpg": 1823802917,
 	"th10/face/pl01/face_pl01an_u.png": 1868188420,
