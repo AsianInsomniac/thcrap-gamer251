@@ -994,7 +994,7 @@
 	"th08/data/face/yuyuko/face_yy01sw.png": 1754464018,
 	"th08/data/front/ename.png": 4059987754,
 	"th08/data/front/front.png": 4235959138,
-	"th08/data/player00/player01.png": 169255612,
+	"th08/data/player00/player01.png": 3903730690,
 	"th08/data/player00/player01b.png": 3148009018,
 	"th08/data/player00/player03.png": 1576664549,
 	"th08/data/stgenm/stg4benm.png": 3496821779,
