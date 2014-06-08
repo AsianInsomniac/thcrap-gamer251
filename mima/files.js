@@ -51,7 +51,7 @@
 	"th08/data/front/ename.png": 4059987754,
 	"th08/data/front/front.png": 4235959138,
 	"th08/data/player00/player01.png": 2283120535,
-	"th08/data/player00/player03.png": 634237376,
+	"th08/data/player00/player03.png": 3986238006,
 	"th08/data/stgenm/stg4benm.png": 3496821779,
 	"th08/data/stgenm/stg9enm_yy.png": null,
 	"th08/data/text/stg4btxt.png": 542251230,
