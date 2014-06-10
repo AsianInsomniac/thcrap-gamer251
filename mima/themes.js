@@ -45,7 +45,7 @@
     "th08_07": "Plain Asia",
     "th08_08": "Retribution for the Eternal Night ~ Imperishable Night",
     "th08_09": "Maiden's Capriccio ~ Dream Battle",
-    "th08_10": "Complete Darkness",
+    "th08_10": "Deformed Tank",
     "th08_11": "Cinderella Cage ~ Kagome-Kagome",
     "th08_12": "Lunatic Eyes ~ Invisible Full Moon",
     "th08_13": "Voyage 1969",

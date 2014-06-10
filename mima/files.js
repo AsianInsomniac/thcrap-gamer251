@@ -54,7 +54,7 @@
 	"th08/data/player00/player03.png": 3986238006,
 	"th08/data/stgenm/stg4benm.png": 3496821779,
 	"th08/data/stgenm/stg9enm_yy.png": null,
-	"th08/data/text/stg4btxt.png": 542251230,
+	"th08/data/text/stg4btxt.png": 4171704174,
 	"th08/data/title/replay00.png": 788208300,
 	"th08/data/title/select01.png": 1420646140,
 	"th08/data/title/sl_pl00a.png": 2195413325,
@@ -80,7 +80,7 @@
 	"th08/data/title/sl_text.png": 1704478695,
 	"th08/data/title/title01.png": 695150599,
 	"th08/data/title/title02.png": 4260694601,
-	"th08/musiccmt.js": 1060305179,
+	"th08/musiccmt.js": 3384726703,
 	"th08/spellcomments.js": 3707567970,
 	"th08/spells.js": 2963299044,
 	"th08/th08logo.jpg": 2497998162,
@@ -271,5 +271,5 @@
 	"th14/title/player_01ex.png": 3593502150,
 	"th14/title/weapon_01.png": 1003615941,
 	"th14/title/weapon_01b.png": 1573870023,
-	"themes.js": 2452140892
+	"themes.js": 2823828057
 }
