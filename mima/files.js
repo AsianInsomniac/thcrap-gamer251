@@ -1,6 +1,6 @@
 {
 	"patch.js": 3616395204,
-	"stringdefs.js": 4134232667,
+	"stringdefs.js": 370614981,
 	"th08/data/face/alice/face_al00.png": 2307630739,
 	"th08/data/face/alice/face_al00lr.png": 2840974018,
 	"th08/data/face/alice/face_al01an.png": 345189796,

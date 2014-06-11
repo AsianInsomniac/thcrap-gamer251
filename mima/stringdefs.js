@@ -70,7 +70,7 @@
     "th08 Bomb Youmu": "Scepter \"Spiritual Slice\"",
     "th08 Bomb Youmu Last": "Scepter \"Slash of a Thousand Phantoms\"",
     "th08 Bomb Yuyuko": "Nature Sign \"Flower Shower\"",
-    "th08 Bomb Yuyuko Last": "Deadly Higanbana \"Flower Burial\"",
+    "th08 Bomb Yuyuko Last": "Poison Higanbana \"Flower Burial\"",
     "th08 Spell Dissolve": "\"Dissolve Spell\"",
     "th08 Spell Resurrection": "\"Resurrection\"",
     "th08 Music Room spoiler 1": "*** NOTE ***",
