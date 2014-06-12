@@ -1,0 +1,170 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Fairies, ghosts, everyone is after the treasury.",
+                "What a bother."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Ghosts? I've yet to see one.",
+                "But treasures sound interesting."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Look at you. There's your ghost.",
+                "I'll show no mercy to any sort of scoundrel!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "At least all humans run away",
+                "at the sight of this fist..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Like I'd be intimidated by groups of moisture in the air.",
+                "So where's the treasure?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "...She fled."
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "So you're obviously after the treasure. ",
+                "Or is it something else?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Well, you made me aware of the treasure."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "...",
+                "But my main goal is to just investigate."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Don't stray from the topic, you thief!"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "I'm Ichirin Kumoi, and I'm guarding the treasure and this place!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I won't let thieves or intruders live or flee!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Ohh, that hurts.",
+                "Being called a thief."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I'm no thief,",
+                "I'm am the great godlike Mima!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "You're all talk!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Coming from someone who's relying on someone else's power.",
+                "That's great."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Enough chit-",
+                "...What? You're saying? She said what? Noooo...!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "What's wrong? I'm right in front of you.",
+                "You'll regret dropping your guard."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "My partner here tells me",
+                "that you are gathering the fragments."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Fragments? The fairies dropped some stuff that drove them crazy,",
+                "so I took it..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "So that mouse was of no use, after all. I knew it."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Thanks anyway for finding them!",
+                "Hand them over now so we can fulfil our plan!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Too strong...",
+                "I didn't expect such force coming from a ghost..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "You are merely a hitbox for your partner."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Ouch. You're trying to revive her as well,",
+                "since you're collecting the fragments too, right?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I don't know what you're talking about, but let's go with yes.",
+                "So if you were so kind to let me pass, then I wouldn't have hurt you."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "...Oh well, what could possibly happen, right?",
+                "You seem to be an ally, so go ahead."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "What a strange turn of events.",
+                "Are these fragments actually worth something...?"
+            ]
+        }
+    }
+}

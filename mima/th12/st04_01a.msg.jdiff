@@ -1,0 +1,176 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Well, I think I get it."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "There's nothing on this ship."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "So, I guess I'll just have to take this flying treasure",
+                "or whatever home and study it."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Is someone there?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "A human...?",
+                "Or have you also given up your humanity?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "......A youkai?",
+                "What <i$is> this ship, anyway?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Oh, it looks like you've got something nice."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Hm?",
+                "So, you're interested in this?"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Yes, as long as we have that,",
+                "we can turn this ship toward its destination."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Destination?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Oh, where are my manners?",
+                "I'm Murasa, the captain of this holy palanquin."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "This ship is bound for Hokkai,",
+                "the world where Hijiri is imprisoned."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Did you say Hokkai?",
+                "The heck's that?"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "A corner of the infinite area of Makai.",
+                "That's where Hijiri was sealed away."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Makai..."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Are you afraid now?"
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "No, I want to go to Makai.",
+                "As a magician."
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "Magician?",
+                "Hm, aren't you human?"
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "Well...",
+                "Well, anyway, mind taking me along?"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Hehe, unfortunately we can't bring",
+                "powerless passengers with us."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "Now, leave the treasure here and return back to earth!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "You're strong...",
+                "Oh well, I suppose we'll let you board."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Uh, I'm already on board."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "So, Makai... You said we're going to Hokkai,",
+                "so if I ride along, I'll get there, right?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Yes, since you brought the treasure,",
+                "we're already under way."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "The miasma usually makes it impossible to go there,",
+                "but lots of interesting things have fallen into Makai."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I guess this time I'll just bear it and",
+                "go collect lots of rare items!"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "By the way, this ship is a one-way liner."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "We're not planning on leaving Makai...",
+                "Is that okay?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Wait, hang on!",
+                "Stop the boat!"
+            ]
+        }
+    }
+}

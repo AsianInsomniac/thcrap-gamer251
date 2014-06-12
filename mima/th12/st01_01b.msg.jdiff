@@ -1,0 +1,100 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hey, hey, this is turning out to be pretty amazing."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It looks like that ship has",
+                "come out to try to find me!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No, no.",
+                "It's not looking for you."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "It just brought me here, is all."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "What's this?",
+                "A mouse? Hey, I just saw you, too."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "I'm just looking for a little something.",
+                "I came down because I picked up on a treasure response."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Anyway, it looks like it was just reacting to you.",
+                "What a let-down."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "A mouse from a ship...",
+                "Don't tell me you've eaten thru all the food supply already!"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "That's not really a ship.",
+                "Well, maybe it looks like one."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It sure does.",
+                "I have good eyes, you know."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Alright now, human.",
+                "I've got some work to do, so..."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "You're not getting away!",
+                "If I let you get away, something bad will happen!"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "I don't really want to fight you, but...",
+                "Oh, well."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Now!",
+                "Tell me who you are!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "...wait, what?",
+                "Did she run away?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "She's a pretty fast mouse.",
+                "Well, she's a mouse, after all."
+            ]
+        }
+    }
+}

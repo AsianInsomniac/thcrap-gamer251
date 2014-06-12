@@ -1,0 +1,259 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hmm?",
+                "So you came to Makai, too?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Oh, it's that mouse from before!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "If you're here, too,",
+                "you must have something to do with that ship."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I heard that you had",
+                "one of the treasures I was looking for."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I've been looking for another treasure;",
+                "it's a secret from the captain."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "My master carelessly lost it, so she was",
+                "probably too embarrassed to tell anyone but me."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "So, why don't I try",
+                "using this jeweled pagoda of Bishamonten?"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Well now."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I've never seen a seal like this before.",
+                "Looks like this isn't the usual kind."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I guess you need this treasure I found",
+                "to break the seal, but..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Are these UFOs really treasure?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yes, I've been waiting for you."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "We can break the seal",
+                "with the flying treasure you've brought."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Who're you?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "I am the representative of Bishamonten,",
+                "a devotee of Hijiri's creed."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Now that we have the jeweled pagoda Nazrin brought,",
+                "as well as the fragments of the Soaring Vault you possess,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "we can break the seal here.",
+                "We can repay our debt of gratitude to Hijiri."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "These UFOs... Are part of the Soaring Vault?",
+                "What's that?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Hm? You gathered all the treasure",
+                "without even knowing that?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Yeah, by the time I realized what happened."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "As its name suggests, it's a granary that flies thru the sky."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "It was a warehouse filled with",
+                "the lord brother's miraculous power."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "That power was strong enough to send the warehouse",
+                "flying thru the sky at just a touch."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Oh?"
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "The warehouse had been sealed away deep underground with us",
+                "for several hundred years."
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "However, this winter, we were suddenly freed",
+                "by a geyser welling up."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Then, the fragments of the Soaring Vault were scattered",
+                "as the geyser spewed out."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "A geyser? That's right, there’s been a frequent geyser",
+                "eruption since last winter, <i$I wonder why>."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "When we were awakened from underground, the fragments",
+                "had already been scattered by fairies."
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "We need Myouren's magic in order to break Hijiri's seal."
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "However, the only thing with any of it left",
+                "is the fragments of the silo."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "I don't really get it, but these UFOs are important, right?",
+                "They're valuable, right?"
+            ]
+        },
+        "298_0": {
+            "lines": [
+                "They were making those fairies go berserk, too.",
+                "I wanna take them home and study them."
+            ]
+        },
+        "306_0": {
+            "lines": [
+                "You can't take them now.",
+                "We need them in order to break the seal."
+            ]
+        },
+        "314_0": {
+            "lines": [
+                "We can't let you take the treasure",
+                "and use them for some fiendish purpose."
+            ]
+        },
+        "322_0": {
+            "lines": [
+                "I didn't want to do this, but I have no choice."
+            ]
+        },
+        "330_0": {
+            "lines": [
+                "The light of this jeweled pagoda of Bishamonten",
+                "will cleanse the evil from your heart!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Well, I can see how you could've collected the treasure.",
+                "At this rate..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Wait, no need for you to worry.",
+                "I want to help you break the seal."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I see, then you're a comrade."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "In return, if everything works out,",
+                "could you share some of this treasure with me?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Um... yes, I promise.",
+                "But only one, okay?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "They're very valuable."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Yes!"
+            ]
+        }
+    }
+}

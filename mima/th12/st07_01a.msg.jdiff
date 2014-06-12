@@ -1,0 +1,364 @@
+{
+    "2": {
+        "90_0": {
+            "lines": [
+                "Booo!"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "I messed up last time."
+            ]
+        },
+        "338_0": {
+            "lines": [
+                "You have to wait until night to surprise humans!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Where'd it disappear to?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It changed into a bird, and a monster...",
+                "What was that thing riding in that UFO?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "It sure feels like some youkai that isn't related",
+                "to Byakuren at all is behind this."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Hm?",
+                "What's that weird animal cry?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Sounds kind a like a monster, or a bird, or a baby.",
+                "This sound... it's...!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Congratulations on rescuing Hijiri!"
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "I never thought a human specializing in youkai hunting",
+                "would be the one to find the fragments of the Soaring Vault."
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "I've never heard the voice of the youkai nobody's really seen before."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "A nue!",
+                "Was that weird orb of light you?"
+            ]
+        },
+        "322_0": {
+            "lines": [
+                "That's right."
+            ]
+        },
+        "330_0": {
+            "lines": [
+                "Still, even if you went all the way to Makai",
+                "to save that monk,"
+            ]
+        },
+        "338_0": {
+            "lines": [
+                "I'm surprised you'd break open one of those",
+                "imaginary UFOs and come chasing after me."
+            ]
+        },
+        "346_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "354_0": {
+            "lines": [
+                "I thought the nue had the head of a monkey, the body of a racoon dog,",
+                "and the tail of a snake?"
+            ]
+        },
+        "362_0": {
+            "lines": [
+                "Well, you yourself said it, right?",
+                "Nobody knows what I really look like."
+            ]
+        },
+        "370_0": {
+            "lines": [
+                "Oh yeah, I did."
+            ]
+        },
+        "378_0": {
+            "lines": [
+                "So why would people know what I look like?"
+            ]
+        },
+        "386_0": {
+            "lines": [
+                "Well, there's an old legend..."
+            ]
+        },
+        "394_0": {
+            "lines": [
+                "I hardly ever show my true form to humans."
+            ]
+        },
+        "402_0": {
+            "lines": [
+                "Because I know the most effective way of scaring humans",
+                "is to make sure they don't know what you really are."
+            ]
+        },
+        "410_0": {
+            "lines": [
+                "Too bad someone does now.",
+                "Me!"
+            ]
+        },
+        "418_0": {
+            "lines": [
+                "That's because you found me out by following",
+                "the Seed of Unknown Form hidden in the Soaring Vault."
+            ]
+        },
+        "426_0": {
+            "lines": [
+                "I was just thinking...",
+                "I'd better do something before you hurt my true form."
+            ]
+        },
+        "434_0": {
+            "lines": [
+                "Hm, you wanna go?"
+            ]
+        },
+        "442_0": {
+            "lines": [
+                "I'll ask you all about what the UFOs really are",
+                "after I beat you!"
+            ]
+        },
+        "450_0": {
+            "lines": [
+                "You human who's given up imagination for knowledge!",
+                "Die from the terror of this unidentified flying object!!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "I-I can't believe I lost to such an unidentifiable human!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Oh, looks like you were the one",
+                "who's afraid of the unknown."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, what are you after?",
+                "Are you going to lock me away again?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Lock you away?",
+                "Nah, not my style."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'm more interested in these UFOs.",
+                "Apparently Byakuren didn't see them as UFOs, though."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "What the heck are they,",
+                "then?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "They're fragments of the flying silo",
+                "that have the Seed of Unknown Form stuck in them."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "The seed denies the object's true nature."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "It's a part of me that makes the observer recognize it",
+                "as something else they've seen before instead."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "What's that mean?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "When you saw an unfamiliar flying object,",
+                "you thought it was a flying saucer."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "So, you just thought it was a UFO."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Oh, really?",
+                "I really believed that UFOs were coming to Earth."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Such a mind would naturally see a UFO."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Some people see pieces of wood, some see birds or monsters.",
+                "There may even be people who saw them as danmaku."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "So why did you do that?"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "I wanted to mess with Murasa's efforts.",
+                "I thought I'd confuse them and make them fail."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "But when you came into the picture,",
+                "all the pieces of the silo were assembled."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I ended up just getting you interested instead.",
+                "That's why I helped you out, too."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "You helped me out?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Well, in the end, it just ended up with you",
+                "beating me like this."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Now, human!",
+                "Boil me! Bake me alive! Do anything you wish!"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Oh, but please, just don't seal me underground again."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Boil you? Bake you?",
+                "Bleh, I'm not gonna eat you."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Well, that was fun, but I guess",
+                "I should be going soon."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "But, in return, will you let me have some of those",
+                "Seeds of Unknown Form or whatever?"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Eeh?",
+                "Well, I suppose..."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Yes! Wait, it's not a snake?",
+                "It's a glowing orb, huh?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "I was sure",
+                "this seed was a snake when it was inside the UFO."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Don't worry, it's the same thing."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "It's changed shapes for you now that",
+                "you know it's the Seed of Unknown Form."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Huh.",
+                "That's really interesting."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Maybe I'll keep the reality behind the UFOs",
+                "a secret from Reimu for now."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "I think I can have some fun playing with",
+                "this Seed of Unknown Form for a while."
+            ]
+        }
+    }
+}
