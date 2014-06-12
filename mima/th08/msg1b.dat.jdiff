@@ -1,0 +1,107 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ah, the moon is beautiful tonight."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "What? Does it seriously look like that to you?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hmph. It's beautiful, isn't it?",
+                "What do ya call a moon like this? The matsuyoi?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I envy your carefree manner. If I could've enjoyed",
+                "moon watching, and hadn't been short of hands..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'd never have taken you with me tonight."
+            ]
+        },
+        "64_1": {
+            "lines": [
+                "It's a waste not to enjoy a moonlit night, isn't it?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Right? You two?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Totally enjoying it. 'Least, I am."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Well, I'm enjoying myself, too!",
+                "At least more than you, Marisa."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Didn't you just say something completely different?"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Of course not.",
+                "What I'm enjoying isn't the moon-watching, it's the—"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Firefly-watching, right?"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Almost, but not quite. Very perceptive of you, though."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "...C'mon, I'll shoot first if you don't!"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "It's more like firefly-HUNTING."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "You realize firefly-hunting is about",
+                "catching them, not beating them up, right?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I wanted to catch it, but you went and",
+                "squished it!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Geez, this is lame..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Don't get me wrong— all I did was dodge it."
+            ]
+        }
+    }
+}

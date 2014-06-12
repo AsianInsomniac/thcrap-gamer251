@@ -2,18 +2,18 @@
     "0": {
         "34_0": {
             "lines": [
-                "Well, I think I get it."
+                "I don't get it."
             ]
         },
         "42_0": {
             "lines": [
-                "There's nothing on this ship."
+                "There's nothing on this ship. What was Marisa thinking?"
             ]
         },
         "50_0": {
             "lines": [
-                "So, I guess I'll just have to take this flying treasure",
-                "or whatever home and study it."
+                "Well, I'll just take these fragments and leave it at that.",
+                "Doesn't make up for the trouble I had with these people, though..."
             ]
         },
         "58_0": {
@@ -23,31 +23,32 @@
         },
         "130_0": {
             "lines": [
-                "A human...?",
-                "Or have you also given up your humanity?"
+                "A fellow ghost...?",
+                "What could someone like you be doing here?"
             ]
         },
         "138_0": {
             "lines": [
-                "......A youkai?",
-                "What <i$is> this ship, anyway?"
+                "Ghost? Ah, whatever. (Yeah, sure, I'm dead. What's the big deal?)",
+                "You look like you are in charge of this place."
             ]
         },
         "146_0": {
             "lines": [
-                "Oh, it looks like you've got something nice."
+                "That's right. I'm the captain of this ship~",
+				"Looks like you brought something nice!"
             ]
         },
         "154_0": {
             "lines": [
-                "Hm?",
-                "So, you're interested in this?"
+                "So you're interested in this?",
+                "I take it you're affiliated with the cloud girl and mouse as well?"
             ]
         },
         "162_0": {
             "lines": [
-                "Yes, as long as we have that,",
-                "we can turn this ship toward its destination."
+                "Ah, yes, Ichirin and Nazrin.",
+                "But you've brought what was missing so we can depart for our destination."
             ]
         },
         "170_0": {
@@ -57,119 +58,117 @@
         },
         "178_0": {
             "lines": [
-                "Oh, where are my manners?",
-                "I'm Murasa, the captain of this holy palanquin."
+                "Oh, you wouldn't know, right?",
+                "I'm Murasa Minamitsu, captain of the Holy Palanquin."
             ]
         },
         "186_0": {
             "lines": [
-                "This ship is bound for Hokkai,",
-                "the world where Hijiri is imprisoned."
+                "This ship's going to Hokkai,",
+                "where Hijiri is imprisoned."
             ]
         },
         "194_0": {
             "lines": [
-                "Did you say Hokkai?",
-                "The heck's that?"
+                "Hokkai? As in Makai?",
+                "Who would be imprisoned in that wasteland?"
             ]
         },
         "202_0": {
             "lines": [
-                "A corner of the infinite area of Makai.",
-                "That's where Hijiri was sealed away."
+                "Wasteland? Have you already been there before?",
+                "Our beloved Hijiri has been sealed there and we're going to free her."
             ]
         },
         "210_0": {
             "lines": [
-                "Makai..."
+                "Haa, old times..."
             ]
         },
         "218_0": {
             "lines": [
-                "Are you afraid now?"
+                "Getting nostalgic?"
             ]
         },
         "226_0": {
             "lines": [
-                "No, I want to go to Makai.",
-                "As a magician."
+                "What would know? Just go start the ship already.",
+                "I'm genuinely interested in this matter."
             ]
         },
         "234_0": {
             "lines": [
-                "Magician?",
-                "Hm, aren't you human?"
+                "Oho, that's great.",
+                "We're already on our way, as we speak."
             ]
         },
         "242_0": {
             "lines": [
-                "Well...",
-                "Well, anyway, mind taking me along?"
+                "Good.",
+                "How long until we arrive?"
             ]
         },
         "250_0": {
             "lines": [
-                "Hehe, unfortunately we can't bring",
-                "powerless passengers with us."
+                "Who said I'd be taking you with me?"
             ]
         },
         "258_0": {
             "lines": [
-                "Now, leave the treasure here and return back to earth!"
+                "Leave the fragments and return to where you came from!"
             ]
         }
     },
     "1": {
         "30_0": {
             "lines": [
-                "You're strong...",
-                "Oh well, I suppose we'll let you board."
+                "So strong...",
+                "Ah, whatever. Just ride along."
             ]
         },
         "38_0": {
             "lines": [
-                "Uh, I'm already on board."
+                "I would have, anyway."
             ]
         },
         "46_0": {
             "lines": [
-                "So, Makai... You said we're going to Hokkai,",
-                "so if I ride along, I'll get there, right?"
+                "So, Makai... I've never been to Hokkai, only to its capital.",
+                "Went really downhill after my visit though. Heh."
             ]
         },
         "54_0": {
             "lines": [
-                "Yes, since you brought the treasure,",
-                "we're already under way."
+                "You seem awfully excited about this for the wrong reasons...",
+                "There's no stopping now, we're already underway."
             ]
         },
         "62_0": {
             "lines": [
-                "The miasma usually makes it impossible to go there,",
-                "but lots of interesting things have fallen into Makai."
+                "The Miasma prevents humans from entering,",
+                "and many interesting things have entered Makai."
             ]
         },
         "70_0": {
             "lines": [
-                "I guess this time I'll just bear it and",
-                "go collect lots of rare items!"
+                "I wonder what it looks like after all this time..."
             ]
         },
         "78_0": {
             "lines": [
-                "By the way, this ship is a one-way liner."
+                "Oh, by the way: This is a one-way trip."
             ]
         },
         "86_0": {
             "lines": [
-                "We're not planning on leaving Makai...",
-                "Is that okay?"
+                "We're not planning on leaving Makai.",
+                "That's alright with you, ya?"
             ]
         },
         "94_0": {
             "lines": [
-                "Wait, hang on!",
-                "Stop the boat!"
+                "Huh? Yeah.",
+                "I can get in and out there on my own. What did you think?"
             ]
         }
     }

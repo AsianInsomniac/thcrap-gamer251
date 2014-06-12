@@ -1,0 +1,151 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Wait, waaaait!"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Ahh?"
+            ]
+        },
+        "60_2": {
+            "lines": [
+                "Where are you going this late at night?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "It's my annual Youkai Extermination Month.",
+                "I'll go wherever youkai live."
+            ]
+        },
+        "63_1": {
+            "lines": [
+                "Wait, what?",
+                "Are you picking a fight with me?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Marisa's Youkai Extermination? That's hilarious."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh?",
+                "Don't you know how awesome I am at that?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "After I've fired my magicannon, there are no humans left,",
+                "let alone youkai."
+            ]
+        },
+        "67_1": {
+            "lines": [
+                "You, human..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Don't you have any idea who I am?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Ahh?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "There's no human that doesn't fear me on night roads."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "If I wanted, I could call enough youkai here to eradicate",
+                "every human in this land."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "...hmph. What does this night sparrow think she's saying?"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Hahaha~"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Looks like you still don't get who I am."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Human?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Human."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Human all the way."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, yea."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Alright?",
+                "Starting tonight, you two..."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Will never again see in the dark!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ah, I can see clearly.",
+                "I can do just fine in any darkness!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "For goodness' sake!",
+                "We've got no time to waste on such small fry!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But where are we heading, anyway?",
+                "There's no way there are any enemies in that direction."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I feel a strange air from over this way, though."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "There's only humans over that way.",
+                "All innocent, much like myself."
+            ]
+        }
+    }
+}

@@ -2,94 +2,94 @@
     "2": {
         "30_0": {
             "lines": [
-                "Hmm?",
-                "So you came to Makai, too?"
+                "Ah, you again, Miss Ghost.",
+                "You came here too?"
             ]
         },
         "38_0": {
             "lines": [
-                "Hmm? It's that mouse from before.",
-                "I knew I could smell treasure in Makai."
+                "You're that mouse I've met earlier.",
+                "Haven't you had enough?"
             ]
         },
         "46_0": {
             "lines": [
-                "I've already found my treasure."
+                "I've found what I was looking for."
             ]
         },
         "54_0": {
             "lines": [
-                "What? No fair, the barrier was holding me back",
-                "so I couldn't get far into Makai."
+                "So? What does that have to do with me?",
+                "You're going to \"take revenge\" for me beating you up for insulting me?"
             ]
         },
         "62_0": {
             "lines": [
-                "No, I wasn't looking for something from Makai.",
+                "Still bitter about that? You might turn into a vengeful spirit at this rate~",
                 "It's this jeweled pagoda, shining with the light of Buddha."
             ]
         },
         "70_0": {
             "lines": [
-                "Perfect timing.",
-                "I'll test this treasure out on you."
+                "I've found this jeweled pagoda, shining with Buddha's light.",
+                "And since you're here again, I'll test it out on you."
             ]
         }
     },
     "0": {
         "34_0": {
             "lines": [
-                "Hmmm."
+                "Now that I'm back in Makai,"
             ]
         },
         "42_0": {
             "lines": [
-                "Hey, hey. It's great that I've gotten thru Makai,",
-                "but I can't get any farther down, can I?"
+                "it's a little disappointing to see this encompassing seal",
+                "that is blocking my way further in."
             ]
         },
         "50_0": {
             "lines": [
-                "What's that?",
-                "I don't understand this seal at all."
+                "Just what is this? It does not seem to be of purely magical nature.",
+                "There are divine powers at work here."
             ]
         },
         "58_0": {
             "lines": [
-                "I'll never be able to get",
-                "any treasure or anything else at this rate."
+                "Didn't they talk about a seal or something?",
+                "Could this be what they meant?"
             ]
         },
         "66_0": {
             "lines": [
-                "You're the human who gathered the flying treasure, yes?"
+                "You're the one who gathered the treasure fragments for us, yes?"
             ]
         },
         "138_0": {
             "lines": [
-                "Now, let us begin."
+                "We shall begin, then."
             ]
         },
         "146_0": {
             "lines": [
-                "Hmm? Do you know",
-                "how I can get in here?"
+                "I did collect them.",
+                "They are supposedly used to dispel some seal."
             ]
         },
         "154_0": {
             "lines": [
-                "Yes, I do.",
-                "That's why you brought that, right?"
+                "That is what we will be using them for, right.",
+                "Now hand them over to me so that I may begin with the unsealing."
             ]
         },
         "162_0": {
             "lines": [
-                "Those fragments of the Soaring Vault."
+                "Those fragments are of no other use, anyway."
             ]
         },
         "170_0": {
             "lines": [
-                "Mm? Oh, uh, yeah."
+                "Well, fine. Then start your show."
             ]
         },
         "178_0": {
@@ -112,121 +112,123 @@
         },
         "202_0": {
             "lines": [
-                "Oho, so, if you break this seal,",
-                "then something will come out, right?"
+                "So once you break the seal,",
+                "\"she\" will come out, right?"
             ]
         },
         "210_0": {
             "lines": [
-                "Hm? You gathered all the treasure",
-                "without even knowing that?"
+                "That is correct.",
+                "That is why you've gathered the fragments for, right?"
             ]
         },
         "218_0": {
             "lines": [
-                "Oh, no, uh,",
-                "I guess I just kinda forgot."
+                "Yeah, sure.",
+                "I went on a journey to gather these fragments, hmm."
             ]
         },
         "226_0": {
             "lines": [
-                "Hm, from the looks of it,",
-                "I'd say you never knew."
+                "You seem sort of shady, you know?",
+                "Like you are not actually on our side..."
             ]
         },
         "234_0": {
             "lines": [
-                "Tee hee."
+                "Oh, really? You think so? Preposterous!"
             ]
         },
         "242_0": {
             "lines": [
-                "What led you here may be the power",
-                "of the treasure that Hijiri left."
+                "Are you making a fool out of me?",
+                "This is a serious affair!"
             ]
         },
         "250_0": {
             "lines": [
-                "However, you may be against her revival.",
-                "You may be just a simple enemy..."
+                "You were led here by the power of the treasure that",
+                "Hijiri left behind, and now you reveal yourself as our enemy!"
             ]
         },
         "258_0": {
             "lines": [
-                "No, no, I just",
-                "want to go down in there."
+                "I actually just wanted to look",
+                "into this ship and now all this..."
             ]
         },
         "266_0": {
             "lines": [
-                "Just a simple enemy..."
+                "Silence!"
             ]
         },
         "274_0": {
             "lines": [
-                "Still, even if you are an enemy,",
-                "there's no denying that you were chosen by the treasure."
+                "You are but a simple enemy trying",
+                "to disrupt us in our noble cause!"
             ]
         },
         "282_0": {
             "lines": [
-                "However, if you've chosen to follow the wrong path–"
+                "You have chosen to follow the wrong path, so stand and fight!"
             ]
         },
         "290_0": {
             "lines": [
-                "Then I'll have you bow down",
-                "before this pagoda of Bishamonten!"
+                "I'll have you bow down",
+                "before the might of Bishamonten!"
             ]
         }
     },
     "1": {
         "30_0": {
             "lines": [
-                "So your path isn't a wrong one."
+                "This cannot be..."
             ]
         },
         "38_0": {
             "lines": [
-                "You're just sorry you lost."
+                "You are on a wrong path..."
             ]
         },
         "46_0": {
             "lines": [
-                "Now, let us prepare to lift the seal."
+                "You should not be able to overcome my conviction!"
             ]
         },
         "54_0": {
             "lines": [
-                "Y, yeah.",
-                "That's right."
+                "Oh, shut it.",
+                "Lift the seal already!"
             ]
         },
         "62_0": {
             "lines": [
-                "But first, there's something I wanna ask you."
+                "This is all happening so fast..."
             ]
         },
         "70_0": {
             "lines": [
-                "What happens when you lift this seal, anyway?"
+                "Listen. I mean you and your allies no harm. I promise.",
+				"I have no business with you."
             ]
         },
         "78_0": {
             "lines": [
-                "That's for Hijiri to worry about.",
-                "It's none of our concern."
+                "I didn't even know about you before I got pulled into this,",
+                "but now I want to see it to the end."
             ]
         },
         "86_0": {
             "lines": [
-                "Hm, maybe I messed something up here."
+                "You don't look trustworthy at all, but I can see what you are trying to say.",
+				"Even if you are against us, Hijiri will strike you down if necessary!"
             ]
         },
         "94_0": {
             "lines": [
-                "If things go south, I'll have no choice",
-                "but to take control of the situation."
+                "At long last I got through to her.",
+                "This Hijiri sure sounds like an interesting personality."
             ]
         }
     }

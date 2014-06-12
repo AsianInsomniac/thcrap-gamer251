@@ -1,0 +1,239 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Is it you? Are you the ones trying to",
+                "attack the village in the middle of this night?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Nahhh. We're just passing by.",
+                "Don't mind us."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hmph, I won't trust the words of a youkai."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'll make this night never have happened!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "What the heck are you?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "By that you mean,",
+                "\"Whoops, I gotta be somewhere else,\" right?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "I can't retreat any further now, as I expected."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Now, are you gonna surrender the humans to us?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Wait, wait, Marisa!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Who said we were gonna eat the humans?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hmph. To think that youkai would ",
+                "come as far as this village."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Is it because of that abnormal moon, after all?",
+                "They've only come here rarely before."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "No one's saying we're gonna eat them."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Anyway.",
+                "I'm in a real hurry!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "I don't know who you are, but we don't",
+                "have time to waste for any humans."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "You're mean."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "If you were just quietly passing by,",
+                "I wouldn't try to stop you."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "But you two are being just a little too noisy."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "See, she called you noisy, Marisa."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "That's because you're going all-out with your magic",
+                "even though it's the dead of the night."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "What are you sayin'? Magic's something you've",
+                "gotta cut loose with at night, y'know?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "The only things worth using secretly in the day",
+                "are cyanotypes and stuff like that."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "I felt an unpleasant feeling approaching,",
+                "so I sealed the village..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Seems I was right to do that."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I TOLD you!"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "No one's saying we're gonna attack the humans."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "(...Didn't you just say \"surrender the humans to us?\")"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Really, the only human I'm concerned with is you!"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Whatever you say, you dirty liar."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "I won't let a single one of your danmaku",
+                "touch the humans or history of this village!"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Marisa!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "I'm quite sure you haven't noticed yet,",
+                "but she isn't human."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "She's a half-beast!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "A half-beast that can't transform without the full moon",
+                "is just some human, really."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "You know you're a human too, right?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "If only it'd been a full moon tonight, I could've..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Oh, yeah.",
+                "We're trying to restore that full moon."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Yeah.",
+                "We said that to begin with, right?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Ahh?",
+                "What the? I never heard that."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "It seems to me like you know who's responsible for this."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Now, since I've won, you'll keep your promise",
+                "and tell us who it is."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "The promise being one we made just now."
+            ]
+        }
+    }
+}
