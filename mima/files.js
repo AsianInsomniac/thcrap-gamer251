@@ -182,7 +182,7 @@
 	"th12/loading/sig.png": 3059688809,
 	"th12/player/pl01/pl01.png": 3343667777,
 	"th12/player/pl01/pl01b.png": 1606243374,
-	"th12/st01_01a.msg.jdiff": 3275268444,
+	"th12/st01_01a.msg.jdiff": 3627335754,
 	"th12/st01_01b.msg.jdiff": 1239577495,
 	"th12/st02_01a.msg.jdiff": 2700123243,
 	"th12/st02_01b.msg.jdiff": 3253014168,
