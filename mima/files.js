@@ -164,7 +164,7 @@
 	"th10/loading/sig_r.png": 3527927137,
 	"th10/player/pl01/pl01.png": 1530013223,
 	"th10/title/sl_pl01.png": 1613685986,
-	"th10/title/weapon.png": 382644892,
+	"th10/title/weapon.png": 1884912680,
 	"th11/face/pl01/face_pl01an.png": 4193369170,
 	"th11/face/pl01/face_pl01dp.png": 641502556,
 	"th11/face/pl01/face_pl01hp.png": 789502312,
