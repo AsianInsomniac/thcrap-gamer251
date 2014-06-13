@@ -2,105 +2,106 @@
     "0": {
         "60_0": {
             "lines": [
-                "Ah, the moon is beautiful tonight."
+                "So where are we headed, miss Mima?"
             ]
         },
         "61_0": {
             "lines": [
-                "What? Does it seriously look like that to you?"
+                "The moon tonight is unsettling. It was a good idea to head out."
             ]
         },
         "62_0": {
             "lines": [
-                "Hmph. It's beautiful, isn't it?",
-                "What do ya call a moon like this? The matsuyoi?"
+                "We don't have a lead yet, so why not follow it?",
+                "We're not in a hurry after all."
             ]
         },
         "63_0": {
             "lines": [
-                "I envy your carefree manner. If I could've enjoyed",
-                "moon watching, and hadn't been short of hands..."
+                "That seems alright. But still, we should stay alert.",
+                "Who knows what runs around during this incident."
             ]
         },
         "64_0": {
             "lines": [
-                "I'd never have taken you with me tonight."
+                "But when all is said and done we should just enjoy ourselves on the way. ~"
             ]
         },
         "64_1": {
             "lines": [
-                "It's a waste not to enjoy a moonlit night, isn't it?"
+                "It's a good night to go out hunting."
             ]
         },
         "125_0": {
             "lines": [
-                "Right? You two?"
+                "What a strange pair I've sighted."
             ]
         },
         "126_0": {
             "lines": [
-                "Totally enjoying it. 'Least, I am."
+                "Maybe she has a lead, we could ask her about it."
             ]
         },
         "127_0": {
             "lines": [
-                "Well, I'm enjoying myself, too!",
-                "At least more than you, Marisa."
+                "By "asking" you're talking about shooting her down",
+                "and extorting the information, I suppose.
+"
             ]
         },
         "128_0": {
             "lines": [
-                "Didn't you just say something completely different?"
+                "Could you stop talking about me as if I wasn't here?"
             ]
         },
         "129_0": {
             "lines": [
-                "Of course not.",
-                "What I'm enjoying isn't the moon-watching, it's the—"
+                "But I suppose",
+                "that extorting some information would be nice. ~"
             ]
         },
         "130_0": {
             "lines": [
-                "Firefly-watching, right?"
+                "So, how about we try out "that"?."
             ]
         },
         "131_0": {
             "lines": [
-                "Almost, but not quite. Very perceptive of you, though."
+                "I'm sure we won't need to do "that". I mean, look at her."
             ]
         },
         "132_0": {
             "lines": [
-                "...C'mon, I'll shoot first if you don't!"
+                "Hey now, if you keep on talking then I'll shoot first!"
             ]
         },
         "133_0": {
             "lines": [
-                "It's more like firefly-HUNTING."
+                "We should conserve our energy for real enemies."
             ]
         }
     },
     "1": {
         "60_0": {
             "lines": [
-                "You realize firefly-hunting is about",
-                "catching them, not beating them up, right?"
+                "That didn't bring us anything at all.",
+                "But we just went out anyway."
             ]
         },
         "61_0": {
             "lines": [
-                "I wanted to catch it, but you went and",
-                "squished it!"
+                "What did you even mean by "that"?",
+                "I just went along with it."
             ]
         },
         "62_0": {
             "lines": [
-                "Geez, this is lame..."
+                "What? You didn't know, miss Mima?"
             ]
         },
         "63_0": {
             "lines": [
-                "Don't get me wrong— all I did was dodge it."
+                "I thought we were in synch enough by now to perform stylisch partner-attacks..."
             ]
         }
     }
