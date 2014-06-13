@@ -1,0 +1,309 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "You shouldn't be here yet."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "That's really inconsiderate,",
+                "I could barely finish my work!"
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "Were you perhaps getting ready for our arrival?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Are you saying they've already prepared the tea?",
+                "But that would be a bit backwards. We first punish them and then have tea. ~"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "What? Tea? ",
+                "What lunatics are you two?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I ask of you to leave or I'll have to apply force",
+                "We're busy now."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "It's too early for tea anyway.",
+                "So, you're behind the incident as I see from your behaviour."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "You have two options now. Either run away and lead us to your master",
+                "or stay here  and lead us to your master after receiving a major beating."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Incident?",
+                "You're talking about the earth-sealing spell I assume."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "If that is what's corrupting the moon,",
+                "then yes."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "I'd prefer the second option by the way.",
+                "So if you wish to flee don't expect me to not try and shoot you."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "We'll attack you now then. ~"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "You two are awfully well mannered",
+                "for what you're trying to do."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "I see you have found some intruders.",
+                "You know the procedure,"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "why haven't you thrown them out yet?"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Oh, the mastermind appears. ~",
+                "Reminds me of way back then."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Looks like this rabbit is her underling."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "What strange intruders. A ghost and a youkai."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Yes, it was I who cast the spell. It is the central part of our plan",
+                "and you will not disturb us."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Just leave us be for a little while longer",
+                "and all shall return to how you know it."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "What makes you think that our main reason",
+                "for going here was the incident?"
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "You're showing up at such a time with obviously antagonistic intentions,",
+                "it all just seemed like you would try to "resolve the incident"."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Udonge, I leave this to you."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Yes. Leave it to me. I will fight them until I die if necessary.",
+                "And they won't ever get through even one of these doors."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "So in the end you did choose the painful way.",
+                "Well, if you swing like that. ~"
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "So you're going to play with us.",
+                "I guess tonight is rabbit stew then."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "She doesn't really look all that delicious to me."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "Hehehe...",
+                "Don't you realize..."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "While we were talking,",
+                "I took the opportunity to finish what you interrupted."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "So?"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "I took away your sense of direction.",
+                "Wherever you try to go, you'll only end up where you started."
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "Isn't that a bit ineffective",
+                "in such a narrow corridor without optional ways?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "It's ineffective either way since she is right in front of us",
+                "and the spell will be lifted once she's done for. If not, we'll make her. ♥"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "Do not underestimate me.",
+                "And don't ignore me!"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "You will lose what is left of your sanity",
+                "after looking into my eyes!"
+            ]
+        }
+    },
+    "3": {
+        "180_0": {
+            "lines": [
+                "Go into the direction Eirin went (Final A)",
+                "Blast open doors until you can advance (Final B)"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Trying to induce madness using the power of the moon?",
+                "Clever, but that won't work on me."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "And I'm not sane to begin with. ♥",
+                "So, hop away little rabbit."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hop away",
+                "and lead us to your master."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Impossible. I was not supposed to be defeated here.",
+                "I have to run away, or I'm in for it!"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Huh, she deserted. That was unexpected."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Apparently someone here hasn't properly trained their pet."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "We'll just go into the direction that Doctor went.",
+                "If it doesn't work out we'll make a commotion until someone else comes."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Sounds like a valid plan."
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "Trying to induce madness using the power of the moon?",
+                "Clever, but that won't work on me."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "And I'm not sane to begin with. ♥",
+                "Let's leave her here"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "and also ignore the so called \"mastermind\".",
+                "There's someone else here of bigger importance."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "What?! How do you know about her?",
+                "Whatever the case, I can't let myself get seen after this blunder..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "So, they were talking about sealed doors.",
+                "Since it seemed to be her doing the illusion should be lifted now."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Apparently so.",
+                "We'll just open doors until we find the right one."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The leader of this bunch surely awaits us behind it."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "I wonder",
+                "who they've been hiding all this time. ~"
+            ]
+        }
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Who are you?",
+                "Trying to attack the village so late at night?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Trying?",
+                "Aren't we already in the middle of doing so?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Looks like it to me. ~?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I see what you are up to!",
+                "I won't let you do as you please!."
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Crap!",
+                "These Youkai are way too strong."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Do you really think so?",
+                "I'm flattered. Did you hear her, Mima? ~"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Leave this place and never return!"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "No. There is a flower shop here that I like to visit.",
+                "I even purposefully missed it the entire time."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "But there is not even anything around here.",
+                "Just move on already."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "What are you talking about?",
+                "We're right above the market place."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Are my abilities not working on you?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Obviously not, Were-Hakutaku."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "We've both witnessed the founding of this village",
+                "so you cannot hide its history from us to make us believe it never existed."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Ugh. So, what is it you want?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Restore the corrupted moon?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "That's just a side-goal."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Ri~ight."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "We've set out to see who corrupted the moon,",
+                "punish them a bit and maybe get some enjoyment out of it."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "But what does the village have to do with all of this?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "We're obviously not connected."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Eh, we passed by and thought that maybe there's someone interesting here.",
+                "Or someone with information on where the culprits are."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Sounds about right. Everyone we've met so far was disappointingly weak. ~"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Well, are you strong enough to entertain us for more than a minute?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "So you don't even know where to go?",
+                "What, will you just fly through all of Gensokyo beating up whoever you meet,"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "until you get the right person?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Hey, she's figured us out. How clever. ~"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "In the end it would be resolved by itself anyway."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "We wouldn't need to do so if you could point us in the right direction."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "That's enough of you two! Your history will be mine!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Including your deaths!"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Oh my, it seems we'll have to push her a little to spill the information. ~"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Don't you think",
+                "our history is a little much to consume for you?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "I think I suddenly have an idea about where we should go."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Oh, is that so?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Well, then it seems this halfbeast has exhausted its usefulness.",
+                "So, where to next then? The bamboo forest perhaps?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Yeah,",
+                "I was thinking about that as well."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "You would have been in for it",
+                "hadn't the moon been corrupted!"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "It's a bit late to run your mouth like this.",
+                "Just go back home and sleep like humans should do."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "There hasn't been an incident there yet,",
+                "so it seems plausible."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Then off we go,",
+                "on our righteous mission"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "to restore Gensokyou's full moon! ~"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "You make it sound like such a big deal."
+            ]
+        }
+    }
+}

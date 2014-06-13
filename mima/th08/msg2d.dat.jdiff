@@ -1,0 +1,130 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Wait, waaaait!!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Do you really want to pester us?"
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Isn't my song charming you at all?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Could it be you two aren't human?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "We're totally human. Why don't you eat us? I've heard I'm really delicious."
+            ]
+        },
+        "64_1": {
+            "lines": [
+                "Yep, totally human.",
+                "We're just a pair of humans"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "flying through the night, being up to nothing.",
+                "What humans normally do."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Do humans actually do such things...?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "You're not trying to trick me,",
+                "are you?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "We're not trying to trick you."
+            ]
+        },
+        "69_1": {
+            "lines": [
+                "We are just humans after all."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "We're blatantly telling lies to a gullible little bird. ~",
+                "Since we're not really not humans, what are going to do now?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Well, whether you're human, youkai",
+                "or whatever doesn't matter to me."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I'll envelop your senses in everlasting darkness!"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Do you think it will help you to do such a thing? ~"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I am the incarnation of darkness.",
+                "Your little tricks are useless against me."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "And even if it worked,",
+                "it's not like I needed to see you for beating you up."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "I won't let you pass!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "You've got to give her credit, she was a brave birdy.",
+                "Or was she foolish?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "hat is it with all these lowly youkai",
+                "trying to play around with darkness anyway?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "These weakling are boring. When do you think will the stronger ones show up?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "We could raid the human village. Maybe someone there can give us a good match."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Or point us into the direction of the cause of this incident."
+            ]
+        }
+    }
+}
