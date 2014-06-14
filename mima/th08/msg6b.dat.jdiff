@@ -85,7 +85,7 @@
         "130_0": {
             "lines": [
                 "You still have a lot to learn from your master, little human.",
-                "You were searching for the true moon and I've led you to this fake one."
+                "You were searching for the moon and I've led you to this fake."
             ]
         },
         "131_0": {
@@ -164,7 +164,7 @@
         },
         "144_0": {
             "lines": [
-                "is using the moons techniques",
+                "is using the moon's techniques",
                 "as if they were her own."
             ]
         },
@@ -176,8 +176,8 @@
         },
         "146_0": {
             "lines": [
-                "Nobody knows where I obtained my powers.",
-                "Have I hurt your pride by using magic you think of as being forbidden to us?"
+                "Nobody knows how I obtained my powers. Have I hurt your pride",
+                "by using magic you think of as being forbidden to us?"
             ]
         },
         "147_0": {
@@ -200,7 +200,7 @@
         },
         "150_0": {
             "lines": [
-                "But it was for naught, as I am already done with anyway.",
+                "But it was for naught, as I am already done anyway.",
                 "It will be returned in the morning as is nothing happened."
             ]
         },
@@ -240,7 +240,8 @@
         },
         "157_0": {
             "lines": [
-                "Oh, you thought I'd just take this lying down? You are as foolish as I thought!"
+                "Oh, you thought I'd just take this lying down?",
+				"You are just as foolish as I thought!"
             ]
         }
     },
@@ -252,7 +253,8 @@
         },
         "61_0": {
             "lines": [
-                "Eirin, you are not supposed to fail me! I grant you one more chance."
+                "Eirin, you are not supposed to fail me!",
+				"I grant you one more chance."
             ]
         },
         "62_0": {
