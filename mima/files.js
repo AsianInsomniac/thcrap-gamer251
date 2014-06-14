@@ -94,6 +94,7 @@
 	"th08/msg3d.dat.jdiff": 589751971,
 	"th08/msg4ab.dat": 1673139656,
 	"th08/msg4ab.dat.jdiff": 2723492408,
+	"th08/msg4ba.dat.jdiff": 1994624839,
 	"th08/msg4bd.dat": 1432508887,
 	"th08/msg4bd.dat.jdiff": 1815688460,
 	"th08/msg5b.dat": 2938059434,
