@@ -17,14 +17,14 @@
         },
         "63_0": {
             "lines": [
-                "I don't know either.",
-                "She looks like a small fry. Should I take her on alone, miss Mima?"
+                "I don't know either. She looks like a small fry.",
+                "Should I take her on alone, miss Mima?"
             ]
         },
         "63_1": {
             "lines": [
                 "Ke-he-he~",
-                "You shouldn't underestimate me~ ♪"
+                "You shouldn't underestimate me~"
             ]
         },
         "65_0": {
@@ -77,12 +77,12 @@
         },
         "73_0": {
             "lines": [
-                "Hehe"
+                "Of course, miss Mima."
             ]
         },
         "74_0": {
             "lines": [
-                "You think your minion can handle me?"
+                "But I won't let you down!"
             ]
         },
         "75_0": {
@@ -120,25 +120,26 @@
     "1": {
         "60_0": {
             "lines": [
-                "This darkness was a little intimidating.",
-                "But as long as we're working together, nothing can beat us, miss Mima. ♥"
+                "This darkness was a little intimidating. But as long as",
+                "we're working together, nothing can beat us, miss Mima."
             ]
         },
         "61_0": {
             "lines": [
-                "Yeah, yeah. Sure Marisa.",
-                "The human village is up ahead, someone there will surely give us directions."
+                "Yeah, yeah. Sure Marisa. The human village is up ahead,",
+                "someone there will surely give us directions."
             ]
         },
         "62_0": {
             "lines": [
-                "Humans are generally not awake during this time though, miss Mima.",
+                "Humans are sleeping during this time though, miss Mima.",
                 "There would be nothing to be gained from going there..."
             ]
         },
         "63_0": {
             "lines": [
-                "Do you not trust my decision-making? If nobody is awake we'll cause a commotion."
+                "Do you not trust my decision-making?",
+				"If nobody is awake we'll cause a commotion."
             ]
         },
         "64_0": {

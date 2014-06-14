@@ -7,7 +7,8 @@
         },
         "61_0": {
             "lines": [
-                "The moon tonight is unsettling. It was a good idea to head out."
+                "The moon tonight is unsettling.",
+				"It was a good idea to head out."
             ]
         },
         "62_0": {
@@ -24,7 +25,8 @@
         },
         "64_0": {
             "lines": [
-                "But when all is said and done we should just enjoy ourselves on the way. ~"
+                "But when all is said and done",
+				"we should just enjoy ourselves on the way. ~"
             ]
         },
         "64_1": {
@@ -100,7 +102,8 @@
         },
         "63_0": {
             "lines": [
-                "I thought we were in synch enough by now to perform stylisch partner-attacks..."
+                "I thought we were in synch enough by now",
+				"to perform stylisch partner-attacks..."
             ]
         }
     }
