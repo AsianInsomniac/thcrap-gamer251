@@ -25,7 +25,7 @@
 	"th08/data/face/st04b/face_st04b_dp.png": 2488619848,
 	"th08/data/face/st04b/face_st04b_ls.png": 3177116257,
 	"th08/data/face/st04b/face_st04b_n2.png": 3504467335,
-	"th08/data/face/st04b/face_st04b_name.png": 4163036979,
+	"th08/data/face/st04b/face_st04b_name.png": 2585674007,
 	"th08/data/face/st04b/face_st04b_no.png": 2339552450,
 	"th08/data/face/st04b/face_st04b_pr.png": 3219935338,
 	"th08/data/face/st04b/face_st04b_sw.png": 435100465,
