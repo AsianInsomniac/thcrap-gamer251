@@ -75,7 +75,7 @@
         },
         "129_0": {
             "lines": [
-                "But what would a human like this doing here at this hour anyway?",
+                "But what would a human be doing here at this hour anyway?",
                 "That is definitely weird."
             ]
         },
@@ -87,7 +87,7 @@
         "131_0": {
             "lines": [
                 "This is the place I'm living at, why wouldn't I be here?",
-                "It should be me who asks you what business you're having here."
+                "I should be asking you what business you're having here."
             ]
         },
         "132_0": {
@@ -103,7 +103,8 @@
         },
         "134_0": {
             "lines": [
-                "She either has forsaken her life or she is like that moon princess."
+                "She either has forsaken her life",
+				"or she is like that moon princess."
             ]
         },
         "135_0": {
@@ -149,12 +150,12 @@
         "142_0": {
             "lines": [
                 "It's kinda silly to try and murder an immortal.",
-                "You must have really pissed her off if she holds such a grudge against you."
+                "You must have really pissed her off to cause such strife."
             ]
         },
         "143_0": {
             "lines": [
-                "You're saying I pissed her off? It's more like the other way around.",
+                "You say I pissed her off? It's more like the other way around.",
                 "But since I can't die you should just give up."
             ]
         },
@@ -165,7 +166,7 @@
         },
         "145_0": {
             "lines": [
-                "and have an image to uphold. I'm also immortal enough as is I think.",
+                "and have an image to uphold. I'm also immortal enough as is.",
                 "It's not like anyone could beat me anyway."
             ]
         },
@@ -183,19 +184,19 @@
         },
         "148_0": {
             "lines": [
-                "Just believe me when I say I'm a god. Someone has to do the job",
-                "and nobody else is out there. Also I'm perfectly suited for that."
+                "Just believe me when I say I'm a god.",
+                "Someone has to do the job and nobody else is out there."
             ]
         },
         "149_0": {
             "lines": [
-                "Well, I'll just do something about this myself."
+                "Also I'm perfectly suited for that."
             ]
         },
         "150_0": {
             "lines": [
-                "I would never have thought something could frighten",
-                "the unshakable Lady Yuyuko."
+                "With my majestic, beautiful figure",
+                "and unmatchable, everlasting power. ~"
             ]
         },
         "151_0": {
@@ -224,12 +225,12 @@
         "155_0": {
             "lines": [
                 "It can be spread to another human",
-                "human by eating the immortal's liver."
+                "by eating the immortal's liver."
             ]
         },
         "156_0": {
             "lines": [
-                "Passing is on like that..."
+                "Passing it on like that..."
             ]
         },
         "157_0": {
@@ -290,7 +291,7 @@
         "167_0": {
             "lines": [
                 "She knew that she could not take it.",
-                "And yet she did only to fulfill her own needs."
+                "And yet she did, only to fulfill her own needs."
             ]
         },
         "168_0": {
@@ -313,14 +314,14 @@
         },
         "171_0": {
             "lines": [
-                "Only then did I realize that the only company I would have in this endless life",
+                "Only then did I realize that the only company I would have",
                 "would be that same person, leading the same endless life."
             ]
         },
         "172_0": {
             "lines": [
-                "I am chained to this decision, forever bound to one another. Since she sent you to me",
-                "I will send you right back to her. This eternal conflict is never to end!"
+                "I am chained to this decision. Since she sent you to me,",
+                "I will send you right back. This conflict is never to end!"
             ]
         }
     },
@@ -345,7 +346,7 @@
         },
         "63_0": {
             "lines": [
-                "And for someone such as her she possesses a rather fitting power.",
+                "And for someone such as her she possesses a fitting power.",
                 "An undying flame residing in an immortal human."
             ]
         },
@@ -357,8 +358,8 @@
         },
         "65_0": {
             "lines": [
-                "Youkai have sturdy bodies. Maybe you should look into becoming one.",
-                "Since you are already an existence that is more dependend on its soul than its form."
+                "We have sturdy bodies. You should look into becoming youkai.",
+                "Since you're already a being mostly dependent on its soul."
             ]
         },
         "66_0": {
@@ -369,7 +370,7 @@
         "67_0": {
             "lines": [
                 "A human that regenerates from anything is quite useful.",
-                "I can test how far I can go with your kind when it comes to shooting people. ~"
+                "I can test how far I can go when it comes to shooting people. ~"
             ]
         },
         "68_0": {
@@ -413,8 +414,8 @@
         },
         "75_0": {
             "lines": [
-                "Absolutely. We were just flying around, minding our own business,",
-                "attacking some people."
+                "Absolutely. We were just flying around,",
+                "minding our own business, attacking some people."
             ]
         },
         "76_0": {
@@ -424,7 +425,8 @@
         },
         "77_0": {
             "lines": [
-                "That doesn't sound so peaceful after all... But I guess I did attack first."
+                "That doesn't sound peaceful at all...",
+				"But I guess I did attack first."
             ]
         },
         "78_0": {
@@ -440,8 +442,8 @@
         },
         "80_0": {
             "lines": [
-                "I could bury you right here under a beautiful bed of scarlet flowers,",
-                "if you so wish."
+                "I could bury you right here under a beautiful bed",
+                "of scarlet flowers, if you so wish."
             ]
         },
         "81_0": {
@@ -452,7 +454,7 @@
         "82_0": {
             "lines": [
                 "I asked you to carry me home, not dig me a grave.",
-                "If you're going to do this you could just leave me lying here."
+                "If you're going to do this you can just leave me lying here."
             ]
         },
         "83_0": {
@@ -463,37 +465,37 @@
         },
         "84_0": {
             "lines": [
-                "Are you saying that you have a good reputation?",
-                "Aren't you already known as the evil spirit residing in the Hakurei Shrine?"
+                "Are you saying that you have a good reputation? Aren't you",
+                "already known as the evil spirit from the Hakurei Shrine?"
             ]
         },
         "85_0": {
             "lines": [
-                "Anyway. So in the end"
+                "Anyway. So in the end we were scammed by Kaguya."
             ]
         },
         "86_0": {
             "lines": [
-                "we were scammed by Kaguya.",
-                "She just wanted to tease her rival"
+                "She just wanted to tease her rival",
+                "but is too lazy to go out by herself to do it."
             ]
         },
         "87_0": {
             "lines": [
-                "but is too lazy to go out by herself to do it.",
-                "I realized it was just Kaguya tricking us."
+                "I realized it was just Kaguya tricking us.",
+                "I'd really like to return to her"
             ]
         },
         "88_0": {
             "lines": [
-                "I'd really like to return to her and give her my opinion on the matter.",
+                "and give her my opinion on the matter.",
                 "Trial of guts, hah."
             ]
         },
         "89_0": {
             "lines": [
-                "Go ahead, I've had enough for now.",
-                "I have to look after my flowers or people will think I've abandoned the field."
+                "Go ahead, I've had enough for now. I have to look after",
+                "my flowers or people will think I've abandoned the field."
             ]
         },
         "90_0": {
@@ -504,7 +506,8 @@
         },
         "91_0": {
             "lines": [
-                " I did, but I like moving with the seasons so I left it to Elly to watch over it."
+                "I did, but I like moving with the seasons",
+				"so I left it to Elly to watch over it."
             ]
         },
         "92_0": {
