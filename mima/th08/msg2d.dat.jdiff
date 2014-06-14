@@ -22,7 +22,7 @@
         },
         "64_0": {
             "lines": [
-                "We're totally human. Why don't you eat us? I've heard I'm really delicious."
+                "We're totally human. Eat us. I'm really delicious."
             ]
         },
         "64_1": {
@@ -60,8 +60,8 @@
         },
         "70_0": {
             "lines": [
-                "We're blatantly telling lies to a gullible little bird. ~",
-                "Since we're not really not humans, what are going to do now?"
+                "We're blatantly telling lies to a gullible little bird~",
+                "Since we're not humans, what are going to do now?"
             ]
         },
         "71_0": {
@@ -107,23 +107,23 @@
         },
         "61_0": {
             "lines": [
-                "hat is it with all these lowly youkai",
+                "What is it with all these lowly youkai",
                 "trying to play around with darkness anyway?"
             ]
         },
         "62_0": {
             "lines": [
-                "These weakling are boring. When do you think will the stronger ones show up?"
+                "When do you think will the stronger ones show up?"
             ]
         },
         "63_0": {
             "lines": [
-                "We could raid the human village. Maybe someone there can give us a good match."
+                "We could raid the human village~"
             ]
         },
         "64_0": {
             "lines": [
-                "Or point us into the direction of the cause of this incident."
+                "Find someone there to give us a good match, then."
             ]
         }
     }

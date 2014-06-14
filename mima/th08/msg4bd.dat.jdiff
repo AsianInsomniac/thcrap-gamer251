@@ -19,13 +19,14 @@
         },
         "122_0": {
             "lines": [
-                "Is it?",
-                "I always thought that I knew about everything and was surprised by nothing."
+                "Is it? I always thought that I knew about everything",
+                "and was surprised by nothing."
             ]
         },
         "123_0": {
             "lines": [
-                "Stop it now. How has this happened? There can be only of myself."
+                "Stop it now. How has this happened?",
+				"There can be only one of myself."
             ]
         },
         "124_0": {
@@ -36,8 +37,8 @@
         },
         "125_0": {
             "lines": [
-                "Who says that you are the real one?",
-                "Would I really waste your time tagging along with that youkai?"
+                "Who says that you are the real one? Would I",
+                "really waste your time tagging along with that youkai?"
             ]
         },
         "126_0": {
@@ -53,7 +54,8 @@
         },
         "128_0": {
             "lines": [
-                "Should I maybe hurt both of you until the real one reveals herself? ~"
+                "Should I maybe hurt both of you until the real one",
+				"reveals herself~?"
             ]
         },
         "129_0": {
@@ -68,8 +70,8 @@
         },
         "131_0": {
             "lines": [
-                "It would be an obvious move of mine now to claim that I'm the real one.",
-                "So I'll just skip that."
+                "It would be an obvious move of mine now to claim",
+                "that I'm the real one, so I'll just skip that."
             ]
         },
         "132_0": {
@@ -84,29 +86,30 @@
         },
         "134_0": {
             "lines": [
-                "A reflection fades should the original vanish,."
+                "A reflection fades should the original vanish."
             ]
         },
         "135_0": {
             "lines": [
-                "isn't it so? Reflections are nothing but foam and shadow.",
-                "Such things cannot stand up to the piercing lights of my magic."
+                "Reflections are nothing but foam and shadow.",
+                "Such things can't stand up to the light of my magic."
             ]
         },
         "136_0": {
             "lines": [
-                "That's a clever conclusion. If the reflection gets revealed it is gone."
+                "That's a clever conclusion.",
+				"If the reflection gets revealed it is gone."
             ]
         },
         "137_0": {
             "lines": [
-                "",
-                "If the real one is shot down it vanishes. Since you can regenerate,"
+                "If the real one is shot down it vanishes."
             ]
         },
         "138_0": {
             "lines": [
-                "whatever happens you win. It's time to drop the sharade and start the fight!"
+                "Since you can regenerate, whatever happens, you win.",
+				"It's time to drop the charade and start the fight!"
             ]
         },
         "139_0": {
@@ -125,14 +128,14 @@
     "2": {
         "60_0": {
             "lines": [
-                "She's running away.",
-                "I would never do such a thing. I'd never have a reason to run as well."
+                "She's running away. I'd never do such a thing",
+                "I'd never have a reason to run as well."
             ]
         },
         "61_0": {
             "lines": [
-                "We should give chase.",
-                "Something like that shouldn't be allowed to roam around freely."
+                "We should give chase. Something like that",
+                "shouldn't be allowed to roam around freely."
             ]
         }
     },
@@ -151,8 +154,8 @@
         },
         "62_0": {
             "lines": [
-                "Why wouldn't it. ~",
-                "If you cannot fight me alone then you do not deserve to exist."
+                "Why wouldn't it? If you can't fight me alone,",
+                "then you do not deserve to exist."
             ]
         }
     },
@@ -170,14 +173,14 @@
         },
         "62_0": {
             "lines": [
-                "Ahh, I'm defeated! Now I will vanish back into the light that created me!",
-                "Goodbye, cruel world!"
+                "Ah, I'm defeated! Now I will vanish back into the light",
+                "that created me! Goodbye, cruel world!"
             ]
         },
         "63_0": {
             "lines": [
-                "Where'd she take that from? I never knew you had a theatrical side.",
-                "At least she put up a proper fight."
+                "Where'd she take that from? I never knew you had a",
+                "theatrical side. At least she put up a proper fight."
             ]
         },
         "64_0": {
@@ -188,14 +191,14 @@
         },
         "65_0": {
             "lines": [
-                "That mansion",
-                "hidden deep within the bamboo forest is definitely suspicious."
+                "That mansion hidden deep within",
+                "the bamboo forest is definitely suspicious."
             ]
         },
         "66_0": {
             "lines": [
                 "And if nothing else,",
-                "we get to beat up some more people. ~"
+                "we get to beat up some more people~!"
             ]
         }
     }
