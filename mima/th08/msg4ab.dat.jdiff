@@ -37,7 +37,7 @@
         "124_0": {
             "lines": [
                 "We never said anything of the sorts...",
-                "Don't you just want this to end so you can laze around again?"
+                "You just want this to end so you can laze around again. ~"
             ]
         },
         "125_0": {
@@ -88,7 +88,8 @@
         },
         "133_0": {
             "lines": [
-                "I bet you were behind the corruption of the moon as well! Just perfect!"
+                "I bet you were behind the corruption of the moon as well!",
+				"Just perfect!"
             ]
         },
         "134_0": {
@@ -104,8 +105,8 @@
         },
         "136_0": {
             "lines": [
-                "You're right, miss Mima!",
-                "She needs some punishment now to get her off of her high horse!"
+                "You're right, miss Mima! She needs some punishment now",
+                "to get her off of her high horse!"
             ]
         },
         "137_0": {
@@ -181,7 +182,8 @@
     "1": {
         "60_0": {
             "lines": [
-                "It was stupid of you to try and go up against even one of us."
+                "It was stupid of you to try",
+				"and go up against even one of us."
             ]
         },
         "61_0": {
@@ -191,13 +193,14 @@
         },
         "62_0": {
             "lines": [
-                "Did I? I was just randomly flying into the forest...",
-                "Don't get yourself killed though! Or... whatever could happen to you, Mima."
+                "I was just randomly flying around... Don't get yourself killed though!",
+                "Or... whatever could happen to you, Mima."
             ]
         },
         "63_0": {
             "lines": [
-                "Oh, and did you really think you could solve the incident at this early stage?"
+                "Oh, and did you really think",
+				"you could solve the incident at this early stage?"
             ]
         },
         "64_0": {

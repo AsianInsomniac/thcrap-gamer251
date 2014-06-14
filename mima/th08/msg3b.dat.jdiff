@@ -39,7 +39,8 @@
     "0": {
         "60_0": {
             "lines": [
-                "Hmm, that's the end of the line. I'll have to take you down here!"
+                "Hmm, that's the end of the line.",
+				"I'll have to take you down here!"
             ]
         },
         "60_1": {
@@ -54,7 +55,8 @@
         },
         "62_0": {
             "lines": [
-                "And you should work on your threats. \"something really scary\" is rather unimpressive."
+                "And you should work on your threats.",
+				"\"something really scary\" is rather unimpressive."
             ]
         },
         "63_0": {
@@ -65,13 +67,14 @@
         },
         "64_0": {
             "lines": [
-                "Ever since the moon got corrupted everything went awry",
+                "Ever since the moon got corrupted everything went awry.",
                 "You will not get your way with me around!"
             ]
         },
         "65_0": {
             "lines": [
-                "What should we do now, miss Mima? I'd feel bad for beating her up."
+                "What should we do now, miss Mima?",
+				"I'd feel bad for beating her up."
             ]
         },
         "66_0": {
@@ -148,12 +151,14 @@
         },
         "79_0": {
             "lines": [
-                "It is visible to me just fine. She's a Hakutaku, able to alter history."
+                "It is visible to me just fine.",
+				"She's a Hakutaku, able to alter history."
             ]
         },
         "80_0": {
             "lines": [
-                "So that's what she did. She made it seem like there never was a village. Clever."
+                "So that's what she did.",
+				"She made it seem like there never was a village. Clever."
             ]
         },
         "81_0": {
@@ -209,19 +214,20 @@
         },
         "64_0": {
             "lines": [
-                "Right.",
-                "It is a righteous voyage to restore peace to the people. Something like that."
+                "Right. It's a righteous voyage to restore peace to the people.",
+                "Something like that."
             ]
         },
         "65_0": {
             "lines": [
-                "You sure didn't look like you were doing something of the sort.",
+                "You sure didn't look like you were this kind of thing.",
                 "But if that's the case, you should look in that direction."
             ]
         },
         "66_0": {
             "lines": [
-                "How nice. It would've been easier for you had you said that from the beginning."
+                "How nice. It would've been easier for you",
+				"had you said that from the beginning."
             ]
         },
         "67_0": {
