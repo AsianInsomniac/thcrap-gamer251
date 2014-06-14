@@ -101,7 +101,7 @@
         },
         "135_0": {
             "lines": [
-                "It's also not actually hidden "here".",
+                "It's also not actually hidden \"here\".",
                 "This is more like a magnifying glass so to speak."
             ]
         },
