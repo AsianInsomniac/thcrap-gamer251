@@ -257,7 +257,7 @@
 	"th12/st07_01b.msg.jdiff": 1133400319,
 	"th12/title/result00.png": 3110057365,
 	"th12/title/sl_plname.png": 2573265873,
-	"th12/title/weapon.png": 283722665,
+	"th12/title/weapon.png": 248464928,
 	"th12/title/weapon_01a.png": 1974872391,
 	"th12/title/weapon_01b.png": 842115935,
 	"th12/title/weapon_ex01a.png": 1004841746,
