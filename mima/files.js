@@ -244,7 +244,7 @@
 	"th12/st03_01a.msg.jdiff": 3873804887,
 	"th12/st03_01b.msg.jdiff": 3059131374,
 	"th12/st04_01a.msg": 585964639,
-	"th12/st04_01a.msg.jdiff": 2769254441,
+	"th12/st04_01a.msg.jdiff": 703574973,
 	"th12/st04_01b.msg.jdiff": 861495128,
 	"th12/st05_01a.msg": 1818868226,
 	"th12/st05_01a.msg.jdiff": 3210590124,
