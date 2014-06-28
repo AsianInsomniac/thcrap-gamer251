@@ -2,98 +2,98 @@
     "0": {
         "34_0": {
             "lines": [
-                "Hey, hey, this is turning out to be pretty amazing."
+                "This ship seems to be what's",
+				"radiating all this energy."
             ]
         },
         "42_0": {
             "lines": [
-                "It looks like that ship has",
-                "come out to try to find me!"
+                "I'll have to follow it!"
             ]
         },
         "50_0": {
             "lines": [
                 "No, no.",
-                "It's not looking for you."
+                "That ship's none of your business."
             ]
         },
         "122_0": {
             "lines": [
-                "It just brought me here, is all."
+                "Just go somewhere else.",
+				"It will bring you no good."
             ]
         },
         "130_0": {
             "lines": [
-                "What's this?",
-                "A mouse? Hey, I just saw you, too."
+                "This makes it even more suspicious.",
+                "You look like you're searching for something."
             ]
         },
         "138_0": {
             "lines": [
-                "I'm just looking for a little something.",
-                "I came down because I picked up on a treasure response."
+                "I certainly am looking for something.",
+                "But not in this area, it seems."
             ]
         },
         "146_0": {
             "lines": [
-                "Anyway, it looks like it was just reacting to you.",
-                "What a let-down."
+                "I'm not getting any responses here.",
+                "How sad..."
             ]
         },
         "154_0": {
             "lines": [
-                "A mouse from a ship...",
-                "Don't tell me you've eaten thru all the food supply already!"
+                "So you're from the ship.",
+                "You won't tell me anything, correct?"
             ]
         },
         "162_0": {
             "lines": [
-                "That's not really a ship.",
-                "Well, maybe it looks like one."
+                "A smart one, aren't we?",
+                "You've got that right."
             ]
         },
         "170_0": {
             "lines": [
-                "It sure does.",
-                "I have good eyes, you know."
+                "This is dragging on longer than usual..."
             ]
         },
         "178_0": {
             "lines": [
-                "Alright now, human.",
-                "I've got some work to do, so..."
+                "When I normally head out for this kind of thing,",
+                "I don't meet anyone affiliated so soon."
             ]
         },
         "186_0": {
             "lines": [
-                "You're not getting away!",
-                "If I let you get away, something bad will happen!"
+                "Alright, enough chit-chat.",
+                "I've got work to do, so..."
             ]
         },
         "194_0": {
             "lines": [
-                "I don't really want to fight you, but...",
-                "Oh, well."
+                "Looks like none of us is going to back down.",
+                "Prepare yourself for some major pain~"
             ]
         }
     },
     "1": {
         "30_0": {
             "lines": [
-                "Now!",
-                "Tell me who you are!"
+                "You've had enough?",
+                "There's lots more where that came from!"
             ]
         },
         "38_0": {
             "lines": [
-                "...wait, what?",
-                "Did she run away?"
+                "My magic seems to flow pretty well today~",
+                "Huh? She's gone..."
             ]
         },
         "46_0": {
             "lines": [
-                "She's a pretty fast mouse.",
-                "Well, she's a mouse, after all."
+                "Ran away, probably.",
+                "Like the rat she is~"
             ]
         }
     }
