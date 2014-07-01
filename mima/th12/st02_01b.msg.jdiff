@@ -2,119 +2,125 @@
     "0": {
         "68_0": {
             "lines": [
-                "Please wait just a minute~"
+                "Please wait up~!"
             ]
         },
         "76_0": {
             "lines": [
-                "Where are you going in such a hurry?"
+                "Why are you hurrying so much?"
             ]
         },
         "84_0": {
             "lines": [
-                "Hey, I just ran into you, didn't I?"
+                "We've just met shortly ago.",
+				"What do you want?"
             ]
         },
         "92_0": {
             "lines": [
-                "It kinda makes it look like",
-                "I'm chasing you."
+                "If you want more punishment,",
+                "then I'm not the right person."
             ]
         },
         "100_0": {
             "lines": [
-                "I'll leave that to you!"
+                "Where'd that come from...",
+				"I just want to..."
             ]
         },
         "108_0": {
             "lines": [
-                "Well, what is it?",
-                "What do you want with someone busy as me? A job?"
+                "Well? Out with it.",
+                "What could you want to steal my time with?"
             ]
         },
         "116_0": {
             "lines": [
-                "Well, uh, I've been really bored lately, and..."
+                "Well, uh. You look like an expert, you know?"
             ]
         },
         "124_0": {
             "lines": [
-                "Oho, are you bragging?",
-                "Since I'm really busy..."
+                "An expert in what?",
+                "Express yourself in a clear manner."
             ]
         },
         "132_0": {
             "lines": [
-                "Even if I try to startle humans, no one's ever surprised.",
-                "It's so boring."
+                "I try to terrify and startle humans over and over",
+                "again but it doesn't work. So depressing..."
             ]
         },
         "140_0": {
             "lines": [
-                "Nobody would be surprised by a monster umbrella."
+                "Oh great. A depressed purple umbrella youkai."
             ]
         },
         "148_0": {
             "lines": [
-                "A normal umbrella blown around by the wind would be scarier.",
-                "It might run into you."
+                "So you want to scare people, right?",
+                "Try force. You look pretty scared right now~"
             ]
         },
         "156_0": {
             "lines": [
-                "I see!",
-                "Bumping into people surprises them?!"
+                "Is that so?",
+                "I'll just have to overwhelm them with my power?"
             ]
         },
         "164_0": {
             "lines": [
-                "Uh, no, that's not what I..."
+                "Yes, but that could be difficult for someone",
+				"like you."
             ]
         },
         "172_0": {
             "lines": [
-                "I'll smash you up, boooo!"
+                "I'll smash you!",
+				"OoooOOOoooo!!"
             ]
         }
     },
     "1": {
         "30_0": {
             "lines": [
-                "You smashed me up..."
+                "Aww, it didn't work.",
+				"What to do now?"
             ]
         },
         "38_0": {
             "lines": [
-                "Karakasa ghosts are really soft",
-                "compared to normal umbrellas."
+                "I'm not easily scared, y'know.",
+                "You have to pick on weaker people."
             ]
         },
         "46_0": {
             "lines": [
-                "Huh?",
-                "Shouldn't that make you harder to break, though?"
+                "Try breaking into houses at night and scaring",
+                "little children."
             ]
         },
         "54_0": {
             "lines": [
-                "Soft ...",
-                "Oh, like konjac jelly!"
+                "But isn't that against the law or something?"
             ]
         },
         "62_0": {
             "lines": [
-                "Hm?"
+                "Why would you care? You're a youkai.",
+				"Humans' law does not concern you."
             ]
         },
         "70_0": {
             "lines": [
-                "I can use konjac jelly to surprise humans!",
-                "It's perfect!"
+                "If it's like that then why not. Thanks for",
+                "the advice, miss ghost! I won't forget it!"
             ]
         },
         "78_0": {
             "lines": [
-                "...This youkai's really behind the times."
+                "Hehe. I doubt she'll be able to pull",
+				"something like that off."
             ]
         }
     }
