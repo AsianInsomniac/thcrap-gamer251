@@ -204,7 +204,7 @@
 	"th10/player/pl01/pl01.png": 1530013223,
 	"th10/title/sl_pl01.png": 2852854759,
 	"th10/title/weapon.png": 1112858717,
-	"th11/bullet/etama.png": 3109276345,
+	"th11/bullet/etama.png": 3551563174,
 	"th11/bullet/etama2.png": 1145243622,
 	"th11/face/pl01/face_pl01an.png": 2349478386,
 	"th11/face/pl01/face_pl01dp.png": 641502556,

@@ -2,167 +2,168 @@
     "2": {
         "30_0": {
             "lines": [
-                "Humans, fairies, and all, everyone seems to be ",
-                "after this ship... are they after the treasure room?"
+                "What a commotion... who would think such ",
+                "a strange crowd would be after the treasury?"
             ]
         },
         "38_0": {
             "lines": [
-                "A treasury?",
-                "Why's a treasury flying in the sky?"
+                "Hey, you!",
+                "Do you belong to the ship's crew?"
             ]
         },
         "46_0": {
             "lines": [
-                "Well, no point in arguing!",
-                "I'll show no mercy to any enemy!"
+                "Another one? Well, no point in arguing!",
+                "I won't let any scoundrel enter the ship!"
             ]
         }
     },
     "3": {
         "30_0": {
             "lines": [
-                "Oh! To think that there are still humans that",
-                "wouldn't run away after seeing this fist..."
+                "Oh my, I've underestimated your courage...",
+                "What are you here for?"
             ]
         },
         "38_0": {
             "lines": [
-                "Look, I can't find an entrance to this ship anywhere...",
-                "Would you take me to it?"
+                "Show me the entrance to this ship",
+                "so that I may investigate it."
             ]
         },
         "76_0": {
             "lines": [
-                "......She ran away."
+                "How rude. She left without a word."
             ]
         }
     },
     "0": {
         "68_0": {
             "lines": [
-                "Just what are you after?",
-                "Treasure? Or perhaps my sister's power?"
+                "Why do you want to enter the ship?",
+                "Are you after our treasure?"
             ]
         },
         "76_0": {
             "lines": [
-                "I can't see any treasure here."
+                "I don't care for any treasure."
             ]
         },
         "84_0": {
             "lines": [
-                "Yes, as you can see, it's all been lost."
+                "What is it then?"
             ]
         },
         "92_0": {
             "lines": [
-                "Most of the treasure was stolen by greedy thieves,",
-                "even the flying treasures I need to revive my sister."
+                "We're having enough problems as is with",
+                "thieves, crazed fairies and whatnot."
             ]
         },
         "100_0": {
             "lines": [
-                "It was carried away by fairies."
+                "Would you kindly leave?"
             ]
         },
         "108_0": {
             "lines": [
-                "Well, that's too bad.",
-                "However."
+                "Well, sad for you. Your treasure now certainly",
+                "starts to sound interesting."
             ]
         },
         "116_0": {
             "lines": [
-                "It looks like something more interesting than treasure",
-                "is sleeping here."
+                "So I'll just take it with me after I'm done",
+                "with my business."
             ]
         },
         "124_0": {
             "lines": [
-                "Yes, that's right.",
-                "She's still sleeping."
+                "Oh no,",
+                "you don't!"
             ]
         },
         "132_0": {
             "lines": [
-                "If I can't find all my sister's flying treasures,",
-                "I can't revive her."
+                "She's still sleeping and we have to find all",
+                "the flying treasures to revive her."
             ]
         },
         "140_0": {
             "lines": [
-                "Hm, well, why don't I help you?",
-                "It sounds interesting."
+                "Revive who? (She won't budge...)",
+                "Hehe. Why don't I help you in your cause?"
             ]
         },
         "148_0": {
             "lines": [
-                "......Eh?",
-                "You mean that girl in black has...?"
+                "... ...what are you saying?",
+                "This person in blue has...?"
             ]
         },
         "156_0": {
             "lines": [
-                "What? What's wrong?",
-                "Why are you talking to yourself?"
+                "What's it now? It's rude to just start talking",
+                "to yourself with someone else in front of you."
             ]
         },
         "164_0": {
             "lines": [
-                "Unzan tells me",
-                "you're gathering the fragments of the floating treasure."
+                "Unzan told me that you are gathering the floating treasure fragments. ",
+                "So you ARE behind the treasure and"
             ]
         },
         "172_0": {
             "lines": [
-                "I see asking the mice to search wasn't any use..."
+                "your sudden change in attitude is very suspicious."
             ]
         },
         "180_0": {
             "lines": [
-                "What, you mean I've already been helping?",
-                "What's this secret treasure, anyway..."
+                "What? me, suspicious? No way. I'm just a",
+                "helpful samaritan trying to be of assistance."
             ]
         },
         "188_0": {
             "lines": [
-                "Thank you for finding all those floating gems!",
-                "Now, please hand them over!"
+                "Now you're so over the top, a deaf person",
+                "would see through it. Hand over the fragments now!"
             ]
         }
     },
     "1": {
         "30_0": {
             "lines": [
-                "How awesome.",
-                "I can't believe there're humans like that in this world, too..."
+                "Ugh, what's the deal with you?",
+                "Trying trickery when you are so powerful..."
             ]
         },
         "38_0": {
             "lines": [
-                "So what's this secret treasure?"
+                "Holding back can be fun too~"
             ]
         },
         "46_0": {
             "lines": [
-                "The flying treasure is my sister's most precious treasure.",
-                "You saw it too, right?"
+                "Please, you already have the treasure.",
+                "Enter the ship and see its captain."
             ]
         },
         "54_0": {
             "lines": [
-                "Well, I saw something..."
+                "Now we're talking. Seems you"
             ]
         },
         "62_0": {
             "lines": [
-                "They're flying objects the fairies carry around sometimes."
+                "are a nice girl and know when to stop~ ♥"
             ]
         },
         "70_0": {
             "lines": [
-                "Is she talking about those round UFOs...?"
+                "So these celestial objects I took from the",
+				"fairies are the treasure, huh?"
             ]
         }
     }
