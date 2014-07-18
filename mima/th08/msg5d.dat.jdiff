@@ -140,7 +140,7 @@
         "262_0": {
             "lines": [
                 "So in the end you did choose the painful way.",
-                "Well, if you swing like that. ~"
+                "Well, if you swing like that~"
             ]
         },
         "263_0": {
@@ -266,13 +266,12 @@
         },
         "61_0": {
             "lines": [
-                "And I'm not sane to begin with. ♥",
-                "Let's leave her here"
+                "And I'm not sane to begin with~ ♥",
+                "Let's leave her and ignore the so called \"mastermind\"~"
             ]
         },
         "62_0": {
             "lines": [
-                "and also ignore the so called \"mastermind\".",
                 "There's someone else here of bigger importance."
             ]
         },
@@ -302,7 +301,7 @@
         "67_0": {
             "lines": [
                 "I wonder",
-                "who they've been hiding all this time. ~"
+                "who they've been hiding all this time~"
             ]
         }
     }

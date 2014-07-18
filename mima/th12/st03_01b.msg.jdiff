@@ -110,19 +110,20 @@
         },
         "164_0": {
             "lines": [
-                "Unzan told me that you are gathering the floating treasure fragments. ",
-                "So you ARE behind the treasure and"
+                "Unzan told me that you are gathering the",
+                "floating treasure fragments."
             ]
         },
         "172_0": {
             "lines": [
-                "your sudden change in attitude is very suspicious."
+                "So you ARE behind the treasure, and your sudden",
+				"change in attitude is very suspicious."
             ]
         },
         "180_0": {
             "lines": [
                 "What? me, suspicious? No way. I'm just a",
-                "helpful samaritan trying to be of assistance."
+                "helpful Samaritan trying to be of assistance."
             ]
         },
         "188_0": {
@@ -152,12 +153,14 @@
         },
         "54_0": {
             "lines": [
-                "Now we're talking. Seems you"
+                "Now we're talking. Seems you're like a",
+				"nice girl and know when to stop~ ♥"
             ]
         },
         "62_0": {
             "lines": [
-                "are a nice girl and know when to stop~ ♥"
+                "To think that we would have to resort",
+				"to accepting the assistance of such a person..."
             ]
         },
         "70_0": {

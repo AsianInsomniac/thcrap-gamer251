@@ -2,26 +2,26 @@
     "0": {
         "34_0": {
             "lines": [
-                "Hmmm...",
-                "Well, now, this is..."
+                "Well...",
+                "This is disappointing..."
             ]
         },
         "42_0": {
             "lines": [
-                "This place's totally empty.",
-                "And there's totally no one here."
+                "From the outside it seemed to be radiating energy,",
+                "but now that I'm here it's totally empty."
             ]
         },
         "50_0": {
             "lines": [
-                "Just an abandoned place that's become a fairy hangout...",
-                "How does this thing even stay in the air?"
+                "An abandoned ship cluttered with fairies. Does it",
+                "magically float? I'd have to find the engine room..."
             ]
         },
         "58_0": {
             "lines": [
-                "Maybe there was some kind of accident.",
-                "It feels like a ghost ship."
+                "This is bothering me, what was this force I felt?",
+                "It couldn't just have been my imagination..."
             ]
         },
         "66_0": {
@@ -31,162 +31,166 @@
         },
         "138_0": {
             "lines": [
-                "Oh, guess I missed you.",
-                "Someone's onboard after all."
+                "So there is someone here after all.",
+                "What do you want?"
             ]
         },
         "146_0": {
             "lines": [
-                "And who are you?"
+                "Who are you?"
             ]
         },
         "154_0": {
             "lines": [
-                "A magician that makes just crying kids shut up.",
-                "How about you?"
+                "A magician who silences crying children~",
+                "You look like the captain she mentioned..."
             ]
         },
         "162_0": {
             "lines": [
-                "Oh, where are my manners?",
-                "I'm Murasa, the captain of this holy palanquin."
+                "She? You surely must mean Ichirin. Yes, I am",
+                "Murasa Minamitsu, captain of Holy Palanquin."
             ]
         },
         "170_0": {
             "lines": [
-                "So the captain's here! Maybe that means this ship",
-                "isn't just floating around."
+                "Alright. So what is up with your party? What",
+                "used up all the magical energy I sensed earlier?"
             ]
         },
         "178_0": {
             "lines": [
-                "So, what'd you call this place, a holy...?"
+                "Huh? HUH?!",
+				"Tell me! Or I'll tear you apart!"
             ]
         },
         "186_0": {
             "lines": [
-                "Yes, it was built to carry Hijiri about,",
-                "so a holy palanquin."
+                "Whoa, easy there. We're trying to unseal Hijiri.",
+                "She uses this ship for her divine mission."
             ]
         },
         "194_0": {
             "lines": [
-                "Of course, its only passengers nowadays",
-                "are you, me, and a few youkai."
+                "Hmmm.... Fine.",
+                "I shall accompany you."
             ]
         },
         "202_0": {
             "lines": [
-                "Huh, yeah, it's pretty empty."
+                "I am in possession of the fragments of the",
+				"floating vault."
             ]
         },
         "210_0": {
             "lines": [
-                "So, where's this ship headed?",
-                "Why's it flying?"
+                "The ones you were trying to acquire~"
             ]
         },
         "218_0": {
             "lines": [
                 "This ship is bound for Hokkai.",
-                "We'll save Hijiri and create a new world."
+                "We will not return once we arrive there."
             ]
         },
         "226_0": {
             "lines": [
-                "Huh.",
-                "I don't get it at all."
+                "Hokkai? That's part of Makai!",
+                "I haven't been there for quite a while..."
             ]
         },
         "234_0": {
             "lines": [
-                "Actually, there's something I haven't told you."
+                "You know that place?",
+				"It's all ruins from what I've heard."
             ]
         },
         "242_0": {
             "lines": [
-                "We need the treasures you have",
-                "in order to reach our destination."
+                "Also, hile we do need the treasure, I can't permit",
+                "someone as unstable as you to accompany us."
             ]
         },
         "250_0": {
             "lines": [
-                "You've let us gain considerable time",
-                "on our journey there."
+                "Hand over the fragments and leave."
             ]
         },
         "258_0": {
             "lines": [
-                "...What did you say?"
+                "...What did you say?!"
             ]
         },
         "266_0": {
             "lines": [
-                "We'll be there before long.",
-                "I won't let you get away!"
+                "Such overwhelming power!",
+                "What are you going to do now?!"
             ]
         }
     },
     "1": {
         "30_0": {
             "lines": [
-                "You're strong......",
-                "But I think we've made up enough time."
+                "What kind of magic is that...? ",
+                "It's too late now, we have already arrived."
             ]
         },
         "38_0": {
             "lines": [
-                "I didn't want to run away, you know."
+                "The magic.. it's flowing...",
+				"Yes, we're finally in Makai!"
             ]
         },
         "46_0": {
             "lines": [
-                "There's still a lot I don't know about this ship."
+                "I'll take my leave now.",
+				"Don't follow me."
             ]
         },
         "54_0": {
             "lines": [
-                "I see, then I suppose it's okay for me to resume service.",
-                "We'll be arriving shortly."
+                "Uuuh... It can't be helped, I suppose.",
+                "Just... please don't disrupt the ceremony..."
             ]
         },
         "62_0": {
             "lines": [
-                "Huh, it feels like it's easier",
-                "to use magic now for some reason."
+                "We'll see about that. It's become easier to cast",
+                "spells, and I will not let this go to waste."
             ]
         },
         "70_0": {
             "lines": [
-                "That's because we'll be entering Makai shortly."
+                "So you're going to go to the sealing place?"
             ]
         },
         "78_0": {
             "lines": [
-                "D-did you say Makai?"
+                "Why not. It seems that that is where the flow",
+				"of magic is concentrating."
             ]
         },
         "86_0": {
             "lines": [
-                "Yes, Hokkai is a small part of Makai,",
-                "so we need to go to Makai."
+                "Hokkai is a small part of Makai.",
+                "It is where Hijiri is sealed."
             ]
         },
         "94_0": {
             "lines": [
-                "There's a miasma that's bad for your body floating about,",
-                "but it makes magic stronger."
+                "Its miasma is dangerous for the living",
+                "but enhances magic."
             ]
         },
         "102_0": {
             "lines": [
-                "That's why Hijiri's seal is so strong, too."
+                "Take the fragments with you."
             ]
         },
         "110_0": {
             "lines": [
-                "Well now, I wonder who the heck",
-                "would be sealed away in a place like that?"
+                "I already knew about that.",
+                "Don't worry, I'll only do what's proper~"
             ]
         }
     }

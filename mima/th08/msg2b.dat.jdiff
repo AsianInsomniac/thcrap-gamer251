@@ -41,7 +41,7 @@
         "67_0": {
             "lines": [
                 "Nothing of you will be left behind.",
-                "Not even a single feather. ~"
+                "Not even a single feather~"
             ]
         },
         "67_1": {
@@ -72,12 +72,12 @@
         },
         "72_0": {
             "lines": [
-                "You know what awaits you, should you fail, Marisa. ~"
+                "You know what awaits you, should you fail, Marisa~"
             ]
         },
         "73_0": {
             "lines": [
-                "Of course, miss Mima."
+                "Of course, miss Mima..."
             ]
         },
         "74_0": {
@@ -87,7 +87,7 @@
         },
         "75_0": {
             "lines": [
-                "Sure, she's learned from the best. ~"
+                "Sure, she's learned from the best~"
             ]
         },
         "76_0": {
@@ -97,7 +97,7 @@
         },
         "77_0": {
             "lines": [
-                "Of course I do. There's yet someone to come and match me. ~"
+                "Of course I do. There's yet someone to come and match me~"
             ]
         },
         "78_0": {
@@ -113,7 +113,7 @@
         },
         "80_0": {
             "lines": [
-                "Will live in unending darkness!"
+                "...will live in unending darkness!"
             ]
         }
     },

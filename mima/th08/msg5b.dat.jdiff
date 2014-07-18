@@ -37,7 +37,7 @@
         "125_0": {
             "lines": [
                 "Well, if that isn't suspicious",
-                "then I'm an ordinary witch. ~"
+                "then I'm an ordinary witch~"
             ]
         },
         "126_0": {
@@ -170,14 +170,14 @@
         },
         "268_0": {
             "lines": [
-                "She definitely seems like the master mind,",
-                "ordering around this person here,"
+                "She definitely seems like the master mind.",
+                "She just orders around this person, it seems."
             ]
         },
         "269_0": {
             "lines": [
-                "retreating to the backlines",
-                "and saying seemingly out of context lines."
+                "Then she retreats to the back lines",
+                "and says seemingly out of context lines."
             ]
         },
         "270_0": {
@@ -297,7 +297,7 @@
         "69_0": {
             "lines": [
                 "Magic and Danmaku are all about the right amount of force",
-                "and finesse. And looking good obliterating your opponent. ~"
+                "and finesse. And looking good obliterating your opponent~"
             ]
         }
     },
@@ -328,7 +328,7 @@
         "64_0": {
             "lines": [
                 "Now it's obvious. Let's blow this corridor up",
-				"and go where she didn't want us to. ~"
+				"and go where she didn't want us to~"
             ]
         },
         "65_0": {
@@ -338,7 +338,7 @@
         },
         "66_0": {
             "lines": [
-                "Let's get started then.",
+                "Let's get started, then.",
                 "Look for an opening that leads somewhere else."
             ]
         },

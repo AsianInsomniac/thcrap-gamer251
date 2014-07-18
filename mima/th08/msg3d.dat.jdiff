@@ -20,7 +20,7 @@
         "64_0": {
             "lines": [
                 "I see what you are up to!",
-                "I won't let you do as you please!."
+                "I won't let you do as you please!"
             ]
         }
     },
@@ -95,7 +95,7 @@
         },
         "69_0": {
             "lines": [
-                "Ri~ight."
+                "Ri~ght."
             ]
         },
         "70_0": {
@@ -123,7 +123,7 @@
         "74_0": {
             "lines": [
                 "Sounds about right.",
-				"Everyone we've met so far was disappointingly weak. ~"
+				"Everyone we've met so far was disappointingly weak~"
             ]
         },
         "75_0": {
@@ -134,18 +134,18 @@
         },
         "76_0": {
             "lines": [
-                "So you don't even know where to go? What, will you just",
-                "fly through all of Gensokyo beating up whoever you meet,"
+                "So you don't even know where to go? "
             ]
         },
         "77_0": {
             "lines": [
-                "until you get the right person?"
+                "What, will you just fly through all of Gensokyo beating up",
+				"whoever you meet,until you get the right person?"
             ]
         },
         "78_0": {
             "lines": [
-                "Hey, she's figured us out. How clever. ~"
+                "Hey, she's figured us out. How clever~"
             ]
         },
         "79_0": {
@@ -172,7 +172,7 @@
         "83_0": {
             "lines": [
                 "Oh my, it seems we'll have to",
-				"push her a little to spill the information. ~"
+				"push her a little to spill the information~"
             ]
         },
         "84_0": {
@@ -195,14 +195,14 @@
         },
         "62_0": {
             "lines": [
-                "Then it seems this halfbeast has exhausted its usefulness.",
+                "Then it seems this half-beast has exhausted its usefulness.",
                 "So, where to next then? The bamboo forest perhaps?"
             ]
         },
         "63_0": {
             "lines": [
                 "A forest",
-                "would be a refreshing change of scenery. ~"
+                "would be a refreshing change of scenery~"
             ]
         },
         "64_0": {
@@ -231,7 +231,7 @@
         },
         "68_0": {
             "lines": [
-                "to restore Gensokyou's full moon! ~"
+                "to restore Gensokyo's full moon~!"
             ]
         },
         "69_0": {

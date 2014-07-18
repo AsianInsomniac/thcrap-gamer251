@@ -31,8 +31,7 @@
         },
         "62_0": {
             "lines": [
-                "Definitely no youkai",
-                "that's for sure."
+                "Definitely no youkai, that's for sure."
             ]
         }
     },
@@ -113,7 +112,7 @@
         "72_0": {
             "lines": [
                 "Have you finally accepted",
-                "that we really are just here for some information? ~"
+                "that we really are just here for some information~?"
             ]
         },
         "73_0": {
@@ -124,8 +123,8 @@
         },
         "74_0": {
             "lines": [
-                "The village is kinda...",
-                "gone. It should be here, right?"
+                "The village is kinda... gone...",
+                "It should be here, right?"
             ]
         },
         "75_0": {
@@ -157,8 +156,8 @@
         },
         "80_0": {
             "lines": [
-                "So that's what she did.",
-				"She made it seem like there never was a village. Clever."
+                "So that's what she did. She made it seem",
+				"like there never was a village. Clever~"
             ]
         },
         "81_0": {
@@ -179,13 +178,13 @@
         },
         "84_0": {
             "lines": [
-                "I thought we'd never get to the point.",
-                "You'll tell us everything we want to know"
+                "I thought we'd never get to the point."
             ]
         },
         "85_0": {
             "lines": [
-                "once you've lost."
+                "You'll tell us everything we want to know",
+				"once you've lost."
             ]
         }
     },
@@ -232,7 +231,7 @@
         },
         "67_0": {
             "lines": [
-                "But it would have been less exciting as well. ~",
+                "But it would have been less exciting as well~",
                 "Solving a boring incident is not worth it to begin with."
             ]
         },

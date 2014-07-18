@@ -60,12 +60,13 @@
         },
         "129_0": {
             "lines": [
-                "That's a possible solution in theory"
+                "That's a possible solution in theory,",
+				"but you aren't actually capable of doing so."
             ]
         },
         "130_0": {
             "lines": [
-                "but you aren't actually capable of doing so."
+                "I'm starting to think that you're just all-talk!"
             ]
         },
         "131_0": {
@@ -86,7 +87,7 @@
         },
         "134_0": {
             "lines": [
-                "A reflection fades should the original vanish."
+                "A reflection fades, should the original vanish."
             ]
         },
         "135_0": {
@@ -98,12 +99,12 @@
         "136_0": {
             "lines": [
                 "That's a clever conclusion.",
-				"If the reflection gets revealed it is gone."
+				"If the reflection gets revealed, it is gone."
             ]
         },
         "137_0": {
             "lines": [
-                "If the real one is shot down it vanishes."
+                "If the real one is shot down, it vanishes."
             ]
         },
         "138_0": {
@@ -186,7 +187,7 @@
         "64_0": {
             "lines": [
                 "Whatever this was about.",
-                "We've at least reached an interesting place it seems."
+                "We've at least reached an interesting place, it seems."
             ]
         },
         "65_0": {

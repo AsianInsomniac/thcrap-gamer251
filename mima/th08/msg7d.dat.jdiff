@@ -186,7 +186,7 @@
         "150_0": {
             "lines": [
                 "Do you really think there's more to it?",
-                "Maybe she really just seeks some excitement. ~"
+                "Maybe she really just seeks some excitement~"
             ]
         },
         "151_0": {
@@ -215,7 +215,7 @@
         },
         "155_0": {
             "lines": [
-                "And then there was nothing left to do. ~"
+                "And then there was nothing left to do~"
             ]
         },
         "156_0": {
@@ -226,13 +226,12 @@
         },
         "157_0": {
             "lines": [
-                "I'm just stretching the dialogue,"
+                "This is totally out of context..."
             ]
         },
         "158_0": {
             "lines": [
-                "fishing for a proper line",
-                "I can use for a nice way to start a fight. ~"
+                "I can use for a nice way to start a fight~"
             ]
         },
         "159_0": {
@@ -277,7 +276,7 @@
         "166_0": {
             "lines": [
                 "How about we beat her up a little.",
-				"That should give her the excitement she seeks. ♥"
+				"That should give her the excitement she seeks~ ♥"
             ]
         },
         "167_0": {
@@ -330,14 +329,14 @@
     "7": {
         "60_0": {
             "lines": [
-                "My arts of manipulating eternity"
+                "My arts of manipulating eternity..."
             ]
         }
     },
     "8": {
         "60_0": {
             "lines": [
-                "will rip it apart."
+                "...will rip it apart!"
             ]
         }
     },
@@ -345,7 +344,7 @@
         "60_0": {
             "lines": [
                 "Your spell of Imperishable Night shall shatter...",
-                "And the dawn will come!! "
+                "And the dawn will come!"
             ]
         }
     }

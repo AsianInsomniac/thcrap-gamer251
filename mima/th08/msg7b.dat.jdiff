@@ -17,42 +17,43 @@
         },
         "63_0": {
             "lines": [
-                "Sometimes the direct approach is the answer. ~"
+                "Sometimes the direct approach is the answer~"
             ]
         }
     },
     "0": {
         "60_0": {
             "lines": [
-                "The moon... This time it is the actual one."
+                "The moon...",
+				"This time it is the actual one."
             ]
         },
         "121_0": {
             "lines": [
-                "Yes, the full moon,"
+                "Yes, the full moon, source of power and",
+				"object of myths for thousands of years."
             ]
         },
         "122_0": {
             "lines": [
-                "source of power and object of myths",
-                "for hundreds, no, thousands of years."
+                "It's a magificent sight~"
             ]
         },
         "123_0": {
             "lines": [
-                "This moonlight is not normal.",
+                "However, this moonlight is not normal.",
 				"It seems to be amplifying our magic."
             ]
         },
         "124_0": {
             "lines": [
                 "Is it? That would be convenient",
-                "for delivering the beating she deserves. ~"
+                "for delivering the beating she deserves~"
             ]
         },
         "125_0": {
             "lines": [
-                "Wait a moment Marisa."
+                "Wait a moment, Marisa."
             ]
         },
         "126_0": {
@@ -103,12 +104,13 @@
         },
         "134_0": {
             "lines": [
-                "Whatever it was for,"
+                "Whatever it was for, she had the moon stolen",
+				"and caused this unending night."
             ]
         },
         "135_0": {
             "lines": [
-                "she had the moon stolen and caused this unending night."
+                "It's an unforgiving act!"
             ]
         },
         "136_0": {
@@ -140,19 +142,18 @@
         },
         "141_0": {
             "lines": [
-                "Eirin's spell is perfect, ",
+                "Eirin's spell is perfect,",
                 "though I don't like the situation it put me in."
             ]
         },
         "142_0": {
             "lines": [
-                "Hiding without any way to contact the outside.",
-                "But what was this"
+                "Hiding without any way to contact the outside."
             ]
         },
         "143_0": {
             "lines": [
-                "about the unending night?"
+                "But what was this about the unending night?"
             ]
         },
         "144_0": {
@@ -168,24 +169,24 @@
         },
         "146_0": {
             "lines": [
-                "They do nothing but pester us"
+                "They do nothing but pester us and put barriers",
+				"in our way."
             ]
         },
         "147_0": {
             "lines": [
-                "and put barriers in our way.",
                 "These moon-people are really rude."
             ]
         },
         "148_0": {
             "lines": [
-                "That sounds rather unreasonable",
-				"for someone who shot down two of my people,"
+                "That sounds unreasonable for someone who shot down",
+				"two of my people and destroyed half the mansion."
             ]
         },
         "149_0": {
             "lines": [
-                "destroyed half the mansion and threatens to beat me up."
+                "And to top all that, threatens to beat me up."
             ]
         },
         "150_0": {
@@ -213,7 +214,7 @@
         "154_0": {
             "lines": [
                 "But she'd get her action",
-                "and we get to punish her for causing us all this trouble. ~"
+                "and we get to punish her for causing us all this trouble~"
             ]
         },
         "155_0": {
@@ -235,12 +236,12 @@
         },
         "158_0": {
             "lines": [
-                "So if we solve your request"
+                "So if we solve your request,",
+				"we get to take you out just like that?"
             ]
         },
         "159_0": {
             "lines": [
-                "we get to take you out just like that?",
                 "Sounds more like work than anything else..."
             ]
         },
@@ -276,29 +277,29 @@
     "6": {
         "60_0": {
             "lines": [
-                "But this poorly cast spell of endless night..."
+                "But this poorly cast spell of endless night",
+				"is no match for my control over eternity."
             ]
         }
     },
     "7": {
         "60_0": {
             "lines": [
-                "is no match for my control over eternity.",
-				"Dawn is approaching,"
+                "Dawn is approaching..."
             ]
         }
     },
     "8": {
         "60_0": {
             "lines": [
-                "the sun is about to rise."
+                "The sun is rising..."
             ]
         }
     },
     "9": {
         "60_0": {
             "lines": [
-                "This is the end of your imperishable night...",
+                "This is the end of your imperishable night!",
                 "Now the dawn will come!"
             ]
         }
