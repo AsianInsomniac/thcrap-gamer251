@@ -284,7 +284,7 @@
 	"th13/face/pl01/face_pl01sp.png": 1077019054,
 	"th13/face/pl01/face_pl01sw.png": 4078703936,
 	"th13/face/pl01/title_pl01.png": 785431004,
-	"th13/loading/sig.png": 3419273240,
+	"th13/loading/sig.png": 579617747,
 	"th13/player/pl01/pl01.png": 2423680489,
 	"th13/player/pl01/pl01b.png": 1481901219,
 	"th13/player/pl01/pl01b2.png": 267757438,
