@@ -208,7 +208,7 @@
 	"th11/bullet/etama2.png": 18050764,
 	"th11/bullet/etama6.png": 980115749,
 	"th11/face/pl01/face_pl01an.png": 2349478386,
-	"th11/face/pl01/face_pl01dp.png": 641502556,
+	"th11/face/pl01/face_pl01dp.png": 3707222234,
 	"th11/face/pl01/face_pl01hp.png": 1584272912,
 	"th11/face/pl01/face_pl01n2.png": 2882719354,
 	"th11/face/pl01/face_pl01no.png": 1593546430,
