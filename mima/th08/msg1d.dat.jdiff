@@ -30,13 +30,14 @@
         },
         "65_0": {
             "lines": [
-                "I'd never thought of hearing someone talking about appreciating bugs."
+                "I'd never thought of hearing someone talking about",
+				"appreciating bugs."
             ]
         },
         "125_0": {
             "lines": [
-                "I mean,",
-                "everyone thinks we are annoying and deserve to be squashed."
+                "I mean, everyone thinks we are annoying and deserve",
+                "to be squashed."
             ]
         },
         "126_0": {
@@ -47,13 +48,12 @@
         },
         "127_0": {
             "lines": [
-                "Well, bugs are annoying"
+                "Well, bugs are annoying and deserve to be stepped on."
             ]
         },
         "128_0": {
             "lines": [
-                "and deserve to be stepped on.",
-                "Doesn't mean they don't have their uses~"
+                "But that doesn't mean they don't have their uses~"
             ]
         },
         "129_0": {
@@ -75,7 +75,7 @@
         "132_0": {
             "lines": [
                 "Oh really, is that so?",
-                "Maybe I should take out my issues on this bug here~ ♥"
+                "Maybe I should take out my issues on this bug here~"
             ]
         },
         "133_0": {
@@ -127,8 +127,8 @@
         },
         "65_0": {
             "lines": [
-                "We are on this really serious mission of shooting people out of the sky",
-                "until all problems are solved."
+                "We are on this really serious mission of shooting people out",
+                "of the sky until all problems are solved."
             ]
         },
         "66_0": {
