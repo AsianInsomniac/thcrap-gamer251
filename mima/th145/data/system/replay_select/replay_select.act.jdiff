@@ -1,0 +1,35 @@
+{
+    "/root/nutstream/stream/Functions/7/Literals/8": "←→: Change page -",
+    "/root/nutstream/stream/Functions/1/Literals/22": "↑↓: Switch - ←→: Move Page - Z: Resume - X: Back to Title",
+    "/root/nutstream/stream/Functions/7/Literals/5": "↑↓: Switch -",
+    "/root/nutstream/stream/Functions/7/Literals/9": "Z: OK -",
+    "/root/nutstream/stream/Functions/7/Literals/11": "X: Back to Title",
+    "/root/nutstream/stream/Functions/9/Literals/3": "↑↓: Switch - Z: OK - X: Cancel",
+    "/root/nutstream/stream/Functions/10/Literals/3": "↑↓: Switch - Z: OK - X: Cancel",
+    "/sprites/5/keyframe/layout/stText": [
+        "Playback Replay",
+        "Delete Replay",
+        "Back"
+    ],
+    "/sprites/10/keyframe/layout/stText": "*No replay data*",
+    "/root/nutstream/stream/Functions/7/Literals/38": "File attribute=",
+    "/root/nutstream/stream/Functions/7/Literals/12": "X: Move up one folder",
+    "/root/nutstream/stream/Functions/7/Literals/57": [
+        "Playback Replay",
+        "Delete Replay",
+        "Back"
+    ],
+    "/root/nutstream/stream/Functions/9/Literals/40": "File attribute=",
+    "/root/nutstream/stream/Functions/9/Literals/8": [
+        "Playback Replay",
+        "Delete Replay",
+        "Back"
+    ],
+    "/root/nutstream/stream/Functions/9/Literals/48": "Playback Replay:",
+    "/root/nutstream/stream/Functions/10/Literals/40": "File attribute=",
+    "/root/nutstream/stream/Functions/10/Literals/8": [
+        "Delete this file?",
+        "　　 Yes",
+        "　　 No"
+    ]
+}

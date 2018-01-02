@@ -1,0 +1,9 @@
+{
+    "/sprites/0/keyframe/layout/stText": "Save replay?",
+    "/sprites/1/keyframe/layout/stText": [
+        "Yes",
+        "No"
+    ],
+    "/root/nutstream/stream/Functions/4/Literals/14": "OK",
+    "/root/nutstream/stream/Functions/4/Literals/22": "Cancel"
+}
