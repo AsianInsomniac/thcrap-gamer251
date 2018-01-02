@@ -1,0 +1,93 @@
+{
+    "1": {
+        "lines": [
+            "Oh?",
+            "What business do you have today?"
+        ]
+    },
+    "2": {
+        "lines": [
+            "Why is it that it's so easy to get lost in the forest?",
+            "Though it's easy to get lost, you don't really get lost...."
+        ]
+    },
+    "4": {
+        "lines": [
+            "Oh, sword training?",
+            "I don't care for such an unrefined kind of training, myself."
+        ]
+    },
+    "10": {
+        "lines": [
+            "Now, how will you react?"
+        ]
+    },
+    "9": {
+        "lines": [
+            "A sun has risen from hell in order to bring you down."
+        ]
+    },
+    "8": {
+        "lines": [
+            "Have you realized?"
+        ]
+    },
+    "12": {
+        "lines": [
+            "Ahh, I'm bored.",
+            "Won't you bring something here?"
+        ]
+    },
+    "13": {
+        "lines": [
+            "Ah, the fireworks are really something this year.",
+            "What a wonderful sight."
+        ]
+    },
+    "29": {
+        "lines": [
+            "Ahh, I see. You've got no money.",
+            "Shrines are like that."
+        ]
+    },
+    "28": {
+        "lines": [
+            "Hakugyokurou is many times bigger than that,",
+            "but it still feels cramped."
+        ]
+    },
+    "27": {
+        "lines": [
+            "The shrine over there... doesn't it get crowded with three gods in it?"
+        ]
+    },
+    "26": {
+        "lines": [
+            "Goodness me, you are a god.",
+            "Recently, I haven't been able to tell whether",
+            "shrine maidens or gods are the slaves of the other..."
+        ]
+    },
+    "25": {
+        "lines": [
+            "Ahh, one sun is enough, especially in this summer heat!"
+        ]
+    },
+    "24": {
+        "lines": [
+            "Tai chi chuan goes well with paper fans, it seems."
+        ]
+    },
+    "23": {
+        "lines": [
+            "Ah, that's all I have for you this summer.",
+            "Having cool things in the summer is important."
+        ]
+    },
+    "22": {
+        "lines": [
+            "This year you've been moving here and there.",
+            "Did something happen?"
+        ]
+    }
+}
