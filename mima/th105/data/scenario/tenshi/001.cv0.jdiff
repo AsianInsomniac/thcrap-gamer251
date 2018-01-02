@@ -1,0 +1,81 @@
+{
+    "1": {
+        "lines": [
+            "Hiya there."
+        ]
+    },
+    "2": {
+        "lines": [
+            "Wait wait, I've been looking for you.",
+            "Guests are arriving?"
+        ]
+    },
+    "3": {
+        "lines": [
+            "Huh?",
+            "That was fast, there still should be plenty of time left."
+        ]
+    },
+    "4": {
+        "lines": [
+            "Well, I'll let it go this time,",
+            "But could you not call people out on your own?"
+        ]
+    },
+    "5": {
+        "lines": [
+            "Alright, it's about time for the gathered to start arriving.",
+            "I guess I'll wait here."
+        ]
+    },
+    "6": {
+        "lines": [
+            "Wait, just how many people did you invite?"
+        ]
+    },
+    "7": {
+        "lines": [
+            "If I call out then they'll gather naturally,",
+            "since that is my ability."
+        ]
+    },
+    "8": {
+        "lines": [
+            "Now then, how many will show up, I wonder."
+        ]
+    },
+    "9": {
+        "lines": [
+            "How mean!",
+            "Did you invite nearly everyone just to pass the time?"
+        ]
+    },
+    "10": {
+        "lines": [
+            "You don't even have time to waste for time-wasting, you say?"
+        ]
+    },
+    "11": {
+        "lines": [
+            "Who cares?",
+            "There's nothing to do in Heaven anyways."
+        ]
+    },
+    "12": {
+        "lines": [
+            "Oh really,",
+            "Just because of you I have tons of things to do now."
+        ]
+    },
+    "13": {
+        "lines": [
+            "Isn't that okay?",
+            "Heaven is really boring, so try out different things to pass the time."
+        ]
+    },
+    "14": {
+        "lines": [
+            "What's going to happen next..."
+        ]
+    }
+}
