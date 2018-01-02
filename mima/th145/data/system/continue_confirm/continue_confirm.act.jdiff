@@ -1,0 +1,9 @@
+{
+    "/sprites/0/keyframe/layout/stText": "Continue?",
+    "/sprites/1/keyframe/layout/stText": [
+        "Yes",
+        "No"
+    ],
+    "/root/nutstream/stream/Functions/4/Literals/20": "Cancel -",
+    "/root/nutstream/stream/Functions/4/Literals/14": "OK -"
+}
