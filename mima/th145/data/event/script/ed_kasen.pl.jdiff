@@ -1,0 +1,124 @@
+{
+    "1": {
+        "lines": [
+            "――The Hakurei Shrine.\\.",
+            "It's been three days,",
+            "since Kasen left for the Outside World."
+        ]
+    },
+    "2": {
+        "lines": [
+            "A turbulent atmosphere had just begun",
+            "to spread throughout Gensokyo,\\.",
+            "ever since Reimu's fight with the shadowy figure."
+        ]
+    },
+    "3": {
+        "lines": [
+            "Everyone could feel that this was,",
+            "because rumors of the Occult Balls had spread,\\.",
+            "and more and more people were looking to complete their collections."
+        ]
+    },
+    "4": {
+        "lines": [
+            "\\c[210,180,180]Reimu:\t\"I'm definitely getting all the balls this time!\"\\.",
+            "\\c[255,210,255]Marisa:\t\"I told you, didn't I?\\.",
+            "\tGatherin' all the balls is dangerous.\""
+        ]
+    },
+    "5": {
+        "lines": [
+            "\\c[210,180,180]Reimu:\t\"Yeah, but aren't you always carrying one?\"\\.",
+            "\\c[255,210,255]Marisa:\t\"For whatever reason, you can't get rid of 'em on your own.\\.",
+            "\tSo it's not like I got a choice.\""
+        ]
+    },
+    "6": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"(She's late... that darned hermit.\\.",
+            "\tAt this rate, someone's gonna gather 'em all.)\""
+        ]
+    },
+    "7": {
+        "lines": [
+            "Just as Mamizou was about to get impatient,",
+            "she heard a voice behind her:\\.",
+            "\\c[210,180,180]???: \"Sorry for the wait.\""
+        ]
+    },
+    "8": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"You're pretty late.\\.",
+            "\tI'd been wondering if you were killed or something.\""
+        ]
+    },
+    "9": {
+        "lines": [
+            "\\c[255,210,255]Kasen:\t\"I just ran into some trouble,",
+            "\twhile looking for your souvenir.\\.",
+            "\tI finished my own business immediately.\""
+        ]
+    },
+    "10": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"Whoops, sorry about that.\\.",
+            "\tBut I did keep watch over them for you.\"\\.",
+            "\\c[255,255,255]Mamizou pointed at Reimu and Marisa."
+        ]
+    },
+    "11": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"So, do you mind if I ask...\\.",
+            "\twhat were you doing in the Outside World?\"\\.",
+            "\\c[255,210,255]Kasen:\t\"Let's see,\\. I guess you could say I was looking for something.\""
+        ]
+    },
+    "12": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"Oh?\"\\.",
+            "\\c[255,210,255]Kasen:\t\"In the end, it was just a waste of effort though.\\.",
+            "\tWhat a pain.\""
+        ]
+    },
+    "13": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"I see.\\.",
+            "\tWell, I don't wanna get wrapped up in anything troublesome,\\.",
+            "\tso I won't ask what you're planning, but...\""
+        ]
+    },
+    "14": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"...Isn't it about time for you to spill the beans?\\.",
+            "\tPray tell, what is going on here?\""
+        ]
+    },
+    "15": {
+        "lines": [
+            "Kasen explained the true nature of the Occult Balls.\\.",
+            "That they were made from Outside World matter,\\.",
+            "for the purpose of breaking the barrier."
+        ]
+    },
+    "16": {
+        "lines": [
+            "That once you've gathered seven, you're thrown out into the Outside World.",
+            "And the troublesome part, which was,\\.",
+            "how you couldn't get rid of them on your own."
+        ]
+    },
+    "17": {
+        "lines": [
+            "What Kasen kept secret, however,\\.",
+            "was the part about her meeting a human in the Outside World."
+        ]
+    },
+    "18": {
+        "lines": [
+            "She had decided that knowledge of the existence",
+            "of such a threat in the Outside World should not be spread.\\.",
+            "If people knew, it might lead to a war with the Outside."
+        ]
+    }
+}

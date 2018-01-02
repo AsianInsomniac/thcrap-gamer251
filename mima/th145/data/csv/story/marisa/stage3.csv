@@ -1,0 +1,4 @@
+key,ID,enemy,life0,life1,life2,life3,sp,time,name0,name1,name2,name3,talk_demo,func1,func2,func3,func4
+type,i,s,i,i,i,i,i,i,s,s,s,s,s,s,s,s,s
+-0,0,mokou,4500,5500,6000,6500,500,5000,炎符「フェニックスの超高温な羽」,炎符「フェニックスの超高温な羽」,炎符「フェニックスの超高温な羽」,炎符「フェニックスの超高温な羽」,,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1
+1,1,mokou,5000,6000,6500,7000,1500,5000,＊凱風晴天快晴脚＊,＊凱風晴天快晴脚＊,＊凱風晴天快晴脚＊,＊凱風晴天快晴脚＊,Common_BattleDemo_main2,CPU_Set_Boss2,CPU_Set_Boss2,CPU_Set_Boss2,CPU_Set_Boss2

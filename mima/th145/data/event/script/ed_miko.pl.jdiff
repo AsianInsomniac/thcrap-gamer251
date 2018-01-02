@@ -1,0 +1,84 @@
+{
+    "1": {
+        "lines": [
+            "――The Divine Spirit Mausoleum.\\.",
+            "Here lies Miko's dojo,\\.",
+            "which exists in a separate dimension from Gensokyo."
+        ]
+    },
+    "2": {
+        "lines": [
+            "Word has spread throughout Gensokyo",
+            "that Miko gathered all the balls.\\.",
+            "As a result, she gets more unusual visitors than ever."
+        ]
+    },
+    "3": {
+        "lines": [
+            "\\c[255,210,255]Futo:\t\"Crown Prince,\\.",
+            "\tthou hast more visitors...\"",
+            "\\c[255,225,185]Miko:\t\"If it's about the Urban Legends again, refuse them.\""
+        ]
+    },
+    "4": {
+        "lines": [
+            "\\c[255,210,255]Futo:\t\"But no matter how often they be rejected, they always return.\\.",
+            "\tThey be asking for thine own presence, Crown Prince.\"\\.",
+            "\\c[255,225,185]Miko:\t\"If I must.\""
+        ]
+    },
+    "5": {
+        "lines": [
+            "\\c[255,225,185]Miko:\t\"All sorts of rumors about the occult have been flying around,\\.",
+            "\tbut I can assure you that they're all groundless.\""
+        ]
+    },
+    "6": {
+        "lines": [
+            "\\c[210,180,180]Visitor:\t\"But I heard they can heal any illness.\"\\.",
+            "Visitor:\t\"Or make you into a billionaire...\"\\.",
+            "Visitor:\t\"Or lead to enlightenment...!\""
+        ]
+    },
+    "7": {
+        "lines": [
+            "\\c[255,225,185]Miko:\t\"And I'm saying those are all just rumors!\\.",
+            "\tNow go home!\""
+        ]
+    },
+    "8": {
+        "lines": [
+            "\\c[255,225,185]Miko:\t\"What's going here?\\.",
+            "\tThe only thing I can think of is\\.",
+            "\tthat someone is intentionally spreading these rumors...\""
+        ]
+    },
+    "9": {
+        "lines": [
+            "\\c[255,225,185]Miko:\t\"Let's assume that someone is trying to recover the Occult Balls",
+            "\twith these rumors.\\.",
+            "\tIn that case... it couldn't possibly be that shadow person alone?\""
+        ]
+    },
+    "10": {
+        "lines": [
+            "Miko went to check the balls.\\.",
+            "She still believed this must be another of their effects.\\.",
+            "She examined them carefully."
+        ]
+    },
+    "11": {
+        "lines": [
+            "At that moment, she stumbled across an unexpected truth.\\.",
+            "One of the balls was unlike the others.\\.",
+            "It alone was releasing a powerful aura."
+        ]
+    },
+    "12": {
+        "lines": [
+            "It was the one giving off traces of the Lunar Capital.\\.",
+            "However,\\.",
+            "she still didn't know the significance behind it."
+        ]
+    }
+}

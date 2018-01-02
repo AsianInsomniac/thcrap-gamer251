@@ -1,0 +1,80 @@
+{
+    "1": {
+        "lines": [
+            "――The Abandon Pond.\\.",
+            "A small pond on the outskirts of the Human Village.\\.",
+            "Recently, it's been occupied by kappa."
+        ]
+    },
+    "2": {
+        "lines": [
+            "It seems to have been surrounded by a strange mist."
+        ]
+    },
+    "3": {
+        "lines": [
+            "\\c[255,210,255]Nitori:\t\"Souvenirs here!\\.",
+            "\tHey, how about buying some nice Nessie manjuu as a souvenir?\""
+        ]
+    },
+    "4": {
+        "lines": [
+            "The head of a Nessie-like monster",
+            "could be seen through the mist of the pond.\\.",
+            "Whenever it moved, wobbling, voices were raised in awe."
+        ]
+    },
+    "5": {
+        "lines": [
+            "\\c[210,180,180]???:\t\"Hey, is this the really real thing?\""
+        ]
+    },
+    "6": {
+        "lines": [
+            "\\c[255,210,255]Nitori:\t\"Absolutely. It's the genuine article.\"\\.",
+            "\\c[255,225,185]Marisa:\t\"I see. Makes sense.\\.",
+            "\tAfter all we're in an age, where urban legends are becoming real.\""
+        ]
+    },
+    "7": {
+        "lines": [
+            "\\c[255,210,255]Nitori:\t\"The monster is estimated to be 50 meters long.\"\\.",
+            "\\c[255,225,185]Marisa:\t\"Hmm, that so...?\\.",
+            "\tI didn't even know this pond was that deep.\""
+        ]
+    },
+    "8": {
+        "lines": [
+            "\\c[255,225,185]Marisa:\t\"Still, the fog's too thick. I can't even see a thing.\"\\.",
+            "\\c[255,210,255]Nitori:\t\"Oh, to my dear old friend",
+            "\tI'm willing to give a special price on our spotlights.\""
+        ]
+    },
+    "9": {
+        "lines": [
+            "Many of the tourists didn't think the monster was real,\\.",
+            "but that was actually a good thing.\\.",
+            "Since few people were scared of it, more were willing to come and see it."
+        ]
+    },
+    "10": {
+        "lines": [
+            "Turning the monster into a tourist attraction was good enough for her.\\.",
+            "Like this, the kappa was turning her Occult Ball\\.",
+            "into a ridiculous amount of profit."
+        ]
+    },
+    "11": {
+        "lines": [
+            "But, she had never realized,\\.",
+            "that she was being haunted by the real Nessie,\\.",
+            "until the tanuki pointed it out."
+        ]
+    },
+    "12": {
+        "lines": [
+            "Realizing her own inexperience,\\.",
+            "she regretted failing to see that opportunity on her own."
+        ]
+    }
+}

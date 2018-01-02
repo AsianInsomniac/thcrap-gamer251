@@ -1,0 +1,233 @@
+{
+    "1": {
+        "lines": [
+            "――The Hakurei Shrine.\\.",
+            " ",
+            "This shrine lies on the boundary between Gensokyo and the Outside World."
+        ]
+    },
+    "2": {
+        "lines": [
+            "The Occult Balls were very nearly unleashed,\\.",
+            "but Reimu managed to stop them."
+        ]
+    },
+    "3": {
+        "lines": [
+            "\\c[220,180,140]Mamizou:\t\"So what should we do with her?\"\\.",
+            "\\c[170,200,170]Kasen:\t\"We've collected all the Occult Balls,\\.",
+            "\tso couldn't you erase her memory with your urban legend?\""
+        ]
+    },
+    "4": {
+        "lines": [
+            "\\c[255,225,185]Sumireko: *doze*\\.",
+            "\\c[220,180,140]Mamizou:\t\"Nah, that's all just playin' around.\\.",
+            "\tI can't actually erase her memories, you know.\""
+        ]
+    },
+    "5": {
+        "lines": [
+            "\\c[255,210,255]Reimu:\t\"Wouldn't it be fine, if she just lived in Gensokyo for the rest of her life?\"\\.",
+            "\\c[210,180,180]Marisa:\t\"No, we can't do that to her.\\.",
+            "\tI'm sure she's got a family back there, or something.\""
+        ]
+    },
+    "6": {
+        "lines": [
+            "\\c[170,200,170]Kasen:\t\"Well, now that I think about it,\\.",
+            "\tthere's no harm in just letting her go\\.",
+            "\tas long as she doesn't destroy the barrier.\""
+        ]
+    },
+    "7": {
+        "lines": [
+            "\\c[170,200,170]Kasen:\t\"And all the Occult Balls",
+            "\thave been returned to the Outside World, so...\\. huh?\""
+        ]
+    },
+    "8": {
+        "lines": [
+            "\\c[170,200,170]Kasen:\t\"Wait,\\. whatever happened to that irregular ball?\"\\.",
+            "\\c[255,225,185]Sumireko:\t\"??\""
+        ]
+    },
+    "9": {
+        "lines": [
+            "Since the Great Hakurei Barrier is a boundary of common sense,\\.",
+            "things with high spiritual power in the Outside World will cause it to waver."
+        ]
+    },
+    "10": {
+        "lines": [
+            "The Occult Balls took advantage of this property,\\.",
+            "as they were miraculous power stones from the Outside World."
+        ]
+    },
+    "11": {
+        "lines": [
+            "By spreading the rumors that gathering them could grant wishes\\.",
+            "Sumireko could distribute the balls all over Gensokyo.",
+            "However,\\. the Lunar Capital stone was different.\\."
+        ]
+    },
+    "12": {
+        "lines": [
+            "The Lunar Capital does not exist in the Outside World.",
+            "Reimu said that she didn't know, if it was an accident or intentional,\\.",
+            "but somehow it had gotten mixed in with the others."
+        ]
+    },
+    "13": {
+        "lines": [
+            "\\c[220,180,140]Mamizou:\t\"I think we can just shut her up and send her home.\\.",
+            "\tDoes that sound okay?\"",
+            "\\c[170,200,170]Kasen:\t\"Hmmm...\""
+        ]
+    },
+    "14": {
+        "lines": [
+            "\\c[220,180,140]Mamizou:\t\"Don't worry,\\.",
+            "\twe'll watch over her.\"\\.",
+            "\\c[255,225,255]Reimu and Marisa nodded as well."
+        ]
+    },
+    "15": {
+        "lines": [
+            "――Several days later.\\.",
+            " ",
+            "Tranquility had returned to Gensokyo."
+        ]
+    },
+    "16": {
+        "lines": [
+            "\\c[255,210,255]Reimu:\t\"Haah... Another boring day, huh?\"\\.",
+            "\\c[255,225,185]Sumireko:\t\"Hiii!\\. I'm back, I guess.\"\\.",
+            "\\c[255,210,255]Reimu:\t\"Eh? Wh-what?\\. YOU AGAIN-?!\""
+        ]
+    },
+    "17": {
+        "lines": [
+            "\\c[255,210,255]Reimu:\t\"So you still haven't learned your lesson?\\.",
+            "\tYou won't get off so easy this time.\"",
+            "\\c[255,225,185]Sumireko:\t\"Just listen to me,\\. I'm just as surprised as you are!\"\\."
+        ]
+    },
+    "18": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"Ever since then, for whatever reason,\\.",
+            "\tit looks like I come here when I go to sleep.\\.",
+            "\tIn other words, I'm dreaming right now.\""
+        ]
+    },
+    "19": {
+        "lines": [
+            "\\c[255,210,255]Reimu:\t\"You can only come here in your dreams?\"\\.",
+            "\\c[255,225,185]Sumireko:\t\"Yup.\\.",
+            "\tLike I said, I'm just as surprised as you are.\""
+        ]
+    },
+    "20": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"I still don't think everything I did earlier",
+            "\twas just a dream though.\"\\.",
+            "\\c[255,210,255]Reimu:\t\"You think I'm stupid?\\. There's no way you're dre-\""
+        ]
+    },
+    "21": {
+        "lines": [
+            "Reimu tried to grab Sumireko,\\.",
+            "but her arm went right through her."
+        ]
+    },
+    "22": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"Ah,\\. looks like class is almost over.\\.",
+            "\tWhen I wake up, it'll be farewell~.\"\\.",
+            "\\c[255,210,255]Reimu:\t\"This is really the real deal? You're really dreaming...!\""
+        ]
+    },
+    "23": {
+        "lines": [
+            "\\c[255,210,255]Reimu:\t\"Oh wait, I almost forgot...\\.",
+            "\tAfter all that happened, I forgot to give this to you.\\.",
+            "\tIt's from Mokou.\""
+        ]
+    },
+    "24": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"Mokou?\"\\.",
+            "\\c[255,210,255]Reimu:\t\"That weird person who's always on fire.\\.",
+            "\tShe said something about you dropping it while she was guiding you...?\""
+        ]
+    },
+    "25": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"Aah, you mean her!\\.",
+            "\t...oh, those are my Zener cards.\\.",
+            "\tWell, I was going to throw them away anyway.\""
+        ]
+    },
+    "26": {
+        "lines": [
+            "\\c[255,210,255]Reimu:\t\"Well, it was enough reason for wanting to see you again.\\.",
+            "\tEven if it's just a dream,\\.",
+            "\thow about we meet up again next time?\""
+        ]
+    },
+    "27": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"Sure, why not?\\.",
+            "\tI want to capture that tiny human too...\\.",
+            "\tOkay, I'll be back later!\""
+        ]
+    },
+    "28": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"My dreams are expanding~.\"\\.",
+            "\\c[255,210,255]Reimu:\t\"But only your dreams.\"\\.",
+            "\\c[255,225,185]Sumireko:\t\"But only my dreams.\""
+        ]
+    },
+    "29": {
+        "lines": [
+            "As a result of being trapped in Gensokyo,\\.",
+            "her soul alone crossed over the boundary, back to Gensokyo.\\.",
+            "So you could say, that she became a resident of Gensokyo, if only in her dreams."
+        ]
+    },
+    "30": {
+        "lines": [
+            "While her body never came back to Gensokyo,\\.",
+            "her boring life was forever changed."
+        ]
+    },
+    "31": {
+        "lines": [
+            "New encounters and shocking thrills became part of her daily life.\\.",
+            "Before long, she became famous. Everyone enjoyed her tales of the Outside World,\\.",
+            "in the same way people enjoy fairy tales."
+        ]
+    },
+    "32": {
+        "lines": [
+            "However, since she enjoys her dreams a bit too much\\.",
+            "and started spending most of her day sleeping,\\.",
+            "her real life has suffered..."
+        ]
+    },
+    "33": {
+        "lines": [
+            "The legendary emperor Huang Di is said to have gotten the gist of politics,\\.",
+            "by spending time in an ideal country in his dreams.",
+            "That perfect land in his dreams was the legendary Utopia."
+        ]
+    },
+    "34": {
+        "lines": [
+            "As for Sumireko, she couldn't decide if Gensokyo was her Utopia,\\.",
+            "or the dream of a butterfly.\\. Anyhow, this was the summer,\\.",
+            "when the true activities of the Secret Sealing Club began."
+        ]
+    }
+}
