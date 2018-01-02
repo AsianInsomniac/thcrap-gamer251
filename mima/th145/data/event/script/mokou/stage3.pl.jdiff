@@ -1,0 +1,91 @@
+{
+    "1": {
+        "lines": [
+            "What's that?",
+            "You want the balls?"
+        ]
+    },
+    "2": {
+        "lines": [
+            "Yeah.",
+            "I heard you've been selling them."
+        ]
+    },
+    "3": {
+        "lines": [
+            "All right, sure thing."
+        ]
+    },
+    "4": {
+        "lines": [
+            "How much are you looking to pay?"
+        ]
+    },
+    "5": {
+        "lines": [
+            "Let's see...",
+            "give me your cheapest."
+        ]
+    },
+    "6": {
+        "lines": [
+            "Stop joking around,",
+            "these are extremely valuable."
+        ]
+    },
+    "7": {
+        "lines": [
+            "<balloon$a15x3>",
+            "Come to think of it,",
+            "kappa suffer when they run out of water,",
+            "right?"
+        ]
+    },
+    "8": {
+        "lines": [
+            "<balloon$a15x3>",
+            "How about I help you get rid of",
+            "the balls yourself",
+            "by drying you out?"
+        ]
+    },
+    "9": {
+        "lines": [
+            "Uwah, what a rude customer.",
+            "Gotta throw some salt!"
+        ]
+    },
+    "10": {
+        "lines": [
+            "Ow ow ow, hot hot hot!"
+        ]
+    },
+    "11": {
+        "lines": [
+            "You're troubling me, customer.",
+            "No need to be so violent."
+        ]
+    },
+    "12": {
+        "lines": [
+            "This one's a dud too, huh?"
+        ]
+    },
+    "13": {
+        "lines": [
+            "Was it just a coincidence",
+            "that Reimu came around the",
+            "Yomihirasaka ball?"
+        ]
+    },
+    "14": {
+        "lines": [
+            "Just a round ball?"
+        ]
+    },
+    "15": {
+        "lines": [
+            "Just a round ball."
+        ]
+    }
+}
