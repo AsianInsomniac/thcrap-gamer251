@@ -1,0 +1,98 @@
+{
+    "2": {
+        "lines": [
+            "Yay~ I won.",
+            "This is the face for happiness."
+        ]
+    },
+    "3": {
+        "lines": [
+            "Not enough to even talk about!",
+            "This is the face for anger."
+        ]
+    },
+    "4": {
+        "lines": [
+            "Too weak, so boring...",
+            "This is the face for sadness."
+        ]
+    },
+    "5": {
+        "lines": [
+            "Hey hey let's do it again♪",
+            "This is the face for joy."
+        ]
+    },
+    "6": {
+        "lines": [
+            "Weak! Too weak!",
+            "This is the face for surprise."
+        ]
+    },
+    "8": {
+        "lines": [
+            "Your level of hope can't fulfill me."
+        ]
+    },
+    "11": {
+        "lines": [
+            "Hey hey",
+            "This is the face for rebuff."
+        ]
+    },
+    "13": {
+        "lines": [
+            "Hey hey",
+            "This is the face for pretending to be a Buddha statue~"
+        ]
+    },
+    "15": {
+        "lines": [
+            "I see~",
+            "I need to control my emotions freely~"
+        ]
+    },
+    "17": {
+        "lines": [
+            "Hey hey",
+            "This is the face for pretending to be a plate spinner~"
+        ]
+    },
+    "19": {
+        "lines": [
+            "The new mask of hope...",
+            "I don't really want to put it on."
+        ]
+    },
+    "22": {
+        "lines": [
+            "How do you make those masks that you put up in your stall?"
+        ]
+    },
+    "24": {
+        "lines": [
+            "I found you! My nemesis!"
+        ]
+    },
+    "25": {
+        "lines": [
+            "Even if you return it...",
+            "...well...",
+            "<balloon$a15x3>",
+            "I got a new mask already, so",
+            "I don't really need it anymore."
+        ]
+    },
+    "27": {
+        "lines": [
+            "Hey hey",
+            "This is the face for pretending to be a tanuki~"
+        ]
+    },
+    "29": {
+        "lines": [
+            "What, what?",
+            "What face should I have for this situation...?"
+        ]
+    }
+}

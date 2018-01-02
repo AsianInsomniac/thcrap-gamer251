@@ -1,0 +1,52 @@
+{
+    "1": {
+        "lines": [
+            "Okay!",
+            "After the shrine maiden, you're next!"
+        ]
+    },
+    "2": {
+        "lines": [
+            "Er, yeah."
+        ]
+    },
+    "3": {
+        "lines": [
+            "I'll win this time, too!"
+        ]
+    },
+    "4": {
+        "lines": [
+            "What the?",
+            "It's not worth tricking her at all."
+        ]
+    },
+    "5": {
+        "lines": [
+            "What does she see",
+            "with those eyes?"
+        ]
+    },
+    "6": {
+        "lines": [
+            "What's wrong?",
+            "Lost your nerve?"
+        ]
+    },
+    "7": {
+        "lines": [
+            "No way, no way."
+        ]
+    },
+    "8": {
+        "lines": [
+            "Now then, this is the real thing."
+        ]
+    },
+    "9": {
+        "lines": [
+            "This won't turn out like it did",
+            "with that shrine maiden."
+        ]
+    }
+}
