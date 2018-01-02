@@ -5,7 +5,8 @@
 		"mima": "The return of Mima! (English)"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/Gamer251/thcrap-gamer251/master/"
+		"http://thcrap.nmlgc.net/repos/Gamer251/",
+		"http://mirrors.thpatch.net/Gamer251/"
 	],
 	"title": "The Amateur Modder"
 }
