@@ -125,6 +125,7 @@
 ,ClearBalloon,marisa
 
 ,Function,"StopBGM(500);",# BGM停止
+,Function,"GameStory_PlayBattleBGM(512);",# 戦闘BGM再生開始
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_嬉1,0,0
@@ -134,8 +135,6 @@
 #両者フェイス撤去
 ,th145_Hide,marisa,-1280,&
 ,th145_Hide,mamizou,-1280,
-
-,Function,"GameStory_PlayBattleBGM(512);",# 戦闘BGM再生開始
 
 ,Function,"RoundStory_Ready();",# TODO::対戦開始命令
 
