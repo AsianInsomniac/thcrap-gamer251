@@ -1,0 +1,6 @@
+key,ID,enemy,life0,life1,life2,life3,sp,time,name0,name1,name2,name3,talk_demo,func1,func2,func3,func4
+type,i,s,i,i,i,i,i,i,s,s,s,s,s,s,s,s,s
+-0,0,mamizou,4000,5000,5500,6000,1,5000,,,,,,CPU_Set_A,CPU_Set_A,CPU_Set_A,CPU_Set_A
+1,1,mamizou,4500,5500,6000,6500,500,5000,未確認「遊抱戯画」,未確認「遊抱戯画」,未確認「遊抱戯画」,未確認「遊抱戯画」,,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1
+2,2,mamizou,5000,6000,6500,7000,1500,5000,＊満員のエイリアンボール＊,＊満員のエイリアンボール＊,＊満員のエイリアンボール＊,＊満員のエイリアンボール＊,Common_BattleDemo_main2,CPU_Set_Boss2,CPU_Set_Boss2,CPU_Set_Boss2,CPU_Set_Boss2
+4,4,mamizou,5500,6500,7000,7500,1500,5000,＊そろそろ帰ろうエイリアン達よ＊,＊そろそろ帰ろうエイリアン達よ＊,＊そろそろ帰ろうエイリアン達よ＊,＊そろそろ帰ろうエイリアン達よ＊,,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3

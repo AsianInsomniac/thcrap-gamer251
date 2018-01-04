@@ -1,0 +1,95 @@
+{
+    "1": {
+        "lines": [
+            "――The Hakurei Shrine.\\.",
+            "This shrine lies on the border between Gensokyo and the Outside World."
+        ]
+    },
+    "2": {
+        "lines": [
+            "\\c[255,210,255]Kasen:\t\"What?",
+            "\tYou lost on purpose?\""
+        ]
+    },
+    "3": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"Yeah.\\.",
+            "\tI pretended to get hit by her last attack.\"\\.",
+            "\\c[255,210,255]Kasen:\t\"But why...?\""
+        ]
+    },
+    "4": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"Why, because I promised to give her a little present\\.",
+            "\tin the case that she could defeat me.\""
+        ]
+    },
+    "5": {
+        "lines": [
+            "\\c[255,210,255]Kasen:\t\"What is that...?\"\\.",
+            "\\c[255,225,185]Mamizou:\t\"Gensokyo's very own Occult Ball...\\. or a forgery of it anyway.\\.",
+            "\tInside, there's one of my tanuki subordinates in disguise.\""
+        ]
+    },
+    "6": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\tShe'll probably try to use it to enter Gensokyo soon,\\.",
+            "\tand when that happens, my subordinate will contact me.\\.",
+            "\tI'll get in touch with you then.\""
+        ]
+    },
+    "7": {
+        "lines": [
+            "\\c[255,210,255]Kasen:\t\"Ooh... How interesting.\""
+        ]
+    },
+    "8": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"Once the tanuki-turned Occult Ball returns,\\.",
+            "\tthere's no turning back for her.\\.",
+            "\tThe rest is on our end.\""
+        ]
+    },
+    "9": {
+        "lines": [
+            "\\c[255,225,185]Mamizou:\t\"But still, I never expected an ordinary schoolgirl-\\. I mean...\\. ",
+            "\tI never expected a human from the Outside World",
+            "\tto be so strong.\""
+        ]
+    },
+    "10": {
+        "lines": [
+            "Soon after, she received a message from her subordinate.\\.",
+            "The human had begun preparations to enter Gensokyo.\\.",
+            "On the Gensokyo side, preparations were already complete."
+        ]
+    },
+    "11": {
+        "lines": [
+            "There are two ways to cross the barrier:\\.",
+            "To leave it alone and somehow sneak through,\\.",
+            "or to follow the proper procedure and open a hole in it."
+        ]
+    },
+    "14": {
+        "lines": [
+            "However, because she believed Mamizou's trap,",
+            "she would soon be coming in properly.\\.",
+            "Sure enough..."
+        ]
+    },
+    "12": {
+        "lines": [
+            "The first way is called \"Spiriting Away\",",
+            "but it is limited in what things can come in and out.\\.",
+            "Also, in many cases\\. one can only stay on the other side for a fixed period of time."
+        ]
+    },
+    "13": {
+        "lines": [
+            "The second method has no such restrictions.\\.",
+            "Because the outside human was meddling in Gensokyo via the first method,\\.",
+            "they couldn't lay a hand on her."
+        ]
+    }
+}

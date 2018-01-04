@@ -1,0 +1,4 @@
+key,ID,enemy,life0,life1,life2,life3,sp,time,name0,name1,name2,name3,talk_demo,func1,func2,func3,func4
+type,i,s,i,i,i,i,i,i,s,s,s,s,s,s,s,s,s
+-0,0,reimu,2500,3500,4000,4500,1,5000,,,,,,CPU_Set_A,CPU_Set_A,CPU_Set_A,CPU_Set_A
+-0,0,reimu,3000,4000,4500,5000,700,5000,結界「至る所の青山」,結界「至る所の青山」,結界「至る所の青山」,結界「至る所の青山」,Common_BattleDemo_main2,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1

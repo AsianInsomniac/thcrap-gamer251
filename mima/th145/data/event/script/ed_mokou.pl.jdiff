@@ -1,0 +1,57 @@
+{
+    "1": {
+        "lines": [
+            "\\c[255,210,255]Mokou:\t\"...you're not too shabby.\\.",
+            "\tI've never seen techniques like that before.\"",
+            "\\c[255,225,185]Sumireko:\t\"Same to you! What power!\""
+        ]
+    },
+    "2": {
+        "lines": [
+            "\\c[255,210,255]Mokou:\t\"It's too bad, though...\\.",
+            "\tlooks like I'm almost out of time here.\\.",
+            "\tBut before I go, I must tell you...\""
+        ]
+    },
+    "3": {
+        "lines": [
+            "\\c[255,210,255]Mokou:\t\"...I really enjoyed my time here.\"",
+            "\\c[255,225,185]Sumireko:\t\"Well,\\. this took a turn for the passionate.\\.",
+            "\tIt's like a comic book.\""
+        ]
+    },
+    "4": {
+        "lines": [
+            "\\c[255,210,255]Mokou:\t\"Next time we meet, let's go all out.\\.",
+            "\tThen we'll enjoy the fear of a prickling painful death.\"\\.",
+            "\\c[255,225,185]Sumireko:\t\"Do you really have to go already?\""
+        ]
+    },
+    "5": {
+        "lines": [
+            "\\c[255,210,255]Mokou:\t\"Sorry, I can't help it.",
+            "\tI don't belong here.\\.",
+            "\tCome to Gensokyo some time!\""
+        ]
+    },
+    "6": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"Aah, she's gone...\\.",
+            "\tI didn't even get her name, and now she's gone--!\\.",
+            "\tYou forgot to tell me your naaame--!\""
+        ]
+    },
+    "7": {
+        "lines": [
+            "Well, for some reason that turned in a moving farewell with Mokou,\\.",
+            "but would they ever be able to meet again?"
+        ]
+    },
+    "8": {
+        "lines": [
+            "Next Episode:\t\"The Star-Crossed Tragedy\"\\.",
+            "What cruel traps await Sumireko in Gensokyo?\\.",
+            "\tStay tuned!"
+        ]
+    }
+}

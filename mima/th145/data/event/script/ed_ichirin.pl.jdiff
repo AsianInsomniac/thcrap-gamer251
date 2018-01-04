@@ -1,0 +1,82 @@
+{
+    "1": {
+        "lines": [
+            "――The Myouren Temple.\\.",
+            "Some human visitors could be seen here and there,\\.",
+            "but it is primarily a temple for youkai."
+        ]
+    },
+    "2": {
+        "lines": [
+            "\\c[255,225,185]Hijiri:\t\"What's the matter? What are you dazing about?\"",
+            "\\c[255,210,255]Ichirin:\t\"Ha~, sorry about that.\\.",
+            "\tFor some reason, my memories of the last few days are all fuzzy.\""
+        ]
+    },
+    "3": {
+        "lines": [
+            "\\c[255,225,185]Hijiri:\t\"And here you were all fired up, saying:\\.",
+            "\t'I'm gonna go get the Occult Balls!'\\.",
+            "\tI wonder what happened after that.\""
+        ]
+    },
+    "4": {
+        "lines": [
+            "\\c[255,210,255]Ichirin:\t\"The Occult Balls...\\.",
+            "\tYeah, that was it.\""
+        ]
+    },
+    "5": {
+        "lines": [
+            "Ichirin seemed to recall something.\\.",
+            "After gathering all the balls,\\.",
+            "she lost consciousness and had a strange dream."
+        ]
+    },
+    "6": {
+        "lines": [
+            "It was unbearably hot, the night was far too bright,\\.",
+            "and she was surrounded by disorienting skyscrapers."
+        ]
+    },
+    "7": {
+        "lines": [
+            "She had been flying around there.\\.",
+            "She seemed to be surrounded by a strong aura,\\.",
+            "but it wasn't something that felt refreshing."
+        ]
+    },
+    "8": {
+        "lines": [
+            "\\c[255,210,255]Ichirin:\t\"Oh right, I've been having a dream.\\.",
+            "\tA pretty strange dream.\\.",
+            "\tAbout a world where everyone denies themselves.\""
+        ]
+    },
+    "9": {
+        "lines": [
+            "\\c[255,225,185]Hijiri:\t\"Were you being rejected by this world?\"\\.",
+            "\\c[255,210,255]Ichirin:\t\"Rejected...?\\.",
+            "\tYes, I think so.\""
+        ]
+    },
+    "10": {
+        "lines": [
+            "\\c[255,225,185]Hijiri:\t\"You were saying that you could achieve enlightenment",
+            "\tby gathering seven orbs.\\.",
+            "\tMaybe this just means that it's too soon for you to be enlightened.\""
+        ]
+    },
+    "11": {
+        "lines": [
+            "Could that other world have been the world of Buddha?\\.",
+            "If so, she had a feeling that didn't belong there."
+        ]
+    },
+    "12": {
+        "lines": [
+            "If that place was what enlightenment meant,\\.",
+            "then Ichirin didn't want any part of it at all."
+        ]
+    }
+}

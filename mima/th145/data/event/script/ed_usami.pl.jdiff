@@ -1,0 +1,69 @@
+{
+    "1": {
+        "lines": [
+            "――The Outside World, in the sky above the city.",
+            "Few stars are out tonight,\\.",
+            "but the entire starry sky is visible from the surface."
+        ]
+    },
+    "2": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"*hah hah hah*\\.",
+            "\tLooks like I came back, some way or another.\""
+        ]
+    },
+    "3": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"But I still haven't returned properly.",
+            "\tIf I'd just had more time,\\.",
+            "\tI could have returned on my own.\""
+        ]
+    },
+    "4": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"In a few minutes I must to go back there.\\.",
+            "    In the meantime,\\.",
+            "    I'll have to think up some countermeasure.\""
+        ]
+    },
+    "5": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"If worse comes to worst,\\.",
+            "\tI'll have to rely on this ball.\""
+        ]
+    },
+    "6": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"I had planned to use it\\.",
+            "\tafter the people of Gensokyo gathered enough power for it,\\.",
+            "\tbut...\""
+        ]
+    },
+    "7": {
+        "lines": [
+            "\\c[255,225,185]Sumireko:\t\"If I released its power,\\.",
+            "\tit should become a key",
+            "\tallowing me to come and go to Gensokyo freely.\""
+        ]
+    },
+    "8": {
+        "lines": [
+            "Despite the residents of Gensokyo (apparently?) aiming for her life,\\.",
+            "the girl somehow managed to get home and was savouring her brief respite."
+        ]
+    },
+    "9": {
+        "lines": [
+            "She would soon be thrown back into Gensokyo.\\.",
+            "If she didn't think of a plan to escape by then,\\.",
+            "she might really be in danger the next time."
+        ]
+    },
+    "10": {
+        "lines": [
+            "However,\\. the time to make a decision",
+            "came earlier than she expected.\\.",
+            "And soon the final battle was upon us."
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+type,s,s,s,s,s,s,s
+reimu,marisa,ichirin,futo,hijiri,miko,mamizou,kokoro
+marisa,reimu,nitori,koishi,miko,hijiri,mamizou,kokoro
+ichirin,marisa,reimu,nitori,koishi,hijiri,mamizou,kokoro
+hijiri,futo,marisa,reimu,miko,reimu,mamizou,kokoro
+futo,marisa,koishi,ichirin,nitori,miko,mamizou,kokoro
+miko,reimu,marisa,ichirin,hijiri,miko,mamizou,kokoro
+nitori,hijiri,ichirin,marisa,reimu,miko,mamizou,kokoro
+koishi,miko,futo,marisa,ichirin,reimu,mamizou,kokoro
+mamizou,ichirin,futo,hijiri,miko,reimu,kokoro,
+kokoro,ichirin,nitori,koishi,futo,marisa,mamizou,reimu

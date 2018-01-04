@@ -1,0 +1,58 @@
+{
+    "/root/nutstream/stream/Functions/5/Literals/14": "↑↓: Switch - Z: OK - X: Cancel",
+    "/root/nutstream/stream/Functions/7/Literals/4": "↑↓: Switch - Z: OK - X: Cancel",
+    "/root/nutstream/stream/Functions/11/Literals/3": "↑↓←→: Switch - Z: OK - X: Cancel",
+    "/root/nutstream/stream/Functions/12/Literals/5": "Enter: OK - ESC: Cancel",
+    "/sprites/10/keyframe/layout/stText": [
+        "Delete this profile?",
+        "",
+        " ",
+        "",
+        "　　　　　　　 Yes",
+        "　　　　　　　 No"
+    ],
+    "/sprites/13/keyframe/layout/stText": [
+        "Copy this profile?",
+        "",
+        " ",
+        "",
+        "　　　　　　　 Yes",
+        "　　　　　　　 No"
+    ],
+    "/sprites/3/keyframe/layout/stText": "Enter profile name",
+    "/sprites/6/keyframe/layout/stText": "* Please enter name on keyboard (12 characters)",
+    "/sprites/16/keyframe/layout/stText": "Enter profile name\\n",
+    "/sprites/18/keyframe/layout/stText": "* Please enter name on keyboard (12 characters)\\n",
+    "/sprites/37/keyframe/layout/stText": [
+        "Select Profile",
+        "Key Config",
+        "",
+        "",
+        "",
+        "Profile select",
+        "Key Config",
+        "",
+        "",
+        "Back"
+    ],
+    "/root/nutstream/stream/Functions/10/Literals/47": "Show key assign",
+    "/root/nutstream/stream/Functions/10/Literals/60": "Pad assign[",
+    "/root/nutstream/stream/Functions/10/Literals/58": "Keyboard assign[",
+    "/sprites/39/keyframe/layout/stText": "Player 2\\n",
+    "/sprites/38/keyframe/layout/stText": "Player 1\\n",
+    "/root/nutstream/stream/Functions/12/Literals/42": "*Duplicate name*",
+    "/root/nutstream/stream/Functions/13/Literals/20": "Delete .prf",
+    "/root/nutstream/stream/Functions/18/Literals/40": "Back",
+    "/root/nutstream/stream/Functions/18/Literals/30": "Key config\\n",
+    "/root/nutstream/stream/Functions/18/Literals/29": "Select profile\\n",
+    "/sprites/48/keyframe/layout/stText": [
+        "Key Config",
+        "Select Icon",
+        "Create New Profile",
+        "Copy Profile",
+        "Delete Profile",
+        "Change Profile Name",
+        "",
+        "Back to Title"
+    ]
+}

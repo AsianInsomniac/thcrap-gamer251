@@ -1,0 +1,6 @@
+key,ID,enemy,life0,life1,life2,life3,sp,time,name0,name1,name2,name3,talk_demo,func1,func2,func3,func4
+type,i,s,i,i,i,i,i,i,s,s,s,s,s,s,s,s,s
+-0,0,kasen,4000,5000,5500,6000,1,5000,,,,,,CPU_Set_A,CPU_Set_A,CPU_Set_A,CPU_Set_A
+1,1,kasen,4500,5500,6000,6500,600,5000,雷符「微速の務光」 ,雷符「微速の務光」 ,雷符「微速の務光」 ,雷符「微速の務光」 ,,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1
+2,2,kasen,5000,6000,6500,7000,1500,5000,＊死ぬまで願いを叶える手＊ ,＊死ぬまで願いを叶える手＊ ,＊死ぬまで願いを叶える手＊ ,＊死ぬまで願いを叶える手＊ ,,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3
+3,3,kasen,5500,6500,7000,7500,1500,5000,＊猿の手はオカルトな夢を見る＊,＊猿の手はオカルトな夢を見る＊,＊猿の手はオカルトな夢を見る＊,＊猿の手はオカルトな夢を見る＊,Common_BattleDemo_main2,CPU_Set_Boss4,CPU_Set_Boss4,CPU_Set_Boss4,CPU_Set_Boss4

@@ -1,0 +1,76 @@
+{
+    "1": {
+        "lines": [
+            "――The Palace of the Earth Spirits.\\.",
+            "A cursed mansion, approached by neither youkai,\\.",
+            "nor vengeful spirits,\\. let alone humans."
+        ]
+    },
+    "2": {
+        "lines": [
+            "\\c[255,225,185]Satori:\t\"Oh?\\.",
+            "\tThat must have been a human from the outside.\"\\.",
+            "\\c[255,210,255]Koishi:\t\"A human from the outside...?\""
+        ]
+    },
+    "3": {
+        "lines": [
+            "\\c[255,225,185]Satori:\t\"You probably don't know this,\\.",
+            "\tbut there are many different worlds on the surface.\\.",
+            "\tFor example, the Netherworld and Higan,\\. or the Land of the Oni\\. and Genkai...\""
+        ]
+    },
+    "4": {
+        "lines": [
+            "\\c[255,225,185]Satori:\t\"The Outside World is one of these.\\.",
+            "\tAnd it's also the scariest world of them all.\""
+        ]
+    },
+    "5": {
+        "lines": [
+            "\\c[255,225,185]Satori:\t\"This is because Gensokyo can only exist",
+            "\tdue to the Outside World.\"\\.",
+            "\\c[255,210,255]Koishi:\t\"Mmmm...\""
+        ]
+    },
+    "6": {
+        "lines": [
+            "\\c[255,225,185]Satori:\t\"What is that?\"\\.",
+            "\\c[255,210,255]Koishi:\t\"This?\\. This is a phone, I think.\\.",
+            "\tThe outside human dropped it.\""
+        ]
+    },
+    "7": {
+        "lines": [
+            "\\c[255,225,185]Satori:\t\"Huh?",
+            "\tI've seen a phone before,\\.",
+            "\tbut I remember it having a lot more buttons and stuff.\""
+        ]
+    },
+    "8": {
+        "lines": [
+            "\\c[255,210,255]Koishi:\t\"Hello~!\\.",
+            "\tI plan to be behind you!\"\\.",
+            "\\c[255,225,185]Satori:\t\"I told you,\\. no one's going to be scared by that.\""
+        ]
+    },
+    "9": {
+        "lines": [
+            "The human from outside met Koishi, and immediately ran home.\\.",
+            "The legend of Mary, which scared no one in Gensokyo,\\.",
+            "seemed to have an immediate effect on humans from the Outside World(?)."
+        ]
+    },
+    "10": {
+        "lines": [
+            "Youkai, devils, and evil spirits of the land.\\.",
+            "Humans in the Outside World no longer fear these things."
+        ]
+    },
+    "11": {
+        "lines": [
+            "However,\\.",
+            "a single phone call can drop them into the abyss of terror."
+        ]
+    }
+}

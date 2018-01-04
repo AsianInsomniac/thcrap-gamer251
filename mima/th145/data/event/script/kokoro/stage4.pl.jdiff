@@ -1,0 +1,65 @@
+{
+    "1": {
+        "lines": [
+            "Who is it?"
+        ]
+    },
+    "2": {
+        "lines": [
+            "Oh, the Menreiki...?",
+            "What is it? Don't bother me right now."
+        ]
+    },
+    "3": {
+        "lines": [
+            "What are you doing?"
+        ]
+    },
+    "4": {
+        "lines": [
+            "Something that does not concern you."
+        ]
+    },
+    "5": {
+        "lines": [
+            "If you're not busy,",
+            "could you fix my mask for me?"
+        ]
+    },
+    "6": {
+        "lines": [
+            "I'm telling you that I am busy."
+        ]
+    },
+    "7": {
+        "lines": [
+            "This is a critical moment for",
+            "the strife that these balls lay at the heart of..."
+        ]
+    },
+    "8": {
+        "lines": [
+            "...Wait, why do you",
+            "still have Occult Balls?"
+        ]
+    },
+    "9": {
+        "lines": [
+            "That was close.",
+            "I had intended to gather all of them,"
+        ]
+    },
+    "10": {
+        "lines": [
+            "but I didn't think I'd still",
+            "find more at this time."
+        ]
+    },
+    "11": {
+        "lines": [
+            "How odd...",
+            "There are way too many Occult Balls.",
+            "What does this mean?"
+        ]
+    }
+}

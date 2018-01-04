@@ -1,0 +1,16 @@
+type,s,s,s,s,s,s,s
+reimu,marisa,kasen,usami,,,,
+marisa,reimu,ichirin,mokou,mamizou,kasen,usami,
+ichirin,futo,marisa,sinmyoumaru,miko,,,
+hijiri,ichirin,futo,nitori,mokou,miko,,
+futo,ichirin,reimu,mokou,hijiri,,,
+miko,futo,ichirin,nitori,sinmyoumaru,hijiri,,
+nitori,marisa,ichirin,mokou,mamizou,,,
+koishi,reimu,marisa,kasen,usami,,,
+mamizou,marisa,reimu,kokoro,kasen,usami,,
+kokoro,ichirin,nitori,futo,miko,,,
+kasen,reimu,futo,kokoro,mamizou,usami,,
+mokou,reimu,marisa,nitori,kasen,usami,,
+sinmyoumaru,ichirin,futo,koishi,mamizou,usami,,
+usami,kasen,ichirin,kokoro,marisa,sinmyoumaru,mokou,miko
+reimuB,mamizou,mokou,kasen,usami,,,

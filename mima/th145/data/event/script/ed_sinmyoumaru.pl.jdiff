@@ -1,0 +1,62 @@
+{
+    "1": {
+        "lines": [
+            "――The Hakurei Shrine.\\.",
+            " ",
+            "The shrine lies on the boundary between Gensokyo and the Outside World."
+        ]
+    },
+    "2": {
+        "lines": [
+            "\\c[255,210,255]Shinmyoumaru:\t\"*shiver tremble*\\.",
+            "\t\tI've seen something terrible.\\.",
+            "\t\tI thought she was gonna eat me.\""
+        ]
+    },
+    "3": {
+        "lines": [
+            "\\c[255,210,255]Shinmyoumaru:\t\"I never thought such brutal and uncivilized humans existed.\\.",
+            "\t\tOr maybe she was a tanuki?\"\\.",
+            "\\c[255,225,185]???:\t\"What are you doing?\""
+        ]
+    },
+    "4": {
+        "lines": [
+            "\\c[255,210,255]Shinmyoumaru:\t\"Ah, I gathered the balls and saw something terrible.\"\\.",
+            "\\c[255,225,185]Reimu:\t\"Huh.\\.\tWell, you reap what you sow.\""
+        ]
+    },
+    "5": {
+        "lines": [
+            "\\c[255,210,255]Shinmyoumaru:\t\"What do you mean?\"\\.",
+            "\\c[255,225,185]Reimu:\t\"It's too much trouble to explain.\\.",
+            "\tActually, I don't think I could anyway.\""
+        ]
+    },
+    "6": {
+        "lines": [
+            "\\c[255,225,185]Reimu:\t\"Having you sit there and cry is kind of a pain though,\\.",
+            "\tso could you just leave already?\"\\.",
+            "\\c[255,210,255]Shinmyoumaru:\t\"Aah... Gensokyo's humans are so kind.\""
+        ]
+    },
+    "7": {
+        "lines": [
+            "She never really believed that she could grow bigger\\.",
+            "by gathering the balls."
+        ]
+    },
+    "8": {
+        "lines": [
+            "However, she's the type of person who wouldn't be satisfied\\.",
+            "until she investigated a silly rumor like that."
+        ]
+    },
+    "9": {
+        "lines": [
+            "In the end, she was only made to realize the true breadth of the world,\\.",
+            "but she's always been an inchling.\\.",
+            "She's known how big the world is all along."
+        ]
+    }
+}

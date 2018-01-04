@@ -1,0 +1,42 @@
+{
+    "1": {
+        "lines": [
+            "You've arrived!"
+        ]
+    },
+    "2": {
+        "lines": [
+            "You want to determine the strongest",
+            "practitioner on my own territory, do you?"
+        ]
+    },
+    "3": {
+        "lines": [
+            "Yes."
+        ]
+    },
+    "4": {
+        "lines": [
+            "Regardless of *these conditions*,",
+            "I thought I'd have to settle things",
+            "eventually."
+        ]
+    },
+    "5": {
+        "lines": [
+            "With you, and your evil spells."
+        ]
+    },
+    "6": {
+        "lines": [
+            "How utterly absurd!"
+        ]
+    },
+    "7": {
+        "lines": [
+            "To me, your religion,",
+            "which only serves to control humans,",
+            "is far more evil!"
+        ]
+    }
+}
