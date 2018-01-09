@@ -4,7 +4,6 @@
 		"nmlgc/base_tasofro",
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
-		"thpatch/lang_en",
 		"DTM/alphes"
 	],
 	"id": "mima",
