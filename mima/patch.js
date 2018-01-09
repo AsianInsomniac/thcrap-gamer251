@@ -1,13 +1,16 @@
 {
 	"dependencies": [
 		"nmlgc/base_tsa",
+		"nmlgc/base_tasofro",
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
-		"nmlgc/base_tasofro"
+		"thpatch/lang_en",
+		"DTM/alphes"
 	],
 	"id": "mima",
 	"servers": [
-		"https://raw.githubusercontent.com/Gamer251/thcrap-gamer251/master/mima/"
+		"http://thcrap.nmlgc.net/repos/Gamer251/",
+		"http://mirrors.thpatch.net/Gamer251/"
 	],
 	"title": "The return of Mima! (English)"
 }
