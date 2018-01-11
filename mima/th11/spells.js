@@ -37,7 +37,7 @@
     "98": "Vague Recollection \"Magical Rain, Violet Tracks\"",
     "102": "Copycat \"Spectrum Madness\"",
     "106": "Vague Recollection \"Orbiting Moons\"",
-    "110": "Recollection \"Shooting Stars\"",
+    "110": "Recollection \"Meteorite Shower\"",
     "114": "Recollection \"Asteroid Belt -Prototype-\"",
     "118": "Cat Sign \"Cat's Walk\"",
     "120": "Cat Sign \"Vengeful Cat Spirit's Erratic Step\"",
