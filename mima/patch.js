@@ -9,8 +9,8 @@
 	],
 	"id": "mima",
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/Gamer251/",
-		"http://mirrors.thpatch.net/Gamer251/"
+		"http://thcrap.nmlgc.net/repos/Gamer251/mima/",
+		"http://mirrors.thpatch.net/Gamer251/mima/"
 	],
 	"title": "The return of Mima! (English)"
 }
