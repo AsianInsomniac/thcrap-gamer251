@@ -34,11 +34,6 @@
     "82": "Vague Recollection \"Disintegrating Particle Formation\"",
     "86": "Vague Recollection \"Berserk Robot Kamikaze\"",
     "90": "Vague Recollection \"Self-Destructing Android Fairies\"",
-=======
-    "82": "Vague Recollection \"Sailor of Time\"",
-    "86": "Recollection \"Heat-Seeking Device\"",
-    "90": "Vague Recollection \"Dream Clock\"",
->>>>>>> 0d9186ec2494434d69a333ddde74fe03e1ce675a
     "94": "Vague Recollection \"Fiery Shackles, Red Spear\"",
     "98": "Vague Recollection \"Magical Rain, Violet Tracks\"",
     "102": "Copycat \"Myriad of Madness\"",
