@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "0": "Horror \"Tsurube-Otoshi Apparition\"",
     "2": "Trap Sign \"Capture Web\"",
     "4": "Spider \"Cave Spider's Nest\"",
