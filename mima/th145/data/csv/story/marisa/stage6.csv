@@ -1,6 +1,6 @@
 key,ID,enemy,life0,life1,life2,life3,sp,time,name0,name1,name2,name3,talk_demo,func1,func2,func3,func4
 type,i,s,i,i,i,i,i,i,s,s,s,s,s,s,s,s,s
--0,0,usami,4500,5500,6000,6500,1,5000,,,,,,CPU_Set_A,CPU_Set_A,CPU_Set_A,CPU_Set_A
-1,1,usami,5000,6000,6500,7000,500,5000,念力「サイコプロ−ジョン」,念力「サイコプロ−ジョン」,念力「サイコプロ−ジョン」,念力「サイコプロ−ジョン」,,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1
-2,2,usami,5500,6500,7000,7500,1000,5000,念力「テレキネシス　不法投棄」,念力「テレキネシス　不法投棄」,念力「テレキネシス　不法投棄」,念力「テレキネシス　不法投棄」,,CPU_Set_Boss2,CPU_Set_Boss2,CPU_Set_Boss2,CPU_Set_Boss2
-3,3,usami,6000,7000,7500,8000,1500,5000,＊現し世のオカルティシャン＊,＊現し世のオカルティシャン＊,＊現し世のオカルティシャン＊,＊現し世のオカルティシャン＊,Common_BattleDemo_main2,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3
+-0,0,kasen,4000,5000,5500,6000,1,5000,,,,,,CPU_Set_A,CPU_Set_A,CPU_Set_A,CPU_Set_A
+1,1,kasen,4500,5500,6000,6500,600,5000,雷符「微速の務光」 ,雷符「微速の務光」 ,雷符「微速の務光」 ,雷符「微速の務光」 ,Common_BattleDemo_main2,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1
+2,2,kasen,5000,6000,6500,7000,1500,5000,＊死ぬまで願いを叶える手＊ ,＊死ぬまで願いを叶える手＊ ,＊死ぬまで願いを叶える手＊ ,＊死ぬまで願いを叶える手＊ ,,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3
+3,3,kasen,5500,6500,7000,7500,1500,5000,＊猿の手はオカルトな夢を見る＊,＊猿の手はオカルトな夢を見る＊,＊猿の手はオカルトな夢を見る＊,＊猿の手はオカルトな夢を見る＊,,CPU_Set_Boss4,CPU_Set_Boss4,CPU_Set_Boss4,CPU_Set_Boss4
