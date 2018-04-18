@@ -119,7 +119,7 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_嬉1,0,0
-"So, what are you doin here,\nnameless spirit?\",a15x3,0,0
+"So, what are you doin here \nnameless spirit?\",a15x3,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,
@@ -154,7 +154,7 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_決1,0,0
-"Very well, you have wanted it,\nI will force you out.\",a15x3,0,0
+"Very well, you have wanted it \nI will force you out.\",a15x3,0,0
 ,ClearBalloon,miko
 
 
