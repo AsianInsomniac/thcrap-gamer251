@@ -53,11 +53,8 @@
 ,Function,GameStory_TitleCall();
 ,Function,"function main(){ for (local i=0; i < 150; i++) suspend(); }"
 
-
-,th145_Show,marisa,-1280,
-
-
-,SetFocus,marisa		,
+,SetFocus,marisa
+,th145_Show,marisa,-1280,		,
 ,ImageDef,marisa,魔理沙_怒1,0,0
 "So this is the Shrine at night?\",a15x3,0,0
 ,ClearBalloon,marisa
@@ -116,12 +113,12 @@
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,
-,ImageDef,marisa,神子_汗1,0,0
+,ImageDef,marisa,魔理沙_汗1,0,0
 "Ha, as if you will\nfind it easy with me.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,miko		,
-,ImageDef,miko,魔理沙_驚1,0,0
+,ImageDef,miko,神子_驚1,0,0
 "So, what are you doin here, nameless spirit?\",a15x3,0,0
 ,ClearBalloon,miko
 
