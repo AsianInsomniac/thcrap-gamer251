@@ -129,14 +129,14 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_余1,0,0
-"And I'm also looking for \na certain Kasen.\",a11x2,0,0
+"And I'm also looking for a certain Kasen.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,Function,"StopBGM(4000);",# BGM停止
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_驚1,0,0
-"Oh I see at this moment \nshe is not here.\",a11x2,0,0
+"Oh I see at this moment \n she is not here.\",a15x3,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,miko		,
@@ -193,7 +193,7 @@ I can tell you how.\,a05x2,320,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,#発言中キャラを指定
-"Is it so hard for \nyou to defeat me?\",a11x2,0,0
+"Is it so hard for \nyou to defeat me?\",a15x3,0,0
 ,ClearBalloon,marisa
 
 #両者フェイス撤去
