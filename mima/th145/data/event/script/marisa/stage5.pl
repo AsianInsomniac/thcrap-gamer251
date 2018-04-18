@@ -123,7 +123,7 @@ I can tell you how.\,a05x2,320,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,
-,ImageDef,marisa,ñÇóùçπ_ó]2,0,0
+,ImageDef,marisa,ñÇóùçπ_ó]1,0,0
 "I'm here to stop the person who caused \nall this mess with\nthe Urban Legends.\",a15x3,0,0
 ,ClearBalloon,marisa
 
