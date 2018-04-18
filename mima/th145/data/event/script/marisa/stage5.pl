@@ -100,7 +100,7 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_普1,0,0
-"And the person who made the orbs is in the\nOutside World, as you already know.\",a15x3,0,0
+"And the person who made the orbs is in the\nOutside World"," as you already know.\",a15x3,0,0
 ,ClearBalloon,miko
 
 #紹介カット表示　神子は「神子_普1」からのみ実行可能\,a11x2,0,0
@@ -109,12 +109,12 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_普1,0,0
-"And, I'll have to take\naway those orbs.\",a11x2,0,0
+"And"," I'll have to take\naway those orbs.\",a11x2,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_嬉1,0,0
-"Ha, as if you will find\nit easy with me.\",a11x2,0,0
+"Ha"," as if you will find\nit easy with me.\",a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,miko		,
@@ -250,7 +250,7 @@ I can tell you how.\,a05x2,320,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa
-"Now if you allow me, I'm\ngoing to look for Kasen.\",a15x3,0,0
+"Now if you allow me"," I'm\ngoing to look for Kasen.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,miko
