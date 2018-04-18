@@ -53,12 +53,10 @@
 ,Function,GameStory_TitleCall();
 ,Function,"function main(){ for (local i=0; i < 150; i++) suspend(); }"
 
-# 2Pキャラステージ下から登場
-,Function,GameStory_2P_In_Side(),
-,Function,"function main(){ for (local i=0; i < 60; i++) suspend(); }"
 
-,SetFocus,marisa
-,th145_Show,marisa,-1280,		,
+,th145_Show,marisa,-1280	
+
+,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_怒1,0,0
 "So this is the Shrine at night?\",a15x3,0,0
 ,ClearBalloon,marisa
