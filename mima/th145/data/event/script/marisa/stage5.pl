@@ -84,7 +84,7 @@
 
 ,SetFocus,miko		,
 #,ImageDef,miko,神子_普1,0,0
-I can tell you how.\,a05x2,320,0
+"I can tell you how.\",a05x2,320,0
 ,ClearBalloon,miko
 
 # 2Pキャラステージ下から登場
@@ -100,7 +100,7 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_普1,0,0
-"And the person who made the orbs is in the \nOutside World as you already know.\",a15x3,0,0
+"And the person who made the orbs is in the \nOutside World, as you already know.\",a15x3,0,0
 ,ClearBalloon,miko
 
 #紹介カット表示　神子は「神子_普1」からのみ実行可能\,a11x2,0,0
@@ -109,17 +109,17 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_普1,0,0
-"And I'll have to take \naway those orbs.\",a11x2,0,0
+"And, I'll have to take \naway those orbs.\",a11x2,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_嬉1,0,0
-"Ha as if you will find \nit easy with me.\",a11x2,0,0
+"Ha, as if you will find \nit easy with me.\",a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_嬉1,0,0
-"So what are you doin here \nnameless spirit?\",a15x3,0,0
+"So, what are you doin here,\nnameless spirit?\",a15x3,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,
@@ -129,14 +129,14 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_余1,0,0
-"And I'm also looking for a certain Kasen.\",a15x3,0,0
+"And,I'm also looking for a certain Kasen.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,Function,"StopBGM(4000);",# BGM停止
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_驚1,0,0
-"Oh I see at this moment \n she is not here.\",a15x3,0,0
+"Oh, I see, at this moment \n she is not here.\",a15x3,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,miko		,
@@ -154,7 +154,7 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_決1,0,0
-"Very well you have wanted it \nI will force you out.\",a15x3,0,0
+"Very well, you have wanted it \nI will force you out.\",a15x3,0,0
 ,ClearBalloon,miko
 
 
@@ -250,7 +250,7 @@ I can tell you how.\,a05x2,320,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa
-"Now if you allow me I'm \ngoing to look for Kasen.\",a15x3,0,0
+"Now if you allow me,I'm \ngoing to look for Kasen.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,miko
