@@ -14,8 +14,8 @@
 ,LoadImageDef,"data/event/pic/kasen.csv"
 
 #フェイス画像
-,DefineObject,usami,-360,0,false
-,DefineObject,mokou,-360,0,true
+,DefineObject,marisa,-360,0,false
+,DefineObject,kasen,-360,0,true
 
 ,Return
 # =========================================================
