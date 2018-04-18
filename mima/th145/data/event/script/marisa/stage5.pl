@@ -119,7 +119,7 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_嬉1,0,0
-"So, what are you doin here \nnameless spirit?\",a15x3,0,0
+"So"," what are you doin here \nnameless spirit?\",a15x3,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,
@@ -129,14 +129,14 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_余1,0,0
-"And, I'm also looking for\na certain Kasen.\",a11x2,0,0
+"And"," I'm also looking for\na certain Kasen.\",a11x2,0,0
 ,ClearBalloon,marisa
 
 ,Function,"StopBGM(4000);",# BGM停止
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_驚1,0,0
-"Oh, I see, at this moment\nshe is not here.\",a11x2,0,0
+"Oh"," I see"," at this moment\nshe is not here.\",a11x2,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,miko		,
@@ -154,7 +154,7 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_決1,0,0
-"Very well, you have wanted it \nI will force you out.\",a15x3,0,0
+"Very well"," you have wanted it \nI will force you out.\",a15x3,0,0
 ,ClearBalloon,miko
 
 
