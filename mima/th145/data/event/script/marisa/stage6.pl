@@ -128,7 +128,7 @@
 
 ,SetFocus,kasen		,
 ,ImageDef,kasen,‰Øî_“{2,0,0
-"Being Mamizou's challenge or not, I\nwon't let any spirit to\npass through here.\",a05x2,0,0
+"Being Mamizou's challenge or not, I\nwon't let any spirit to\npass through here.\",a15x3,0,0
 ,ClearBalloon,kasen
 
 ,SetFocus,marisa		,
@@ -164,7 +164,7 @@
 
 #‰Šú•\îİ’è
 ,ImageDef,marisa,–‚—¹_Œˆ1,0,0
-,ImageDef,kasen,‰Øî_Šğ1,0,0
+,ImageDef,kasen,‰Øî_•2,0,0
 
 ,Sleep,5
 
