@@ -234,7 +234,7 @@
 ,ClearBalloon,marisa
 
 ,SetFocus,kasen
-"(Good, she took the bait. I hope she\ncomes back in one piece)\",a15x3,0,0
+"Good, she took the bait. I hope she\ncomes back in one piece\",a15x3,0,0
 ,ClearBalloon,kasen
 
 ,Function,"::StopBGM(1500);"
