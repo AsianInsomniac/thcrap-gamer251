@@ -58,23 +58,33 @@
 
 
 ,SetFocus,marisa		,
-,ImageDef,marisa,魔理沙_汗1,0,0
-結局神社に戻って\n来てしまった……\,a11x2,0,0
+,ImageDef,marisa,魔理沙_普2,0,0
+"So this is the\nShrine at night?\",a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,
-,ImageDef,marisa,魔理沙_惑1,0,0
-幻想郷に来るといつも\nここからだからねぇ\,a11x2,0,0
+,ImageDef,marisa,魔理沙_普1,0,0
+"That's strange.\",a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_怒1,0,0
-何とかして戻る手段を\n考えないと……\,a11x2,0,0
+"It looks like somebody broke down a\nhuge part of the ground.\",a15x3,0,0
+,ClearBalloon,marisa
+
+,SetFocus,marisa		,
+,ImageDef,marisa,魔理沙_驚2,0,0
+"And down there you can\nsee the Outside World!\",a15x3,0,0
+,ClearBalloon,marisa
+
+,SetFocus,marisa		,
+,ImageDef,marisa,魔理沙_汗1,0,0
+"But how did they breach the barrier?\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,miko		,
 #,ImageDef,miko,神子_普1,0,0
-遅かったな\,a05x2,320,0
+I can tell you how.\,a05x2,320,0
 ,ClearBalloon,miko
 
 # 2Pキャラステージ下から登場
@@ -84,82 +94,67 @@
 ,th145_Show,miko,-1280,
 
 ,SetFocus,miko		,
+,ImageDef,miko,神子_余1,0,0
+"Those orbs that you got are the\ncause of this mess.\",a15x3,0,0
+,ClearBalloon,miko
+
+,SetFocus,miko		,
 ,ImageDef,miko,神子_普1,0,0
-お前が来るのを待っていたよ\,a15x3,0,0
+"And the person who made the orbs is in the\nOutside World, as you already know.\",a15x3,0,0
 ,ClearBalloon,miko
 
 #紹介カット表示　神子は「神子_普1」からのみ実行可能\,a11x2,0,0
 ,th145_CharName_Cutin,miko
 ,Function,"function main(){ for (local i=0; i < 30; i++) suspend(); }"
 
+,SetFocus,miko		,
+,ImageDef,miko,神子_普1,0,0
+"And, I'll have to take\naway those orbs.\",a11x2,0,0
+,ClearBalloon,miko
+
 ,SetFocus,marisa		,
-,ImageDef,marisa,魔理沙_驚1,0,0
-今度は一体何よ\nもう帰らせてよー\,a11x2,0,0
+,ImageDef,marisa,魔理沙_嬉1,0,0
+"Ha, as if you will find\nit easy with me.\",a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,miko		,
-,ImageDef,miko,神子_驚1,0,0
-帰りたい？\,a05x2,0,0
+,ImageDef,miko,神子_嬉1,0,0
+"So, what are you doin here,\nnameless spirit?\",a15x3,0,0
 ,ClearBalloon,miko
-
-,SetFocus,miko		,
-,ImageDef,miko,神子_余1,0,0
-ほう面白い事を言うじゃないか\,a15x3,0,0
-,ClearBalloon,miko
-
-,SetFocus,miko		,
-,ImageDef,miko,神子_余2,0,0
-私はお前を外の世界に\n送り返す為に待っていたのだ\,a15x3,0,0
-,ClearBalloon,miko
-
-,SetFocus,miko		,
-,ImageDef,miko,神子_怒1,0,0
-このオカルトボールと\n一緒にな\,a11x2,0,0
-,ClearBalloon,miko
-
-,Function,"StopBGM(4000);",# BGM停止
 
 ,SetFocus,marisa		,
-,ImageDef,marisa,魔理沙_驚1,0,0
-は、オカルトボールﾇ\,a11x2,0,0
-,ClearBalloon,marisa
-
-,SetFocus,marisa		,
-,ImageDef,marisa,魔理沙_惑1,0,0
-そうだ、それがあれば\n一時的にでも帰る事が出来る筈\,a15x3,0,0
+,ImageDef,marisa,神子_余2,0,0
+"I'm here to stop the person who caused\nall this mess with\nthe Urban Legends.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_余1,0,0
-何でそれに気が付かな\nかったんだろう\,a11x2,0,0
+"And, I'm also looking for\na certain Kasen.\",a11x2,0,0
 ,ClearBalloon,marisa
 
+,Function,"StopBGM(4000);",# BGM停止
+
 ,SetFocus,miko		,
-,ImageDef,miko,神子_余2,0,0
-ボールの仕掛けは\n私が見抜いたよ\,a11x2,0,0
+,ImageDef,miko,神子_驚1,0,0
+"Oh, I see, at this moment\nshe is not here.\",a11x2,0,0
 ,ClearBalloon,miko
+
+,SetFocus,miko		,
+,ImageDef,miko,神子_余1,0,0
+"So go away.\",a05x2,0,0
+,ClearBalloon,miko
+
+,SetFocus,marisa		,
+,ImageDef,marisa,魔理沙_余1,0,0
+"I will not go anywhere without being\nable to see that Kasen.\",a15x3,0,0
+,ClearBalloon,marisa
 
 
 ,Function,"GameStory_PlayBattleBGM(512);",# 戦闘BGM再生開始
 
 ,SetFocus,miko		,
-,ImageDef,miko,神子_嬉1,0,0
-幻想郷に忍び込もうと\n思ったんだろうが\n当てが外れたな\,a15x3,0,0
-,ClearBalloon,miko
-
-,SetFocus,miko		,
-,ImageDef,miko,神子_普1,0,0
-お前、ボールをばらまきに\n何度も幻想郷に来ていただろ？\,a15x3,0,0
-,ClearBalloon,miko
-
-,SetFocus,miko		,
-,ImageDef,miko,神子_怒1,0,0
-その時はお前の影しか来て\nなかったから殆どの輩には\n見えなかった様だがな\,a15x3,0,0
-,ClearBalloon,miko
-
-,SetFocus,miko		,
 ,ImageDef,miko,神子_決1,0,0
-今度こそ、全てのオカルトボール\nと一緒に送り返してやろう\,a15x3,0,0
+"Very well, you have wanted it,\nI will force you out.\",a15x3,0,0
 ,ClearBalloon,miko
 
 
@@ -176,6 +171,40 @@
 
 
 
+# -----------------
+# 戦闘中に会話が入ります（スペルカード一つ使った後くらいかな）
+#
+:main_2
+
+,GoSub,init				,# 初期化ルーチン呼び出し
+
+#初期表情設定
+,ImageDef,marisa,魔理沙_決1,0,0
+,ImageDef,miko,神子_嬉1,0,0
+
+,Sleep,5
+
+#,Move,marisa,0,-25,25	,#フェイス画像位置を非トーク位置にシフト
+,th145_Show,marisa,-1280,&,#魔理沙フェイス表示開始
+,th145_Show,miko,-1280,#魔理沙フェイス表示開始
+
+,SetFocus,miko		,
+"I can't afford myself to let someone like\nyou make the situation\nget worse.\",a15x3,0,0
+,ClearBalloon,miko
+
+,SetFocus,marisa		,#発言中キャラを指定
+"Is it so hard for\nyou to defeat me?\",a11x2,0,0
+,ClearBalloon,marisa
+
+#両者フェイス撤去
+,th145_Hide,marisa,-1280,&
+,th145_Hide,miko,-1280,
+
+,Sleep,60
+
+,Function,"RoundStory_TalkFight();",# TODO::対再開命令
+
+,End
 
 # -------------------------------------------------------
 # 敗北編
@@ -191,7 +220,7 @@
 ,th145_Show,miko,-1280	,#魔理沙フェイス表示開始
 
 ,SetFocus,miko
-おいおい\n負けてやるって言ってるのに\,a15x3,0,0
+"And with that strength you\nthought to beat me?\",a15x3,0,0
 
 ,Function,"::StopBGM(1500);"
 #コンテニュー処理へのジャンプを予定　現在は仮で次のステージに進んでから一つ戻る処理を行い、同ステージの最初から再開します
@@ -213,11 +242,23 @@
 ,th145_Show,miko,-1280	,#魔理沙フェイス表示開始
 
 ,SetFocus,miko
-本文\,a11x2,0,0
+"Dang it. I lost to\nan evil spirit\",a15x3,0,0
+,ClearBalloon,miko
+
+,SetFocus,marisa
+"That's what you get for\ngetting in my way.\",a15x3,0,0
+,ClearBalloon,marisa
+
+,SetFocus,marisa
+"Now if you allow me, I'm\ngoing to look for Kasen.\",a15x3,0,0
+,ClearBalloon,marisa
+
+,SetFocus,miko
+"If you want to know where it is.\nThis fence just\nwaits a bit.\",a15x3,0,0
 ,ClearBalloon,miko
 
 ,Function,"::StopBGM(1500);"
-,Thread,"::story.BeginOpening();"#オープニング開始
+,Thread,"::story.NextStage();"
 
 ,End
 
