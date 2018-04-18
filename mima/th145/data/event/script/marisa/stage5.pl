@@ -53,6 +53,10 @@
 ,Function,GameStory_TitleCall();
 ,Function,"function main(){ for (local i=0; i < 150; i++) suspend(); }"
 
+# 2Pキャラステージ下から登場
+#,Function,GameStory_2P_In_Under(),
+#,Function,"function main(){ for (local i=0; i < 60; i++) suspend(); }"
+
 
 ,th145_Show,marisa,-1280	
 
