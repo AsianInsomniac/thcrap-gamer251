@@ -249,6 +249,3 @@
 サブルーチン実行\
 ,ClearBalloon
 ,Return
-
-,ClearBalloon
-,Return
