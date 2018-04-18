@@ -69,12 +69,12 @@
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_怒1,0,0
-"It looks like somebody broke down a\nhuge part of the ground.\",a15x3,0,0
+"It looks like somebody broke down a \nhuge part of the ground.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_驚2,0,0
-"And down there you can\nsee the Outside World!\",a15x3,0,0
+"And down there you can \nsee the Outside World!\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,
@@ -95,12 +95,12 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_余1,0,0
-"Those orbs that you got are the\ncause of this mess.\",a15x3,0,0
+"Those orbs that you got are the \ncause of this mess.\",a15x3,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_普1,0,0
-"And the person who made the orbs is in the\nOutside World as you already know.\",a15x3,0,0
+"And the person who made the orbs is in the \nOutside World as you already know.\",a15x3,0,0
 ,ClearBalloon,miko
 
 #紹介カット表示　神子は「神子_普1」からのみ実行可能\,a11x2,0,0
@@ -109,12 +109,12 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_普1,0,0
-"And I'll have to take\naway those orbs.\",a11x2,0,0
+"And I'll have to take \naway those orbs.\",a11x2,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_嬉1,0,0
-"Ha as if you will find\nit easy with me.\",a11x2,0,0
+"Ha as if you will find \nit easy with me.\",a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,miko		,
@@ -124,19 +124,19 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_余2,0,0
-"I'm here to stop the person who caused\nall this mess with\nthe Urban Legends.\",a15x3,0,0
+"I'm here to stop the person who caused \nall this mess with\nthe Urban Legends.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_余1,0,0
-"And I'm also looking for\na certain Kasen.\",a11x2,0,0
+"And I'm also looking for \na certain Kasen.\",a11x2,0,0
 ,ClearBalloon,marisa
 
 ,Function,"StopBGM(4000);",# BGM停止
 
 ,SetFocus,miko		,
 ,ImageDef,miko,神子_驚1,0,0
-"Oh I see at this moment\nshe is not here.\",a11x2,0,0
+"Oh I see at this moment \nshe is not here.\",a11x2,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,miko		,
@@ -146,7 +146,7 @@ I can tell you how.\,a05x2,320,0
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_余1,0,0
-"I will not go anywhere without being\nable to see that Kasen.\",a15x3,0,0
+"I will not go anywhere without being \nable to see that Kasen.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 
@@ -189,11 +189,11 @@ I can tell you how.\,a05x2,320,0
 ,th145_Show,miko,-1280,#魔理沙フェイス表示開始
 
 ,SetFocus,miko		,
-"I can't afford myself to let someone like\nyou make the situation\nget worse.\",a15x3,0,0
+"I can't afford myself to let someone like \nyou make the situation\nget worse.\",a15x3,0,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa		,#発言中キャラを指定
-"Is it so hard for\nyou to defeat me?\",a11x2,0,0
+"Is it so hard for \nyou to defeat me?\",a11x2,0,0
 ,ClearBalloon,marisa
 
 #両者フェイス撤去
@@ -220,7 +220,7 @@ I can tell you how.\,a05x2,320,0
 ,th145_Show,miko,-1280	,#魔理沙フェイス表示開始
 
 ,SetFocus,miko
-"And with that strength you\nthought to beat me?\",a15x3,0,0
+"And with that strength you \nthought to beat me?\",a15x3,0,0
 
 ,Function,"::StopBGM(1500);"
 #コンテニュー処理へのジャンプを予定　現在は仮で次のステージに進んでから一つ戻る処理を行い、同ステージの最初から再開します
@@ -246,15 +246,15 @@ I can tell you how.\,a05x2,320,0
 ,ClearBalloon,miko
 
 ,SetFocus,marisa
-"That's what you get for\ngetting in my way.\",a15x3,0,0
+"That's what you get for \ngetting in my way.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa
-"Now if you allow me I'm\ngoing to look for Kasen.\",a15x3,0,0
+"Now if you allow me I'm \ngoing to look for Kasen.\",a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,miko
-"If you want to know where it is.\nThis fence just\nwaits a bit.\",a15x3,0,0
+"If you want to know where it is. \nThis fence just\nwaits a bit.\",a15x3,0,0
 ,ClearBalloon,miko
 
 ,Function,"::StopBGM(1500);"
