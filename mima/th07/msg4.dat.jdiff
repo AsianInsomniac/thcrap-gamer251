@@ -192,18 +192,24 @@
     "10": {
         "60_0": {
             "lines": [
-                "This barrier is amazing.",
-                "There's no way a novice like me can solve its mystery."
+                "A barrier this grandiose...",
+                "The mastermind must be on the other side."
             ]
         },
         "61_0": {
             "lines": [
-                "Is there something I'm missing?"
+                "Why put so much effort into barricading themselves inside?"
+            ]
+        },
+		"62_0": {
+            "lines": [
+                "Wait a minute... Looking at it again,",
+				"the barrier's already been considerably weakened..."
             ]
         },
         "101_0": {
             "lines": [
-                "Eh, heh, heh."
+                "Oh, are you here for the flower-viewing, too?"
             ]
         },
         "102_h1_0": {
@@ -214,37 +220,40 @@
         },
         "102_0": {
             "lines": [
-                "It's a trade secret."
+                "You do know that you can't directly go through",
+				"the barrier, right?"
             ]
         },
         "103_0": {
             "lines": [
-                "\"Open sesame\"..."
+                "I'm thinking of how to destroy this barrier, for",
+				"your information."
             ]
         },
         "104_0": {
             "lines": [
-                "That isn't going to work, kid."
+                "Why?"
+				"Are you a gatecrasher?"
             ]
         },
         "105_0": {
             "lines": [
-                "Fine, then. So who are you?"
+                "I guess you could say that."
             ]
         },
         "106_0": {
             "lines": [
-                "It doesn't matter, does it?"
+                "By any chance, are you the guardian of this barrier?"
             ]
         },
         "107_0": {
             "lines": [
-                "Yeah, I guess it doesn't."
+                "Heavens no, we were just hired to perform during the event."
             ]
         },
         "108_0": {
             "lines": [
-                "So, if I defeat you, you'll open the gate?"
+                "\"We\"?"
             ]
         },
         "109_h1_0": {
@@ -260,12 +269,12 @@
         },
         "110_0": {
             "lines": [
-                "Yeah, a good friend."
+                "Yeah! I just met her today."
             ]
         },
         "111_0": {
             "lines": [
-                "My friend, yes~"
+                "Wait a minute, who's friend is who now?
             ]
         },
         "112_h1_0": {
@@ -282,88 +291,91 @@
         },
         "113_0": {
             "lines": [
-                "Alright, then."
+                "Wait, wait, wait, you guys must be mistaken."
             ]
         },
         "114_0": {
             "lines": [
-                "My good friend, would you kindly open this door?"
+                "Who are you guys, anyway?"
             ]
         },
         "115_0": {
             "lines": [
-                "Won't you listen to just one song first, my good friend?"
+                "I'm Merlin."
             ]
         },
         "116_0": {
             "lines": [
-                "It's a song of welcome.",
-                "To a dear new friend."
+                "I'm Lunasa."
             ]
         },
         "117_0": {
             "lines": [
-                "Friend~"
+                "I'm Lyrica."
             ]
         },
         "118_0": {
             "lines": [
-                "If I didn't know any better,",
-                "I'd say you don't plan on opening this barrier."
+                "And we're the Prismriver trio of poltergeists!",
+                "From Capriccio to Concertino, we can perform it all!"
             ]
         },
         "119_0": {
             "lines": [
-                "Well then, let's start the performance~!",
-                "Sisters, get ready!"
+                "Nice to meet you.",
+                "Now, if you would just move to the side so I could pass through."
             ]
         },
         "120_0": {
             "lines": [
-                "She's your friend;",
-                "Play solo for a bit."
+                "Oh no, that won't do.",
+                "You need an invitation to go in."
             ]
         },
         "121_0": {
             "lines": [
-                "Hey~"
+                "An outsider like you couldn't just barge in uninvited."
             ]
         },
         "122_0": {
             "lines": [
-                "Alright, alright. I'll help you whenever you need."
+                "We'd feel bad about you not hearing us perform, however.",
+				"We'll perform here to you for free, how about that?"
             ]
         },
         "123_0": {
             "lines": [
-                "You don't need more help my friend, do you?"
+                "Alright then, you guys asked for it.",
+				"Looks like I'll need some force to set you aside."
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "Well, will you open the door?"
+                "I win!",
+				"Looks like I get to go in, after all."
             ]
         },
         "61_0": {
             "lines": [
-                "This door doesn't open."
+                "Are you really going to destroy the barrier just to go in?"
             ]
         },
         "62_0": {
             "lines": [
-                "Don't you go through it now and then?"
+                "How else am I supposed to go in?"
             ]
         },
         "63_0": {
             "lines": [
-                "We just fly over it."
+                "We usually just fly over it.",
+				"There's an opening just right above the barrier."
             ]
         },
         "64_0": {
             "lines": [
-                "...Oh."
+                "That's not as fun as annihilating this barrier, though~"
             ]
         }
     },
