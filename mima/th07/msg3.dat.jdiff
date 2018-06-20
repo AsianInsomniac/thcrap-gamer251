@@ -147,17 +147,18 @@
     "10": {
         "60_0": {
             "lines": [
-                "It seems..."
+                "This forest..."
             ]
         },
         "61_0": {
             "lines": [
-                "...Comfortable here."
+                "Why do I get this strange sense of familiarity?"
             ]
         },
         "101_0": {
             "lines": [
-                "Do you find this brutal evening likable?"
+				"You...",
+                "It's been a long time since we've met."
             ]
         },
         "102_h1_0": {
@@ -168,88 +169,108 @@
         },
         "102_0": {
             "lines": [
-                "It isn't bad."
+                "...have we met?"
             ]
         },
         "103_0": {
             "lines": [
-                "Then surely you are a magician of the untamed fields."
+                "Taking me in as a maid and then forgetting about me",
+				"years later; you really are quite despicable."
             ]
         },
         "104_0": {
             "lines": [
-                "As opposed to a magician from a greenhouse?"
+                "Wait, Alice?! You've changed so much, I didn't even",
+				"recognize you! Weren't you in Makai last time?"
             ]
         },
         "105_0": {
             "lines": [
-                "As opposed to a magician from a city sect."
+                "Well, the god of this world rewrote who I am entirely.",
+				"I am not who I was when you last met me."
             ]
         },
         "106_0": {
             "lines": [
-                "Oh? I get it—this is a welcome to the wilderness."
+                "At least you finally became part of this reality.",
+				"I had to be lazily self-inserted here by some other god."
             ]
         },
         "107_0": {
             "lines": [
-                "Springtime in this rural place is cold",
-                "and disagreeable."
+                "Well, since it's been some time since our last meeting,",
+                "would you want some tea?"
             ]
         },
         "108_0": {
             "lines": [
-                "I think not; some power is at work to",
-                "cause such snowstorms in spring."
+                "Pretty weird how you could just warm up to someone who",
+                "used you and just threw you away."
             ]
         },
         "109_0": {
             "lines": [
-                "It's not my doing, you know."
+                "I chose to forget about it."
             ]
         },
         "110_0": {
             "lines": [
-                "Is that so?"
+                "Is that so?",
+				"It's not like I'd stay here for long, so don't make some tea."
             ]
         },
         "111_0": {
             "lines": [
-                "Even so, it seems that you hold",
-                "some tiny spring of your own."
+                "How about a spell card battle for old times' sake?",
+                "I'm still not used to the new spell card rules, though."
             ]
         },
         "112_0": {
             "lines": [
-                "Well, perhaps I shall partake of",
-                "your small spring as well?"
+                "Sure, why not?",
+                "Might as well kill some time and practice."
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "Have winters always been this busy?"
+                "Haven't changed much in terms of firepower, have you?"
             ]
         },
         "61_0": {
             "lines": [
-                "Humans usually stay indoors."
+                "Haven't I?",
+				"I thought I'd gotten much stronger."
             ]
         },
         "62_0": {
             "lines": [
-                "You mustn't consider me a normal human."
+                "Oh, that reminds me, Reimu passed by earlier.",
+				"She's off to find the one who's causing this eternal winter."
             ]
         },
         "63_0": {
             "lines": [
-                "Are you a weird human, then?"
+                "So this IS an incident.",
+				"Tell me, where was she headed?"
             ]
         },
         "64_0": {
             "lines": [
-                "I'm normal, just not human!!"
+                "That way, towards the part of the sky where the",
+				"cherry blossoms seem to gather."
+            ]
+        },
+		"65_0": {
+            "lines": [
+                "I should get going now, then."
+            ]
+        },
+		"66_0": {
+            "lines": [
+                "Didn't think you'd care so much about this incident.",
+				"Do come by next time, I'll prepare some chamomile for you."
             ]
         }
     },

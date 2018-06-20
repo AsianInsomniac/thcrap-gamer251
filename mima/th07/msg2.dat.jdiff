@@ -99,17 +99,20 @@
     "10": {
         "60_0": {
             "lines": [
-                "Geez."
+                "Geez.",
+				"Who knew going to such a desolate place was a hassle?"
             ]
         },
         "61_0": {
             "lines": [
-                "Something human-like seems to live here."
+                "The place doesn't look as abandoned as I'd thought",
+				"it would be, though."
             ]
         },
         "62_0": {
             "lines": [
-                "A cat, a dog, or a fox, maybe?"
+                "That thing that attacked me earlier...",
+				"Was it an inhabitant of this place?"
             ]
         },
         "102_0": {
@@ -125,62 +128,63 @@
         },
         "103_0": {
             "lines": [
-                "...\"Go farther and fare worse,\" eh?"
+                "Give me four reasons why I shouldn't."
             ]
         },
         "104_0": {
             "lines": [
-                "So, what's your purpose here?"
+                "The foremost reason is that it's pretty rude to just",
+				"trespass into other people's territory without consent."
             ]
         },
         "105_0": {
             "lines": [
-                "No purpose that involves four-legged things."
+                "Do I really look that much like a burglar?"
             ]
         },
         "106_0": {
             "lines": [
-                "Wanderer, to have arrived at this place,",
-                "you must surely have lost your way?"
+                "You cannot locate this place just on a whim.",
+                "Surely you must hold some desire for earthly treasure."
             ]
         },
         "107_0": {
             "lines": [
-                "I never had a way."
+                "Is that what lead me to this dump?",
+				"There doesn't even seem to be any treasure here."
             ]
         },
         "108_0": {
             "lines": [
-                "The recent snowstorm obscured your vision,",
-                "and the wind's constantly changing."
+                "How rude, there are lots of treasure here!"
             ]
         },
         "109_0": {
             "lines": [
-                "So the direction of the wind changed, you say?",
-                "No wonder."
+                "Wouldn't you share some with a lone traveler, then?"
             ]
         },
         "110_0": {
             "lines": [
-                "And now you don't know the way back."
+                "I would gladly do so."
             ]
         },
         "111_0": {
             "lines": [
-                "No wonder."
+                "...If you're going to pay with your own life."
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "No wonder,"
+                "It didn't give me any treasure in the end."
             ]
         },
         "60_1": {
             "lines": [
-                "I keep facing random people."
+                "It even forgot to tell me how to get out of here.",
+				"How troublesome..."
             ]
         }
     },

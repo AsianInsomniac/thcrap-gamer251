@@ -83,17 +83,24 @@
     "10": {
         "60_0": {
             "lines": [
-                "What the hell am I doing here?"
+                "Spring is yet to arrive this year, it seems."
             ]
         },
         "61_0": {
             "lines": [
-                "It's easy to become lost in the winter mountains of snow."
+                "To think that someone would want to start an incident in this",
+				"kind of weather..."
+            ]
+        },
+		"62_0":	{
+			"lines": [
+                "Not that I care.",
+				"It's not as if I could feel the temperature, anyway."
             ]
         },
         "101_0": {
             "lines": [
-                "And do you know why it's so easy to lose your way?"
+                "What is a spirit like you doing here?"
             ]
         },
         "102_h1_0": {
@@ -104,51 +111,56 @@
         },
         "102_0": {
             "lines": [
-                "Because in winter, there aren't any mountains without snow."
+                "Huh, you aren't like any spirit I've seen before."
             ]
         },
         "103_0": {
             "lines": [
-                "That's right. Are you also a lost soul?"
+                "By any chance, are you a malicious spirit?",
+				"What are the likes of you doing out here?"
             ]
         },
         "104_0": {
             "lines": [
-                "Nah, I'm ordinary."
+                "Shouldn't it be me who's supposed to be asking questions?",
+				"Anyway, have you seen a shrine maiden around here?"
             ]
         },
         "105_0": {
             "lines": [
-                "Poor thing, done in by the cold."
+                "I've never seen a spirit of your kind before.",
+				"Tell me, what is it that you aim for?"
             ]
         },
         "106_0": {
             "lines": [
-                "So it seems. This should be a season when",
-                "humans nap beneath cherry trees."
+                "Are you even listening to what I'm saying?"
             ]
         },
         "107_0": {
             "lines": [
-                "The winter's indeed long this year.",
-                "I also want a long, deep, carefree sleep."
+                "Of course, of course. I have indeed seen someone pass by.",
+                "However, what makes you think I'd just tell you who it was?"
             ]
         },
         "108_0": {
             "lines": [
-                "Hold on, if you sleep in this cold I'll kill you."
+                "Hoh~? Are we doing this the hard way?",
+				"This might make for a good warmup."
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "If I can defeat even this kind of opponent,"
+                "Aww, did I exert too much power?",
+				"I didn't expect her to break so easily."
             ]
         },
         "60_1": {
             "lines": [
-                "maybe spring will return a little bit at a time?"
+                "Wow, she's out cold.",
+				"She won't be able to tell me anything at this state..."
             ]
         }
     },
