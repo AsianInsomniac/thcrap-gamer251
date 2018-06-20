@@ -1,0 +1,636 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "You're a human, I see."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Just what I needed."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I shall drain every drop"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "of spring from you!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "This ominous feeling..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Doesn't make me happy at all."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "So this is why everyone here is noisy..."
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "The Half-phantom Gardener",
+                "Youmu Konpaku"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "...It must be because of a living human."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "...Don't tell me, this place is..."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "This is the place where the used-to-be-living reside."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "The world of the dead?",
+                "I see, I was invited somehow."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "You have not yet been invited."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "In any case..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "How can a normal person enter the world of the dead so easily?",
+                "That's just too dangerous."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "You broke the barrier on your way here,",
+                "didn't you!"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "That one opened right up."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "That barrier was a \"DO NOT ENTER\" sign..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "You're like a kid climbing a pole that says",
+                "\"DANGER: DO NOT CLIMB.\""
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Selfishly tearing it, then saying ",
+                "\"That's just too dangerous\"? Nonsense."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "You're quite a talkative phantom."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "I'm half non-phantom!"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "That's what you corrected?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "At any rate—with just a little more spring—"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "The Saigyou Ayakashi will soon reach full bloom."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "The tiny trace of spring that you brought here,"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "will bring us yet another step closer to full bloom."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "You're quite a talkative half-phantom."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Were you listening?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "I'm going to cut you down here and you'll meet your end."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "If I die in the world of the dead,",
+                "would I still be sent to the world of the dead?"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "You will be sent to hell."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Oh, so this place isn't hell is it?"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "...The things that cannot be cut by my Roukanken, ",
+                "forged by Youkai..."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Are next to none!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "There's enough spring here already."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "What are you trying to do?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "The young mistress would like to see ",
+                "perfect cherry blossoms this year."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "This level of spring is not enough for ",
+                "the Saigyou Ayakashi to bloom fully..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "And is full bloom... a good thing?"
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "You're a human, I see."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Just what I needed."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I shall drain every drop"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "of spring from you!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ahh, it's getting a lot warmer."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "So this is why everyone here is noisy..."
+            ]
+        },
+        "101_h1_0": {
+            "lines": [
+                "Half-fantasy Gardener",
+                "Youmu Konpaku"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "...It must be because of a living human."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "If I'm a dead human, won't they make noise?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "No, not at all."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "For a human to have come all the way to Hakugyokurou,"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "death's the only possible explanation."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Well, I'm alive."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Yet you passed through that barrier with your own will."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "It's no wonder the spirits here are making",
+                "a great clamor at your foolishness."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Well, it's warm here, anyway. Nice and warm."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "That's because we've gathered all the spring essence",
+                "in Gensokyo."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "The ordinary cherry blossoms are beyond even",
+                "the most idealized full bloom."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Dead bodies having a nice flower-viewing!",
+                "How elegant."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Yet even this immaculate bloom",
+                "is insufficient for the Saigyou Ayakashi..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "\"Saigyou Ayakashi\"?"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Our pride and joy, our youkai cherry blossom."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "I'd like to take a look at that, myself."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "With just a little more spring,",
+                "our Saigyou Ayakashi will reach full bloom."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "The tiny trace of spring that you brought here,"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "will bring us yet another step closer to full bloom."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "After all that trouble collecting my spring.",
+                "I won't hand it to you so easily!"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "We're one step short of full bloom!"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "What would you say if I were to snatch away",
+                "all of your spring"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "to make those cherry blossoms bloom for myself?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I will not hand over my spring!"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Me neither."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "...The things that cannot be cut by my Roukanken, ",
+                "forged by Youkai..."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Are as good as none!"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "So, show me the way to the Saigyou Ayakashi, will you?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Anyway, the Saigyou Ayakashi will bloom.",
+                "So my job is fulfilled."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But I have a bad feeling about this..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Who said I was going to bloom the Saigyou Ayakashi?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I just want to have a flower-viewing."
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "You're a human, I see."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Just what I needed."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I shall drain every drop"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "of spring from you!"
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "Come on out."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "So this is why everyone here is noisy..."
+            ]
+        },
+        "101_h1_0": {
+            "lines": [
+                "The Half-phantom Gardener",
+                "Youmu Konpaku"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "...It must be because of a living human."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Finally, I've reached the source."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "It took me a whole day to get here."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "In coming here,",
+                "you have exercised great composure."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "This is Hakugyokurou."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "The deceased live on in this place."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Acting on the common sense of",
+                "the living will land you in a mess."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "The dead do not speak."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Now, return the spring you stole."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "It shall happen soon."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "That's a little bit too long."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Soon, the Saigyou Ayakashi will",
+                "reach full bloom."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "That could never happen with a normal spring."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "I said I don't care."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "The trace of spring you brought here could",
+                "bring the Saigyou Ayakashi to full bloom."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Are you even listening to me?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I've traveled through that cold only to find",
+                "such a selfish idea."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "But it's warm here isn't it?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "That's enough already."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Dead people have no mouths."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Indeed, dead people have no mouths."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "I will consume the warmth of your spring."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I wonder, can my knives even cut phantoms?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "...The things that cannot be cut by my Roukanken, ",
+                "forged by Youkai..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Are close to none!"
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Cool. Looks like these knives actually work."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Maybe because they're silver?"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "I'm half non-phantom, you know."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "But the mistress of this shrine is a",
+                "fully spirit-bodied."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Do you expect to be a challenge",
+                "using those trinkets for weapons?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Wait, why are we already talking",
+                "about that battle?"
+            ]
+        }
+    }
+}

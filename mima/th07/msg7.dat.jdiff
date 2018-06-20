@@ -1,0 +1,961 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Finally, we meet again."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "But watch out this time!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I'm a totally new shikigami now!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Which part of you is new, then?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "If I'd traveled all the way to the land of the dead",
+                "only to find what I was looking for wasn't there..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "That would totally suck."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Oh? This is rare."
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Shikigami of the Youkai of Boundaries  ",
+                "Ran Yakumo"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "They have people like this here too."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "What do you mean \"like this\"?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Like you. ",
+                "Propitious sorts clothed in red and white."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "First a cat and now a fox... ",
+                "When did this place become an animal realm?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Ah, so you're the human who gave Chen a hard time?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "What if I am?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Chen is my shikigami."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "She has recovered, and grown stronger than before."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "... She was supposed to be strong?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Wait, she's your shikigami? ",
+                "Aren't you a shikigami yourself?"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Indeed I am."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "My master is still asleep right now."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Ah. So you're the one I'm looking for, then."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "For what?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Repairing the border between the Netherworld and our world... ",
+                "And..."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Come to think of it..."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "For that to happen... ",
+                "I got to talk with your master."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "My master is hibernating."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Wake her up."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I am also her guardian."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "I have no intention of allowing ",
+                "troublemakers to meet with my master."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Now, you will meet your end at  ",
+                "the hands of a strengthened Chen..."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "If you mean that cat, I met her just now..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "You did? ",
+                "How did that go?"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "It was nothing special."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Well... but she was still recovering..."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Didn't you just say that she'd already recovered?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "...Looks like I have to take revenge for her now."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Just as I expected."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Defeat a shikigami, and maybe its master will wake up..."
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Hey, even my master wakes up eventually..."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Well, in the meantime,",
+                "there's a more immediate obstacle around."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "I am leagues different from Chen. ",
+                "Leagues, columns, digits, and colors."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Did you think that a shikigami could stand up to a shrine maiden?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "How could my charms possibly have failed against you?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You cheated, didn't you~"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "You're accusing me of what?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I thought for sure that you were only human."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "I <i$am> human."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Anyway, for all my trouble, ",
+                "you will introduce me to your master."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "My master—Yukari—is still sleeping..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "\"Still,\" you say. When will she awaken?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Spring has already arrived in full."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "She sleeps through winter and all day. ",
+                "It's still too early for her to wake up."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "I think it's already pretty close to dusk..."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "For us it isn't."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "When humans go to sleep, that's what we consider the true night."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Whatever, wake her up now."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "But she isn't here~"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "So, I shot you down for nothing?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "And I was shot down for nothing?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "So what are you here for anyway?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Well, let's see. ",
+                "Disturbance in the netherworld, someone's errant shikigami..."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Oh yeah, I'm here to punish you."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Awww..."
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "Finally, we meet again."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "But watch out this time!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I'm a totally new shikigami now!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Well, it's only been ten days."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ahh,"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "What's all this commotion?"
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "In this evening, let's do fun banquet preparation again~"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "The youkai's summon",
+                "Ran Yakumo"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Ooh, I see a human."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Preparations are fun?",
+                "You're a weirdo."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "I mean preparation for \"fun banquet.\""
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Well, I mean, some people DO."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Y'know, think that preparing is the most enjoyable part."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Anyways, have you seen a cat around",
+                "these parts, by any chance?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "The preparations are actually her job."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "If you're talking about Chen, then no, I haven't seen her."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Aha! It was you, then!",
+                "You're the jerk who caused Chen trouble!"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "How rude! I don't cause anyone trouble!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "I only made her something too terrible to look at."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Chen is my shikigami."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Though she's shikigami, she's not so cheap."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Shikigamis use shikigamis?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Isn't that vaguely cannibalistic?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "I don't mean I <i$eat> her!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Anyways, so what you're saying is that",
+                "you—a shikigami—must have a master."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "I bet it might be Chen?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "No way."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "My mistress is fast asleep."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Someone who can use a \"shikigami that can",
+                "use a shikigami\" is surely interesting."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Mind if I speak to this mistress of yours?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I am also her guardian."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "And as such I have no intention of letting those who",
+                "make my shikigami too terrible to look at meet with her."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Oh, I get it."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Now I just have to make you too terrible to look at too."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "I don't get what you think you \"get.\""
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Very soon, I will make you too terrible not to just",
+                "look at but to do anything."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Okay, show yourself, you youkai."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Gee, she's strong."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "No wonder Chen had no chance against her."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Where's your mistress?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "My mistress—Yukari—is still sleeping."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Ahh?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "She doesn't wake up even when",
+                "her shikigami is in a mess?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Wake her up."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "You say that, but she is not somewhere nearby~"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "So you're a long-distance type?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "You have quite a bit of power for that",
+                "type though."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "What are you talking about?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I've been in shikigami possession for",
+                "quite a long time."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "My power surely exceeds that of",
+                "average youkai."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Okay, I understand that you're plainly",
+                "worthless."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "What should I do to wake her up?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "She will at night."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "It's unusual even for me to see her awake, anyway."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "So I have to wait till nighttime..."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Well, you may go back to your",
+                "preparation of the fun banquet."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "...sob sob..."
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "Finally, we meet again."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "But watch out this time!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I'm a totally new shikigami now!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Hey, I've seen this kitty before.",
+                "Did you die to get here?"
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "Seems every time I look,"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "this garden becomes larger and prettier."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I smell a human~"
+            ]
+        },
+        "103_h1_0": {
+            "lines": [
+                "Shikigami of the Sukima Youkai",
+                "Ran Yakumo"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Oh, I'm mistaken."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "No, you aren't."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Apparently you're alive..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Well, I'm not really sure. Are you dead?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Appearance is enough to judge."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "And apparently you're a fox."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "And apparently you're a dog."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Don't judge something by looks alone."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Don't mistake me for a simple beast either."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I'm the shikigami of a powerful master."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "As such, my powers far exceed those",
+                "of any youkai you've ever seen..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Not to mention those of humans. Or dogs."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "There isn't a great difference between",
+                "shikigami, cats, and foxes."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "And where'd you see a cat?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Just back there, near the stairs."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "That's a great change of subject.",
+                "What do you mean?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "This time, I see a fox."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "It's full of animals around here."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "...So you met Chen?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I've been searching for her."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "She's always restless like a cat, and now she's disappeared."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Too bad for you,"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "That cat went to the mountain to do laundry."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Is that so?"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Maybe I should return to the hills too then."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "A fox goes into the hills to die."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Here in \"the other world,\" it will be a fitting grave for you."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Ha. I bet you are the one who tormented Chen,",
+                "aren't you?"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Chen is my shikigami.",
+                "I must take revenge for her."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "She's a youkai's shikigami's shikigami?",
+                "I thought it was something like that."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Well then, go back to the hills or wherever."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ouch..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Chen's probably depressed too since she's",
+                "no longer shikigami possessed."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "So I've defeated these annoyances."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "However, I sense there's a mastermind",
+                "of this whole mess."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Help me Master Yukari~"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "This is more than I can handle..."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "More annoyance than you can cause?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "What exactly is your master doing,"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "leaving her shikigami running around like this?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Sleeping."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Wake her up."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I have to go back to the hills",
+                "in order to wake her up."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "So she's not around then..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Master of such an annoying shikigami, eh."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "I bet she must be even more annoying",
+                "than this one."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "...I don't deny that."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Anyway, I'll be back when your master's awake."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "In the meantime, wake her up properly."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "You aren't quite making sense."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Just do it."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "*sob sob*"
+            ]
+        }
+    }
+}
