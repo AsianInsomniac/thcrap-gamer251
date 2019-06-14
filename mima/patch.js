@@ -5,7 +5,8 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
 		"thpatch/lang_en",
-		"DTM/alphes"
+		"DTM/alphes",
+		"WindowDump/EoSD_Retexture"
 	],
 	"id": "mima",
 	"servers": [
