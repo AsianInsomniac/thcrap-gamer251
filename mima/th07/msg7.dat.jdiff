@@ -338,12 +338,12 @@
     "12": {
         "40_0": {
             "lines": [
-                "Finally, we meet again."
+                "Oh, it's you again!"
             ]
         },
         "120_0": {
             "lines": [
-                "But watch out this time!"
+                "I won't let you get away like last time."
             ]
         },
         "210_0": {
@@ -353,24 +353,32 @@
         },
         "300_0": {
             "lines": [
-                "Well, it's only been ten days."
+                "Does the cat want to be the mouse in this game",
+				"of tag, I wonder?"
             ]
         }
     },
     "10": {
         "60_0": {
             "lines": [
-                "Ahh,"
+                "Running that ghost mistress' errand is so tiring."
             ]
         },
         "61_0": {
             "lines": [
-                "What's all this commotion?"
+                "Seeking her friend to weaken the Netherworld boundary",
+				"but not knowing how to properly restore it herself..."
             ]
         },
-        "61_1": {
+        "62_0": {
             "lines": [
-                "In this evening, let's do fun banquet preparation again~"
+                "Well, she should be here somewhere...",
+				"If that lowly shikigami was any indicator."
+            ]
+        },
+		"62_1": {
+            "lines": [
+                "In this evening, let's do fun banquet preparations again~"
             ]
         },
         "102_h1_0": {
@@ -381,262 +389,306 @@
         },
         "102_0": {
             "lines": [
-                "Ooh, I see a human."
+                "Ooh, if it isn't an akuryou."
             ]
         },
         "103_0": {
             "lines": [
-                "Preparations are fun?",
-                "You're a weirdo."
+                "Ooh, if it isn't a..."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "...youkai?"
             ]
         },
         "105_0": {
             "lines": [
-                "I mean preparation for \"fun banquet.\""
+                "Yes, I am indeed a youkai."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "A shikigami, to be exact."
             ]
         },
         "107_0": {
             "lines": [
-                "Well, I mean, some people DO."
+                "A shikigami, you say?"
             ]
         },
         "108_0": {
             "lines": [
-                "Y'know, think that preparing is the most enjoyable part."
+                "Then perhaps you might be the subordinate of the mistress'",
+				"friend?"
             ]
         },
         "109_0": {
             "lines": [
-                "Anyways, have you seen a cat around",
-                "these parts, by any chance?"
+                "Hold that thought.",
+                "I'm somewhat busy with the preparations and all."
             ]
         },
         "110_0": {
             "lines": [
-                "The preparations are actually her job."
+                "Speaking of which, have you seen a black cat around here?",
+				"She's slacking on her job again."
             ]
         },
         "111_0": {
             "lines": [
-                "If you're talking about Chen, then no, I haven't seen her."
+                "Would you mean the cat in the red dress?"
             ]
         },
         "112_0": {
             "lines": [
-                "Aha! It was you, then!",
-                "You're the jerk who caused Chen trouble!"
+                "I might've gotten a little overboard playing with her."
             ]
         },
         "113_0": {
             "lines": [
-                "How rude! I don't cause anyone trouble!"
+                "Wait, it was <i$you>?!",
+				"So you're the one who kept singeing Chen's fur!"
             ]
         },
         "114_0": {
             "lines": [
-                "I only made her something too terrible to look at."
+                "As her master, I couldn't let this pass."
             ]
         },
         "115_0": {
             "lines": [
-                "Chen is my shikigami."
+                "Do you know how much trouble you've caused us?"
             ]
         },
         "116_0": {
             "lines": [
-                "Though she's shikigami, she's not so cheap."
+                "Shikigamis are really precious and hard to come by",
+				"these days, you know?"
             ]
         },
         "117_0": {
             "lines": [
-                "Shikigamis use shikigamis?"
+                "Did you just say that she's your shikigami?"
             ]
         },
         "118_0": {
             "lines": [
-                "Isn't that vaguely cannibalistic?"
+                "A shikigami who can also use a shikigami...",
+				"What an interesting pair~"
             ]
         },
         "119_0": {
             "lines": [
-                "I don't mean I <i$eat> her!"
+                "Well, I'm pretty disheartened to know that she was taken."
             ]
         },
         "120_0": {
             "lines": [
-                "Anyways, so what you're saying is that",
-                "you—a shikigami—must have a master."
+                "Besides that, wouldn't your master be quite the powerhouse?",
+                "Being able to bind you into a contract and all."
             ]
         },
         "121_0": {
             "lines": [
-                "I bet it might be Chen?"
+                "I understand now why Yuyuko sought her help."
             ]
         },
         "122_0": {
             "lines": [
-                "No way."
+                "You have heard of miss Yuyuko?"
             ]
         },
         "123_0": {
             "lines": [
-                "My mistress is fast asleep."
+                "She's the reason why I'm here in the first place."
             ]
         },
         "124_0": {
             "lines": [
-                "Someone who can use a \"shikigami that can",
-                "use a shikigami\" is surely interesting."
+                "Something about telling her friend to repair the barrier",
+                "in the Netherworld after running wild with it..."
             ]
         },
         "125_0": {
             "lines": [
-                "Mind if I speak to this mistress of yours?"
+                "If that's so, then arranging it should be no problem."
             ]
         },
         "126_0": {
             "lines": [
-                "I am also her guardian."
+                "However, don't think that I'm letting the issue with Chen pass."
             ]
         },
         "127_0": {
             "lines": [
-                "And as such I have no intention of letting those who",
-                "make my shikigami too terrible to look at meet with her."
+                "In order to address the mistress, you must atone for what",
+                "you have done."
             ]
         },
         "128_0": {
             "lines": [
-                "Oh, I get it."
+                "Is the mother hen being protective of her child?"
             ]
         },
         "129_0": {
             "lines": [
-                "Now I just have to make you too terrible to look at too."
+                "If so, need I remind you that the damage I did",
+				"to your dear subordinate."
             ]
         },
         "130_0": {
             "lines": [
-                "I don't get what you think you \"get.\""
+                "Surely you wouldn't want to cross paths with someone like me.",
+				"You might not be able to prepare for anything anymore."
             ]
         },
         "131_0": {
             "lines": [
-                "Very soon, I will make you too terrible not to just",
-                "look at but to do anything."
+                "You must be either brave or idiotic, threatening me like that."
+            ]
+        },
+		"132_0": {
+            "lines": [
+                "I won't let the master meet with an insolent bastard like you.",
+				"You shall perish here, akuryou!"
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "Okay, show yourself, you youkai."
+                "Now then, about that arrangement..."
             ]
         },
         "61_0": {
             "lines": [
-                "Gee, she's strong."
+                "I give, I give!"
             ]
         },
         "62_0": {
             "lines": [
-                "No wonder Chen had no chance against her."
+                "My fur's all blackened now thanks to you."
             ]
         },
         "63_0": {
             "lines": [
-                "Where's your mistress?"
+                "We wouldn't even have to go through all that if",
+				"it wasn't for your stubbornness."
             ]
         },
         "64_0": {
             "lines": [
-                "My mistress—Yukari—is still sleeping."
+                "Touché...",
+				"However, you will have to come back here at nighttime."
             ]
         },
         "65_0": {
             "lines": [
-                "Ahh?"
+                "You see, the master is usually asleep most of the time."
             ]
         },
         "66_0": {
             "lines": [
-                "She doesn't wake up even when",
-                "her shikigami is in a mess?"
+                "We usually are unable to wake her from her slumber,",
+                "but she does sleep less at night."
             ]
         },
         "67_0": {
             "lines": [
-                "Wake her up."
+                "As such, you need to come back here at a later time",
+				"in order to meet her."
             ]
         },
         "68_0": {
             "lines": [
-                "You say that, but she is not somewhere nearby~"
+                "And I thought this would be over quickly...",
+				"How troublesome, indeed."
             ]
         },
         "69_0": {
             "lines": [
-                "So you're a long-distance type?"
+                "Well, it looks like it can't be helped."
             ]
         },
         "70_0": {
             "lines": [
-                "You have quite a bit of power for that",
-                "type though."
+                "I'll just come back here once it's nighttime."
             ]
         },
         "71_0": {
             "lines": [
-                "What are you talking about?"
+                "Even though you say that, there's no guarantee that",
+				"she would be awake."
             ]
         },
         "72_0": {
             "lines": [
-                "I've been in shikigami possession for",
-                "quite a long time."
+                "It's quite rare for us to see her awake, to be honest."
             ]
         },
         "73_0": {
             "lines": [
-                "My power surely exceeds that of",
-                "average youkai."
+                "My, what an interesting master you have there.",
+				"Lazy but powerful ones are quite uncommon these days."
             ]
         },
         "74_0": {
             "lines": [
-                "Okay, I understand that you're plainly",
-                "worthless."
+                "So I guess I'll be off now."
             ]
         },
         "75_0": {
             "lines": [
-                "What should I do to wake her up?"
+                "Oh, but before that..."
             ]
         },
         "76_0": {
             "lines": [
-                "She will at night."
+                "Shall we talk about dear little Chen?",
+				"I've taken quite a fancy at her."
             ]
         },
         "77_0": {
             "lines": [
-                "It's unusual even for me to see her awake, anyway."
+                "Are you thinking about bringing her home with you?"
             ]
         },
         "78_0": {
             "lines": [
-                "So I have to wait till nighttime..."
+                "I can't possibly allow that.",
+				"It would be too troublesome and pointless."
             ]
         },
         "79_0": {
             "lines": [
-                "Well, you may go back to your",
-                "preparation of the fun banquet."
+                "It's no problem for me to create a shikigami contract."
             ]
         },
         "80_0": {
             "lines": [
-                "...sob sob..."
+                "Yes, but she's already taken, as you can see."
+            ]
+        },
+		"81_0": {
+            "lines": [
+                "Do I really have no chance?"
+            ]
+        },
+		"82_0": {
+            "lines": [
+                "None at all."
+            ]
+        },
+		"83_0": {
+            "lines": [
+                "That's disappointing then, but it can't be helped."
+            ]
+        },
+		"85_0": {
+            "lines": [
+                "She still hasn't even given me the treasure that she's",
+				"promised me..."
             ]
         }
     },
