@@ -1,0 +1,182 @@
+{
+    "0": {
+        "60_1": {
+            "lines": [
+                "It's been a while since my last job.",
+                "It sure feels great out."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "There aren't many evil spirits about",
+                "during the day, so I'm trying my luck at night..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But it's dark out, and",
+                "I'm not sure where to go."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Still..."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "It's so romantic out behind the shrine at night.",
+                "(← carefree)"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "You said it!",
+                "Monsters come out too, so it's simply <i$wonderful>."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Um,",
+                "who are you?"
+            ]
+        },
+        "135_h1_0": {
+            "lines": [
+                "Youkai of the Dusk",
+                "<c$Rumia$Youkai of the Dusk>"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "We just met a few moments ago.",
+                "Could you be night-blind?"
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Humans can't see very well",
+                "in the dark in the first place."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Oh? I feel like I've seen people",
+                "who only work at night."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "I have no problem with you",
+                "grabbing them and eating them for dinner."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Ohhhh... Is that soooo..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "You know, you're in my way."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Is the person in front of me the edible kind?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Have you ever heard the saying",
+                "\"good medicine tastes bad\"?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Of course, to know whether it's good or not,"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "you have to try it for yourself."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "This feels kinda..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Knowing her, she'd probably say,",
+                "\"It sure feels great.\""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I hate the night, though."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Only freaks come out at this hour."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Who are you calling a freak?"
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "Youkai of the Dusk",
+                "<c$Rumia$Youkai of the Dusk>"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Nobody's talking about you."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Well, yes, of course not."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "So, why are you holding your arms",
+                "out like that?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Does it give you the image of",
+                "a saint crucified on a cross?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "It looks to me more like",
+                "mankind learning how to add."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "I wonder if humans are the only"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "ones with ten fingers for math."
+            ]
+        }
+    }
+}

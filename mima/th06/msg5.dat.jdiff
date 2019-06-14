@@ -1,0 +1,334 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Aaah, the cleaning isn't getting anywhere!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "The mistress will be angry with me!!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "You're getting in the way of my cleaning again..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "You...",
+                "don't seem to be the owner."
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Maid of the Scarlet Devil Mansion",
+                "<c$Sakuya Izayoi$Maid of the Scarlet Devil Mansion>"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "What is it?",
+                "Are you a guest of the mistress?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "(She probably won't let me pass if I tell her",
+                "that I came to defeat her mistress.)"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "You may not pass."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "The mistress rarely meets",
+                "with people."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Is she under house arrest?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "The mistress likes dark places."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Then a not-so-dark person like you will do."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "You're the ones spreading this mist",
+                "all over the place, right?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "It's a nuisance.",
+                "What are you trying to do?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Daylight is bothersome.",
+                "The mistress prefers the dark."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "But I don't.",
+                "Would you stop it?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Ask the mistress yourself."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Then call her here."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "...and why would I place the mistress",
+                "in danger?"
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Maybe she'll come out if I cause",
+                "some trouble here?"
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "You've already caused enough."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Even so, you cannot meet with",
+                "my mistress."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I can stall you for as long as it takes",
+                "by stopping time."
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "How's that?!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Why are you so full of yourself, at this level?",
+                "You have a long way to go."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Come back two hours earlier."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "So, you'll let me meet with the mistress, I believe?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "She's strong...",
+                "But maybe the mistress can..."
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Ah, the cleaning isn't getting anywhere!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "The mistress will be mad with me!!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "You're getting in the way of my cleaning again~."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "O dear, a maid."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'll be arrested under the Washington Convention",
+                "if I catch you."
+            ]
+        },
+        "65_h1_0": {
+            "lines": [
+                "Maid of the Scarlet Devil Mansion",
+                "<c$Sakuya Izayoi$Maid of the Scarlet Devil Mansion>"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh, magicians are actually",
+                "more in need of mercy."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Have mercy."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "So?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Were you also hired to",
+                "work here?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Ah, that's also good."
+            ]
+        },
+        "70_1": {
+            "lines": [
+                "But you don't look like someone",
+                "who can even clean."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I can't."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Then, what're you in charge of?",
+                "Charge of love?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "More like charge of maintenance and repair."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "What's that?",
+                "It's not as though it was elementary school."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "You're saying charge of love belongs in junior high?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Well then, I shall have you",
+                "start your work immediately."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I forgot to introduce myself.",
+                "I am Sakuya, the chief maid."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "So if I beat you,",
+                "I become chief maid, right?"
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "More people have said that and been killed",
+                "than there are thorium decay products."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Ah, that's a pretty average amount.",
+                "If you say it like that, that is."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Your time is also mine...",
+                "An old-fashioned witch doesn't stand a chance."
+            ]
+        }
+    },
+    "13": {
+        "61_0": {
+            "lines": [
+                "Aah, I'm worn out."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Why don't you go home?",
+                "I have a job to do here."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I will."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Really?",
+                "Bye."
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Can I become the chief maid",
+                "without actually being a maid?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Of course you can't."
+            ]
+        }
+    }
+}

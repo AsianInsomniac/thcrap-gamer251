@@ -1,0 +1,212 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Damn, time for the last stand battle formation!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "You're going to set up a formation all by yourself?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Stop following me!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Thanks for leading the way!"
+            ]
+        },
+        "62_h1_0": {
+            "lines": [
+                "<c$Chinese Girl$Hong Meiling>",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You know, you can follow me all you want,",
+                "but there's nothing over there."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "You wouldn't flee to the middle of nowhere, right?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Well, if I was running away,",
+                "I probably wouldn't be picky about where."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "By the way, who are you?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Er, just a normal person."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "But didn't you attack me before?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "I attacked normally.",
+                "But you attacked me first."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "You're the one who's abnormal."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "I'm not,",
+                "I am just a completely normal shrine maiden."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "That's good to hear.",
+                "If I remember correctly..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...they say that shrine maidens",
+                "are the kind of human it's okay to eat..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Don't spread sayings like that!"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "Well then, I'll have you show me the way."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There is no more.",
+                "This is the demo."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh well, that's too bad."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'm so sorry, mistress!"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Damn, gotta run for now!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I'll let you run."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ah, thanks back there."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Long time no see."
+            ]
+        },
+        "63_h1_0": {
+            "lines": [
+                "<c$Chinese Girl$Hong Meiling>",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hey, when did we",
+                "become acquaintances~?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Just a moment ago?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Hmm, I ran into some weirdo then."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Listen, you're in my way.",
+                "You are a guard around here?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "I am the guard, and so I'm in your way."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "So you are the guard?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "I'm just a normal person who guards."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "In short, you're a normal person.",
+                "I shall punish you here."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "What education did you get?"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Just as I thought,",
+                "it isn't my style to fight normal people."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "This has to be an absolute lie~."
+            ]
+        }
+    }
+}

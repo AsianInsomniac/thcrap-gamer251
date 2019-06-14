@@ -1,0 +1,215 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Aren't there any windows in this house?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "And did it even look this big",
+                "from the outside?"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "You, the red-white one!"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Don't run amuck in my study."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Study? (Red-white?)"
+            ]
+        },
+        "95_h1_0": {
+            "lines": [
+                "The Girl of Knowledge and Shade",
+                "<c$Patchouli Knowledge$The Girl of Knowledge and Shade>"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "The books here are worth all the donations",
+                "your shrine has received in the past five years."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "My shrine rarely has any visitors during the year."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "Oh. Then I suppose they're not worth <i$that> much."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Anyway, can you actually read",
+                "in such a dark room?"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Unlike you,",
+                "I'm not night-blind."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I'm telling you, I'm not night-blind!",
+                "...er."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "...wait. Actually, what I wanted to ask was,",
+                "are you the owner of this house?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "What do you want with the mistress?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "There's too much mist outside. It's a problem."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Then I absolutely cannot allow you to",
+                "see the mistress."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I won't let you stop me."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "...By the way, just who are you?"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "But really, did the mansion look",
+                "this big from the outside?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "There is someone in the mansion who likes to mess",
+                "with time and space."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Whoa, so many books."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I'll just quietly take them later."
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "Don't carry them oooff."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "I'm gonna carry 'em off."
+            ]
+        },
+        "94_h1_0": {
+            "lines": [
+                "The Girl of Knowledge and Shade",
+                "<c$Patchouli Knowledge$The Girl of Knowledge and Shade>"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Let's see, \"How to passively defeat the ",
+                "black thing in front of me...\""
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "(Is that actually written in there?)"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Hmm, my eyes have been getting worse lately."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "Isn't that because the room is so dark?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Perhaps I lack iron."
+            ]
+        },
+        "99_0": {
+            "lines": [
+                "If anything, it's vitamin A."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "How about you?"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "I have enough. Of a lot of things."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Then maybe I'll help myself."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "I'm really tasty."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Let's see, how to easily remove",
+                "unneeded portions of food..."
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "You're pretty good with magic.",
+                "Ya got anythin' else to show me?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "*sob sob* I'm so anemic",
+                "I can't finish reciting the spells."
+            ]
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Was this lake always this big?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "This mist is annoying. I can't see through it."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Maybe I just have a bad sense of direction?"
+            ]
+        },
+        "92_h1_0": {
+            "lines": [
+                "Ice Fairy of the Lake",
+                "<c$Cirno$Ice Fairy of the Lake>"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "When you lose your way,",
+                "it's because of the fairies."
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Oh, really? Could you show me the way, then?",
+                "There was an island around here, right?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Hey, be a bit more surprised.",
+                "Don't you see a formidable enemy right in front of you?"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "You're a target?",
+                "Now that is a surprise."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Quit teasing meeee."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "I'll deep-freeze you with some",
+                "English beef!!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ah, it's starting to get cold."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "I'll catch an air conditioner cold at this rate."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "I'm sure the island was",
+                "around here..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Could it be moving?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Besides which..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Ain't it summer?",
+                "Why's it so cold?"
+            ]
+        },
+        "93_h1_0": {
+            "lines": [
+                "Ice Fairy of the Lake",
+                "<c$Cirno$Ice Fairy of the Lake>"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "You'll never walk upon land again!"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "So you were the cold one."
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Better than hot, don't you think?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "How cold of you."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "There's something wrong with that..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "You are at the very limit?"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Ah, short sleeves are bad for my health."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I should find a place that serves",
+                "tea soon."
+            ]
+        }
+    }
+}
