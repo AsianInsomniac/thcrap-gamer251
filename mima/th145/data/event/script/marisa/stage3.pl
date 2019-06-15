@@ -64,18 +64,18 @@
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_普2,0,0
 ,th145_Show,marisa,-1280	,#霊夢フェイス表示開始
-"I see an immortal\nperson next to me.\",a15x3,0,0
+a\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mokou		,#発言中キャラを指定
 ,ImageDef,mokou,妹紅_汗1,0,0
 ,th145_Show,mokou,-1280	,#妹紅フェイス表示開始
-"Yes I am. So?\",a05x2,0,0
+b\,a05x2,0,0
 ,ClearBalloon,mokou
 
 ,SetFocus,mokou		,#発言中キャラを指定
 ,ImageDef,mokou,妹紅_普1,0,0
-"What do you want, spirit?\",a05x2,0,0
+c\,a05x2,0,0
 ,ClearBalloon,mokou
 
 #紹介カット表示　妹紅は「妹紅_普1」からのみ実行可能\,a11x2,0,0
@@ -91,32 +91,32 @@
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_普2,0,0
-"Just looking for a place to stay.\",a15x3,0,0
+d\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mokou		,#発言中キャラを指定
 ,ImageDef,mokou,妹紅_汗1,0,0
-"This is no place for a spirit like you.\",a15x3,0,0
+e\,a15x3,0,0
 ,ClearBalloon,mokou
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_決1,0,0
-"Then why do you live here?\",c11x2,0,0
+f\,c11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mokou		,#発言中キャラを指定
 ,ImageDef,mokou,妹紅_余1,0,0
-"To protect humans from people like you.\",a15x3,0,0
+g\,a15x3,0,0
 ,ClearBalloon,mokou
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_驚3,0,0
-"I do not attack humans.\",a15x3,0,0
+h\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mokou		,#発言中キャラを指定
 ,ImageDef,mokou,妹紅_決1,0,0
-"I don't buy a single thing you say. Prepare\nyourself, for I'll burn you to ashes evil spirit.\",a15x3,0,0
+i\,a15x3,0,0
 ,ClearBalloon,mokou
 
 
@@ -154,11 +154,11 @@
 
 
 ,SetFocus,marisa	,#発言中キャラを指定
-"Come on, you were serious\nbecause I'm going there.\",a15x3,0,0
+j\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mokou		,#発言中キャラを指定
-"I won't let the humans being tormented\nby bad spirit like you.\",a15x3,0,0
+k\,a15x3,0,0
 ,ClearBalloon,mokou
 
 
@@ -186,7 +186,7 @@
 ,th145_Show,mokou,-1280	,#魔理沙フェイス表示開始
 
 ,SetFocus,mokou		,#発言中キャラを指定
-"I do not allow strange beings here.\",a15x3,0,0
+l\,a15x3,0,0
 ,ClearBalloon,mokou
 
 
@@ -212,21 +212,21 @@
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_余1,0,0
-"That's what you get for crossing the line.\",a15x3,0,0
+o\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa        ,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_普2,0,0
-"Well, if I can't stay here\n then where can I?\",a15x3,0,0
+p\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mokou		,#発言中キャラを指定
-"You should try the Tanuki Forest.\n They are very welcoming.\",a15x3,0,0
+q\,a15x3,0,0
 ,ClearBalloon,mokou
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_決1,0,0
-"Okey\",c11x2,0,0
+r\,c11x2,0,0
 ,ClearBalloon,marisa
 
 ,Function,"::StopBGM(1500);"

@@ -60,17 +60,17 @@
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_決1,0,0
-"Phew, finally a place where I can relax a bit.\",a15x3,0,0
+a\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_怒1,0,0
-"I hope they'll let me.\",a11x2,0,0
+b\,a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_普2,0,0
-"I just want to live in peace among the people.\",a15x3,0,0
+c\,a15x3,0,0
 ,ClearBalloon,marisa
 
 # 2Pキャラステージ下から登場
@@ -82,7 +82,7 @@
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_普1,0,0
-"Well, what do we have here. A\npeace-seeking spirit.\",a15x3,0,0
+d\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 #紹介カット表示　マミゾウは「マミゾウ_普1」からのみ実行可能\,a11x2,0,0
@@ -91,37 +91,37 @@
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_驚1,0,0
-"I see you're looking\nfor a place to lodge.\",a15x3,0,0
+e\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_怒1,0,0
-"How do you know\nthat? Were you\nlistening to me?\",a15x3,0,0
+f\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_汗1,0,0
-"Actually, yes. That's why I'm here.\",a15x3,0,0
+g\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_嬉1,0,0
-"I'll let you stay at our place\nonly under the following conditions.\",a15x3,0,0
+h\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_惑1,0,0
-"First: You must defeat me.\",a15x3,0,0
+i\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_汗1,0,0
-"Second: You must go to the outside world and\nbeat the person that caused all of this.\",a15x3,0,0
+j\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_決1,0,0
-"Deal. Defeating you would be easy.\",a15x3,0,0
+k\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,Function,"StopBGM(500);",# BGM停止
@@ -129,7 +129,7 @@
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_嬉1,0,0
-"Ok, let the battle begin.\",a15x3,0,0
+l\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 #両者フェイス撤去
@@ -161,11 +161,11 @@
 
 
 ,SetFocus,marisa		,#発言中キャラを指定
-"This is being easy.\",a11x2,0,0
+o\,a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mamizou		,
-"That was just the beginning.\",a15x3,0,0
+p\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 
@@ -194,7 +194,7 @@
 ,th145_Show,mamizou,-1280	,#魔理沙フェイス表示開始
 
 ,SetFocus,mamizou
-"Come on, I know you can win against me.\",a15x3,0,0
+q\,a15x3,0,0
 
 ,Function,"::StopBGM(1500);"
 #コンテニュー処理へのジャンプを予定　現在は仮で次のステージに進んでから一つ戻る処理を行い、同ステージの最初から再開します
@@ -220,26 +220,26 @@
 
 
 ,SetFocus,marisa		,
-"There, I won. Now tell me where is tha\nperson I must beat.\",a15x3,0,0
+r\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mamizou		,
-"Go to the Hakurei Shrine and talk to Kasen. She'll help\nyou get to the Outside World.\",a15x3,0,0
+t\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_怒1,0,0
-"How does she look?\",a11x2,0,0
+u\,a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_惑1,0,0
-"She's a pink haired hermit. You'll\nrecognize her immediately.\",a15x3,0,0
+w\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 ,SetFocus,mamizou		,
 ,ImageDef,mamizou,マミゾウ_嬉1,0,0
-"Good luck with the\nsecond condition.\",a15x3,0,0
+x\,a15x3,0,0
 ,ClearBalloon,mamizou
 
 

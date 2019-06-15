@@ -58,7 +58,7 @@
 ,th145_Show,marisa,-1280	,
 
 ,SetFocus,marisa		,
-"Whoa, is this the Outside World of now?\",a15x3,0,0
+a\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,

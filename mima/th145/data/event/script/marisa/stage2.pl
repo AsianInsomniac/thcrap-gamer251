@@ -58,17 +58,17 @@
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_怒1,0,0
 ,th145_Show,marisa,-1280	,#霊夢フェイス表示開始
-"I see that there is another\ntemple besides Reimu's.\",a15x3,0,0
+a\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_驚1,0,0
-"Let's see if I am well received here...\",a15x3,0,0
+b\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_普2,0,0
-"Oh, somebody is coming.\",a15x3,0,0
+c\,a15x3,0,0
 ,ClearBalloon,marisa
 
 # 2Pキャラステージ下から登場
@@ -80,7 +80,7 @@
 ,SetFocus,ichirin		,#発言中キャラを指定
 ,ImageDef,ichirin,一輪_普1,0,0
 ,th145_Show,ichirin,-1280	,#一輪フェイス表示開始
-"And who are you?\",a15x3,0,0
+d\,a15x3,0,0
 ,ClearBalloon,ichirin
 
 #紹介カット表示　一輪は「一輪_普1」からのみ実行可能\,a11x2,0,0
@@ -93,37 +93,37 @@
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_普1,0,0
-"My name is Mima and I once an evil spirit.\",a15x3,0,0
+e\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,ichirin		,#発言中キャラを指定
 ,ImageDef,ichirin,一輪_惑1,0,0
-"Evil spirit...\",a11x2,0,0
+f\,a11x2,0,0
 ,ClearBalloon,ichirin
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_普2,0,0
-"So what?\",c15x3,0,0
+g\,c15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,ichirin		,#発言中キャラを指定
 ,ImageDef,ichirin,一輪_余1,0,0
-"If you are an evil spirit that means\nyou are full of sin.\",a15x3,0,0
+h\,a15x3,0,0
 ,ClearBalloon,ichirin
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_普1,0,0
-"I'm already at peace with my evil deeds\nfrom the past.\",a15x3,0,0
+i\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,ichirin		,#発言中キャラを指定
 ,ImageDef,ichirin,一輪_決1,0,0
-"I don't care. I'll beat you up right\nhere so I can purify you from all evil.\",a15x3,0,0
+j\,a15x3,0,0
 ,ClearBalloon,ichirin
 
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_普2,0,0
-"Fine, if that's how you want it.\",a15x3,0,0
+k\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,Function,"StopBGM(500);",# BGM停止
@@ -157,11 +157,11 @@
 
 
 ,SetFocus,marisa		,#発言中キャラを指定
-"I thought that a Nyuudou user would\nbe more strong than that!\",a15x3,0,0
+l\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,ichirin		,
-"I will not even show my true power.\",a15x3,0,0
+o\,a15x3,0,0
 ,ClearBalloon,ichirin
 
 
@@ -190,7 +190,7 @@
 ,th145_Show,ichirin,-1280	,#魔理沙フェイス表示開始
 
 ,SetFocus,ichirin,
-Welp turns out she was right.\,a15x3,0,0
+p\,a15x3,0,0
 
 ,Function,"::StopBGM(1500);"
 #コンテニュー処理へのジャンプを予定　現在は仮で次のステージに進んでから一つ戻る処理を行い、同ステージの最初から再開します
@@ -213,22 +213,22 @@ Welp turns out she was right.\,a15x3,0,0
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_嬉1,0,0
-"Pfft, if you use brute force only,\n you'll never amount to anything.\",a15x3,0,0
+q\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,ichirin
-"Maybe you're right.\",a05x2,0,0
+r\,a05x2,0,0
 ,ClearBalloon,ichirin
 
 ,SetFocus,marisa
 ,ImageDef,marisa,魔理沙_嬉1,0,0
-"Next time show a bit more trust on others.\",a15x3,0,0
+t\,a15x3,0,0
 ,ClearBalloon,ichirin
 
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_決1,0,0
-"Well, off I go.\",a11x2,0,0
+u\,a11x2,0,0
 ,ClearBalloon,marisa
 
 
