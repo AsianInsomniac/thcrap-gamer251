@@ -87,41 +87,41 @@ d\,a15x3,0,0
 
 ,SetFocus,marisa,
 ,ImageDef,marisa,–‚—¹_•1,0,0
-"Well, I was training myself\n secretly.\",a11x2,0,0
+e\,a11x2,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu,
 ,ImageDef,reimu,—ì–²_˜f1,0,0
-e\,c11x2,0,0
+f\,c11x2,0,0
 ,ImageDef,reimu,—ì–²_•2,0,0
-f\,a11x2,0,0
+g\,a11x2,0,0
 ,ImageDef,reimu,—ì–²_˜f1,0,0
-g\,a15x3,0,0
+h\,a15x3,0,0
 ,ClearBalloon,reimu
 
 ,SetFocus,marisa,
 ,ImageDef,marisa,–‚—¹_Œˆ1,0,0
-h\,a15x3,0,0
+i\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu,
 ,ImageDef,reimu,—ì–²_“{1,0,0
-i\,a11x2,0,0
+j\,a11x2,0,0
 ,ClearBalloon,reimu
 
 ,SetFocus,marisa,
 ,ImageDef,marisa,–‚—¹_•2,0,0
-j\,a15x3,0,0
+k\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu,
 ,ImageDef,reimu,—ì–²_Œˆ1,0,0
-k\,a15x3,0,0
+l\,a15x3,0,0
 ,ClearBalloon,reimu
 
 ,SetFocus,marisa,
 ,ImageDef,marisa,–‚—¹_•1,0,0
-l\,a15x3,0,0
+o\,a15x3,0,0
 ,ClearBalloon,marisa
 
 
@@ -156,11 +156,11 @@ l\,a15x3,0,0
 
 
 ,SetFocus,marisa		,#”­Œ¾’†ƒLƒƒƒ‰‚ğw’è
-m\,a15x3,0,0
+p\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu		,
-n\,a15x3,0,0
+q\,a15x3,0,0
 ,ClearBalloon,reimu
 
 
@@ -190,7 +190,7 @@ n\,a15x3,0,0
 
 ,SetFocus,reimu		,
 ,ImageDef,reimu,—ì–²_Š¾1,0,0
-o\,a11x2,0,0
+r\,a11x2,0,0
 ,ClearBalloon,reimu
 
 
@@ -217,19 +217,19 @@ o\,a11x2,0,0
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,–‚—¹_•1,0,0
-p\,a15x3,0,0
+t\,a15x3,0,0
 ,ImageDef,marisa,–‚—¹_•2,0,0
-q\,a15x3,0,0
+u\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu		,
 ,ImageDef,reimu,—ì–²_•‰1,0,0
-r\,a15x3,0,0
+w\,a15x3,0,0
 ,ClearBalloon,reimu
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,–‚—¹_•2,0,0
-s\,a15x3,0,0
+x\,a15x3,0,0
 ,ClearBalloon,marisa
 
 

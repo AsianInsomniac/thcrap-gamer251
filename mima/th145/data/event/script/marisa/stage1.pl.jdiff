@@ -21,75 +21,80 @@
     },
     "5": {
         "lines": [
-            "I see..."
+            "Well, I was training myself\n secretly."
         ]
     },
     "6": {
         "lines": [
-            "You do know that everybody \nforgot who you are, do you?"
+            "I see..."
         ]
     },
     "7": {
         "lines": [
-            "I wonder if you're aware of all the stuff that\nhappened while you were gone."
+            "You do know that everybody \nforgot who you are, do you?"
         ]
     },
     "8": {
         "lines": [
-            "Yes I do. I was watching you all this\ntime from the shadows."
+            "I wonder if you're aware of all the stuff that\nhappened while you were gone."
         ]
     },
     "9": {
         "lines": [
-            "Woah, you sound like a stalker."
+            "Yes I do. I was watching you all this\ntime from the shadows."
         ]
     },
     "10": {
         "lines": [
-            "Easy there, no need to be upset."
+            "Woah, you sound like a stalker."
         ]
     },
     "11": {
         "lines": [
-            "Do you want to behold the power I have\nobtained thanks to the occult orbs?"
+            "Easy there, no need to be upset."
         ]
     },
     "12": {
         "lines": [
-            "You bet! I'll also show you my\nnewly enhanced powers!"
+            "Do you want to behold the power I have\nobtained thanks to the occult orbs?"
         ]
     },
     "13": {
         "lines": [
-            "Come on, Reimu I know you can do better."
+            "You bet! I'll also show you my\nnewly enhanced powers!"
         ]
     },
     "14": {
         "lines": [
-            "Now, I'll show my urban legend."
+            "Come on, Reimu I know you can do better."
         ]
     },
     "15": {
         "lines": [
-            ""I thought you could\nwithstand my Urban Legend."
+            "Now, I'll show my urban legend."
         ]
     },
     "16": {
         "lines": [
-            "Well, It seems to me you're too dependant on the\nUrban Legend. Maybe you should train..."
+            ""I thought you could\nwithstand my Urban Legend."
         ]
     },
     "17": {
         "lines": [
-            "Your own combat skills."
+            "Well, It seems to me you're too dependant on the\nUrban Legend. Maybe you should train..."
         ]
     },
     "18": {
         "lines": [
-            "You see, nowadays it's very common to \nrely on the Urban Legnds..."
+            "Your own combat skills."
         ]
     },
     "19": {
+        "lines": [
+            "You see, nowadays it's very common to \nrely on the Urban Legnds..."
+        ]
+    },
+    "20": {
         "lines": [
             "Well, it's time for me to\ngo to another place."
         ]
