@@ -225,13 +225,6 @@ r\,a05x2,0,0
 t\,a15x3,0,0
 ,ClearBalloon,ichirin
 
-
-,SetFocus,marisa		,
-,ImageDef,marisa,ñÇóùçπ_åà1,0,0
-u\,a11x2,0,0
-,ClearBalloon,marisa
-
-
 ,Function,"::StopBGM(1500);"
 ,Thread,"::story.NextStage();"
 
