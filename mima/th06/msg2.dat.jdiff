@@ -72,24 +72,24 @@
     "10": {
         "60_0": {
             "lines": [
-                "I'm sure the island was",
-                "around here..."
+                "Shouldn't there be an island on this lake?"
             ]
         },
         "61_0": {
             "lines": [
-                "Could it be moving?"
+                "It's so tedious to move around with all",
+				"this mist blocking my vision..."
             ]
         },
         "62_0": {
             "lines": [
-                "Besides which..."
+                "The temperature's lower than normal, too,",
+				"for some reason."
             ]
         },
         "63_0": {
             "lines": [
-                "Ain't it summer?",
-                "Why's it so cold?"
+                "Shouldn't it be the middle of summer by now?"
             ]
         },
         "93_h1_0": {
@@ -100,45 +100,48 @@
         },
         "93_0": {
             "lines": [
-                "You'll never walk upon land again!"
+                "Halt!",
+				"Why are you trespassing on my lake?"
             ]
         },
         "94_0": {
             "lines": [
-                "So you were the cold one."
+                "My my, what a little cutie we have here."
             ]
         },
         "95_0": {
             "lines": [
-                "Better than hot, don't you think?"
+                "Hey, who are you calling cute?!"
             ]
         },
         "96_0": {
             "lines": [
-                "How cold of you."
+                "Why the aggressive tone, ice fairy?",
+				"That doesn't make you cute at all.
             ]
         },
         "97_0": {
             "lines": [
-                "There's something wrong with that..."
+                "You'll pay for belittling me, you'll see!"
             ]
         },
         "98_0": {
             "lines": [
-                "You are at the very limit?"
+                "Now, have fun being frozen by my ice-cold danmaku!"
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "Ah, short sleeves are bad for my health."
+                "That ice fairy sure was a huge pain.",
+				"Wasn't cute of her to attack me at all."
             ]
         },
         "61_0": {
             "lines": [
-                "I should find a place that serves",
-                "tea soon."
+                "Ah, but the mist started to clear up,",
+				"so I guess I have to thank her for that."
             ]
         }
     }

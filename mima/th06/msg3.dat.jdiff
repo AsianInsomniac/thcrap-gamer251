@@ -7,7 +7,7 @@
         },
         "180_0": {
             "lines": [
-                "You're going to set up a formation all by yourself?"
+                "Hey, where are you going, pathetic youkai?!"
             ]
         }
     },
@@ -133,12 +133,12 @@
     "10": {
         "60_0": {
             "lines": [
-                "Ah, thanks back there."
+                "And where do you think you're going, evil spirit?"
             ]
         },
         "61_0": {
             "lines": [
-                "Long time no see."
+                "I should be saying that to you."
             ]
         },
         "63_h1_0": {
@@ -149,34 +149,34 @@
         },
         "62_0": {
             "lines": [
-                "Hey, when did we",
-                "become acquaintances~?"
+                "Past this gate is private property."
             ]
         },
         "64_0": {
             "lines": [
-                "Just a moment ago?"
+                "Don't worry, I won't intrude,",
+				"so long as you answer my questions."
             ]
         },
         "65_0": {
             "lines": [
-                "Hmm, I ran into some weirdo then."
+                "I'm here to guard the mansion, not answer questions!"
             ]
         },
         "67_0": {
             "lines": [
-                "Listen, you're in my way.",
-                "You are a guard around here?"
+                "First the one clad in red-white, then the one",
+				"in black-white...
             ]
         },
         "69_0": {
             "lines": [
-                "I am the guard, and so I'm in your way."
+                "Wait, did you just say red-white and black-white?"
             ]
         },
         "70_0": {
             "lines": [
-                "So you are the guard?"
+                "Where did you see them?"
             ]
         },
         "71_0": {
@@ -199,13 +199,13 @@
     "11": {
         "61_0": {
             "lines": [
-                "Just as I thought,",
-                "it isn't my style to fight normal people."
+                "So much for the unbreakable.",
+				"Now tell me, where did they go?"
             ]
         },
         "62_0": {
             "lines": [
-                "This has to be an absolute lie~."
+                "I'm sorry, mistress..."
             ]
         }
     }

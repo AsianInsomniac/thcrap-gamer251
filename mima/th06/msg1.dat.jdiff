@@ -108,28 +108,29 @@
     "10": {
         "60_0": {
             "lines": [
-                "This feels kinda..."
+                "Tonight feels a little more off than usual."
             ]
         },
         "61_0": {
             "lines": [
-                "Knowing her, she'd probably say,",
-                "\"It sure feels great.\""
+                "Reimu left a little while ago, so something",
+				"might've caught her attention..."
             ]
         },
         "62_0": {
             "lines": [
-                "I hate the night, though."
+                "..."
             ]
         },
         "63_0": {
             "lines": [
-                "Only freaks come out at this hour."
+                "Who dares follow me around at this hour?"
             ]
         },
         "103_0": {
             "lines": [
-                "Who are you calling a freak?"
+                "Oh, hello there.",
+				"Didn't notice that you were inhuman as well."
             ]
         },
         "104_h1_0": {
@@ -140,42 +141,41 @@
         },
         "104_0": {
             "lines": [
-                "Nobody's talking about you."
+                "I thought you were human at first!"
             ]
         },
         "105_0": {
             "lines": [
-                "Well, yes, of course not."
+                "Do I look like a mere human to you?"
             ]
         },
         "106_0": {
             "lines": [
-                "So, why are you holding your arms",
-                "out like that?"
+                "I mean, you do LOOK human from afar, you know?"
             ]
         },
         "107_0": {
             "lines": [
-                "Does it give you the image of",
-                "a saint crucified on a cross?"
+                "It might just be your vision being bad..."
             ]
         },
         "108_0": {
             "lines": [
-                "It looks to me more like",
-                "mankind learning how to add."
+                "Still, I felt pretty insulted by that.",
+				"You're going to pay for calling me a human."
             ]
         }
     },
     "11": {
         "60_0": {
             "lines": [
-                "I wonder if humans are the only"
+                "Ow!",
+				"That was pretty petty of you to suddenly attack me!"
             ]
         },
         "60_1": {
             "lines": [
-                "ones with ten fingers for math."
+                "You should've known better than to mess with me, child."
             ]
         }
     }
