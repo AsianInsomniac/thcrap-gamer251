@@ -76,12 +76,12 @@
     },
     "16": {
         "lines": [
-			"Next time show a bit more trust on others."
+			"Next time show a bit|nmore trust on others."
         ]
     },
     "17": {
         "lines": [
-			"Well, \noff I go."
+			"Well, off I go."
         ]
     }
 }
