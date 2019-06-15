@@ -63,7 +63,7 @@
 ,SetFocus,marisa		,#発言中キャラを指定
 ,ImageDef,marisa,魔理沙_嬉1,0,0
 ,th145_Show,marisa,-1280	,#霊夢フェイス表示開始
-"Reimu, long time no see.\",a11x2,0,0
+Reimu, long time no see.\,a11x2,0,0
 ,ImageDef,marisa,魔理沙_驚3,0,0
 Although I see you have some sort of dark aura\ninside you and that's kinda unsettling.\,a15x3,0,0
 ,ClearBalloon,marisa
@@ -72,9 +72,9 @@ Although I see you have some sort of dark aura\ninside you and that's kinda unse
 ,SetFocus,reimu		,#発言中キャラを指定
 ,ImageDef,reimu,霊夢_汗1,0,0
 ,th145_Show,reimu,-1280	,#霊夢フェイス表示開始
-"That mysterious aura you say is\n actually an ""urban legend"" inside of me\",a15x3,0,0
+That mysterious aura you say is\n actually an ""urban legend"" inside of me\,a15x3,0,0
 ,ImageDef,reimu,霊夢_敵2,0,0
-"Besides that, where were you all this time?\",a15x3,0,0
+Besides that, where were you all this time?\,a15x3,0,0
 ,ClearBalloon,reimu
 
 
