@@ -219,7 +219,7 @@ x\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,miko,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,miko
+,SetFocus,miko		,
 y\,a15x3,0,0
 
 ,Function,"::StopBGM(1500);"
@@ -241,19 +241,19 @@ y\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,miko,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,miko
+,SetFocus,miko		,
 z\,a15x3,0,0
 ,ClearBalloon,miko
 
-,SetFocus,marisa
+,SetFocus,marisa		,
 a\,a15x3,0,0
 ,ClearBalloon,marisa
 
-,SetFocus,marisa
+,SetFocus,marisa		,
 b\,a15x3,0,0
 ,ClearBalloon,marisa
 
-,SetFocus,miko
+,SetFocus,miko		,
 c\,a15x3,0,0
 ,ClearBalloon,miko
 

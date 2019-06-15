@@ -206,7 +206,7 @@ a\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,usami,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,usami
+,SetFocus,usami		,
 "That happens to you because I trusted spirit.\",a15x3,0,0
 
 ,Function,"::StopBGM(1500);"
@@ -228,7 +228,7 @@ a\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,usami,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,usami
+,SetFocus,usami		,
 本文\,a11x2,0,0
 ,ClearBalloon,usami
 

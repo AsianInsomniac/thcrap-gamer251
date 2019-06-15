@@ -193,7 +193,7 @@ p\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,mamizou,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,mamizou
+,SetFocus,mamizou		,
 q\,a15x3,0,0
 
 ,Function,"::StopBGM(1500);"

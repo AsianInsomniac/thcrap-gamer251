@@ -53,10 +53,11 @@
 ,Function,GameStory_TitleCall();
 ,Function,"function main(){ for (local i=0; i < 150; i++) suspend(); }"
 
-,ImageDef,marisa,魔理沙_汗1,0,0
-,th145_Show,marisa,-1280
-	,
+,th145_Show,marisa,-1280	,
+
+
 ,SetFocus,marisa		,
+,ImageDef,marisa,魔理沙_汗1,0,0
 a\,a11x2,0,0
 ,ClearBalloon,marisa
 
@@ -119,24 +120,24 @@ j\,a15x3,0,0
 
 ,SetFocus,kasen		,
 ,ImageDef,kasen,華扇_普1,0,0
-l\,a15x3,0,0
+k\,a15x3,0,0
 ,ClearBalloon,kasen
 
 ,Function,"GameStory_PlayBattleBGM(512);",# 戦闘BGM再生開始
 
 ,SetFocus,kasen		,
 ,ImageDef,kasen,華扇_怒2,0,0
-n\,a15x3,0,0
+l\,a15x3,0,0
 ,ClearBalloon,kasen
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_決1,0,0
-o\,a15x3,0,0
+n\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,kasen		,
 ,ImageDef,kasen,華扇_決1,0,0
-p\,a15x3,0,0
+o\,a15x3,0,0
 ,ClearBalloon,kasen
 
 
@@ -171,11 +172,11 @@ p\,a15x3,0,0
 ,th145_Show,kasen,-1280,#魔理沙フェイス表示開始
 
 ,SetFocus,kasen		,
-q\,a15x3,0,0
+p\,a15x3,0,0
 ,ClearBalloon,kasen
 
 ,SetFocus,marisa		,#発言中キャラを指定
-r\,a15x3,0,0
+q\,a15x3,0,0
 ,ClearBalloon,marisa
 
 #両者フェイス撤去
@@ -202,8 +203,8 @@ r\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,kasen,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,kasen
-t\,a15x3,0,0
+,SetFocus,kasen		,
+r\,a15x3,0,0
 
 ,Function,"::StopBGM(1500);"
 #コンテニュー処理へのジャンプを予定　現在は仮で次のステージに進んでから一つ戻る処理を行い、同ステージの最初から再開します
@@ -224,16 +225,16 @@ t\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,kasen,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,kasen
-u\,a15x3,0,0
+,SetFocus,kasen		,
+t\,a15x3,0,0
 ,ClearBalloon,kasen
 
-,SetFocus,marisa
-w\,a15x3,0,0
+,SetFocus,marisa		,
+u\,a15x3,0,0
 ,ClearBalloon,marisa
 
-,SetFocus,kasen
-y\,a15x3,0,0
+,SetFocus,kasen		,
+w\,a15x3,0,0
 ,ClearBalloon,kasen
 
 ,Function,"::StopBGM(1500);"
@@ -248,3 +249,4 @@ y\,a15x3,0,0
 サブルーチン実行\
 ,ClearBalloon
 ,Return
+
