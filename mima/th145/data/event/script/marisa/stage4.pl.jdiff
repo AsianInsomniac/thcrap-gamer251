@@ -41,60 +41,65 @@
     },
     "9": {
         "lines": [
-            "Second: You must go to the outside world and\nbeat the person that caused all of this."
+            "First: Beat me."
         ]
     },
     "10": {
         "lines": [
-            "Deal. Defeating you would be easy."
+            "Second: You must go to the outside world and\nbeat the person that caused all of this."
         ]
     },
     "11": {
         "lines": [
-            "Ok, let the battle begin."
+            "Deal. Defeating you would be easy."
         ]
     },
     "12": {
         "lines": [
-            "This will be very fun."
+            "Ok, let the battle begin."
         ]
     },
     "13": {
         "lines": [
-            "So easy!!!"
+            "This will be very fun."
         ]
     },
     "14": {
         "lines": [
-            "That was just the beginning."
+            "So easy!!!"
         ]
     },
     "15": {
         "lines": [
-            "Come on, I know you can win against me."
+            "That was just the beginning."
         ]
     },
     "16": {
         "lines": [
-            "There, I won. Now tell me where is that\nperson I must beat."
+            "Come on, I know you can win against me."
         ]
     },
     "17": {
         "lines": [
-            "Go to the Hakurei Shrine and talk to Kasen. She'll help\nyou get to the Outside World."
+            "There, I won. Now tell me where is that\nperson I must beat."
         ]
     },
     "18": {
         "lines": [
-            "How does she look?"
+            "Go to the Hakurei Shrine and talk to Kasen. She'll help\nyou get to the Outside World."
         ]
     },
     "19": {
         "lines": [
-            "She's a pink haired hermit. You'll\nrecognize her immediately."
+            "How does she look?"
         ]
     },
     "20": {
+        "lines": [
+            "She's a pink haired hermit. You'll\nrecognize her immediately."
+        ]
+    },
+    "21": {
         "lines": [
             "Good luck with the\nsecond condition."
         ]
