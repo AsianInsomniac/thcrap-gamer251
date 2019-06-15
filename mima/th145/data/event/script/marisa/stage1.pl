@@ -72,9 +72,9 @@ b\,a15x3,0,0
 ,SetFocus,reimu		,#発言中キャラを指定
 ,ImageDef,reimu,霊夢_汗1,0,0
 ,th145_Show,reimu,-1280	,#霊夢フェイス表示開始
-"That mysterious aura you say is\n actually an ""urban legend"" inside of me\",a15x3,0,0
+c\,a15x3,0,0
 ,ImageDef,reimu,霊夢_敵2,0,0
-"Besides that, where were you all this time?\",a15x3,0,0
+d\,a15x3,0,0
 ,ClearBalloon,reimu
 
 
@@ -92,36 +92,36 @@ b\,a15x3,0,0
 
 ,SetFocus,reimu,
 ,ImageDef,reimu,霊夢_惑1,0,0
-"I see...\",c11x2,0,0
+e\,c11x2,0,0
 ,ImageDef,reimu,霊夢_普2,0,0
-"You do know that everybody \nforgot who you are, do you?\",a11x2,0,0
+f\,a11x2,0,0
 ,ImageDef,reimu,霊夢_惑1,0,0
-"I wonder if you're aware of all the stuff that\nhappened while you were gone.\",a15x3,0,0
+g\,a15x3,0,0
 ,ClearBalloon,reimu
 
 ,SetFocus,marisa,
 ,ImageDef,marisa,魔理沙_決1,0,0
-"Yes I do. I was watching you all this\ntime from the shadows.\",a15x3,0,0
+h\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu,
 ,ImageDef,reimu,霊夢_怒1,0,0
-"Woah, you sound like a stalker.\",a11x2,0,0
+i\,a11x2,0,0
 ,ClearBalloon,reimu
 
 ,SetFocus,marisa,
 ,ImageDef,marisa,魔理沙_普2,0,0
-"Easy there, no need to be upset.\",a15x3,0,0
+j\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu,
 ,ImageDef,reimu,霊夢_決1,0,0
-"Do you want to behold the power I have\nobtained thanks to the occult orbs?\",a15x3,0,0
+k\,a15x3,0,0
 ,ClearBalloon,reimu
 
 ,SetFocus,marisa,
 ,ImageDef,marisa,魔理沙_普1,0,0
-"You bet! I'll also show you my\nnewly enhanced powers!\",a15x3,0,0
+l\,a15x3,0,0
 ,ClearBalloon,marisa
 
 
@@ -156,11 +156,11 @@ b\,a15x3,0,0
 
 
 ,SetFocus,marisa		,#発言中キャラを指定
-"Come on, Reimu I know you can do better.\",a15x3,0,0
+m\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu		,
-"Now, I'll show my urban legend.\",a15x3,0,0
+n\,a15x3,0,0
 ,ClearBalloon,reimu
 
 
@@ -190,7 +190,7 @@ b\,a15x3,0,0
 
 ,SetFocus,reimu		,
 ,ImageDef,reimu,霊夢_汗1,0,0
-"I thought you could\nwithstand my Urban Legend.\",a11x2,0,0
+o\,a11x2,0,0
 ,ClearBalloon,reimu
 
 
@@ -217,19 +217,19 @@ b\,a15x3,0,0
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_普1,0,0
-"Well, It seems to me you're too dependant on the\nUrban Legend. Maybe you should train...\",a15x3,0,0
+p\,a15x3,0,0
 ,ImageDef,marisa,魔理沙_普2,0,0
-your own combat skills.\,a15x3,0,0
+q\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu		,
 ,ImageDef,reimu,霊夢_負1,0,0
-"You see, nowadays it's very common to \nrely on the Urban Legnds...\",a15x3,0,0
+r\,a15x3,0,0
 ,ClearBalloon,reimu
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_普2,0,0
-"Well, it's time for me to\ngo to another place.\",a15x3,0,0
+s\,a15x3,0,0
 ,ClearBalloon,marisa
 
 
