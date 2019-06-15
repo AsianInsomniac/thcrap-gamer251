@@ -116,22 +116,25 @@
     "10": {
         "60_0": {
             "lines": [
-                "Whoa, so many books."
+                "What a dusty library.",
+				"Talk about spring-cleaning, or lack thereof..."
             ]
         },
         "61_0": {
             "lines": [
-                "I'll just quietly take them later."
+                "This is quite a large assortment, though.",
+				"I'm sure Marisa would like to take some of these home."
             ]
         },
         "91_0": {
             "lines": [
-                "Don't carry them oooff."
+                "Who are you and why are you causing such a ruckus?"
             ]
         },
         "92_0": {
             "lines": [
-                "I'm gonna carry 'em off."
+                "Oh, I'm sorry, are you the owner of this place?",
+				"There was this demon girl flying around—"
             ]
         },
         "94_h1_0": {
@@ -142,73 +145,76 @@
         },
         "93_0": {
             "lines": [
-                "Let's see, \"How to passively defeat the ",
-                "black thing in front of me...\""
+                "You shouldn't be so inconsiderate towards other people's",
+                "familiars, evil spirit."
             ]
         },
         "95_0": {
             "lines": [
-                "(Is that actually written in there?)"
+                "To get such a strong familiar...",
+				"You must be quite a formidable witch."
             ]
         },
         "96_0": {
             "lines": [
-                "Hmm, my eyes have been getting worse lately."
+                "It's been a while since I heard such a compliment.",
+				"Didn't expect it to come from an evil spirit, though."
             ]
         },
         "97_0": {
             "lines": [
-                "Isn't that because the room is so dark?"
+                "Okay, enough of the chitchat.",
+				"Have you seen a shrine maiden in red-white pass by?"
             ]
         },
         "98_0": {
             "lines": [
-                "Perhaps I lack iron."
+                "I may or may not have seen such a person pass by."
             ]
         },
         "99_0": {
             "lines": [
-                "If anything, it's vitamin A."
+                "You know, this would be easier if you cooperated with me."
             ]
         },
         "100_0": {
             "lines": [
-                "How about you?"
+                "Such high levels of hostility, as expected."
             ]
         },
         "101_0": {
             "lines": [
-                "I have enough. Of a lot of things."
+                "Yes, I have seen a red-white person drop by."
             ]
         },
         "102_0": {
             "lines": [
-                "Then maybe I'll help myself."
+                "I was able to chase her off together with that pathetic",
+				"excuse of a witch away before they could do too much damage."
             ]
         },
         "103_0": {
             "lines": [
-                "I'm really tasty."
+                "Wow, I can't believe they lost to someone like you."
             ]
         },
         "104_0": {
             "lines": [
-                "Let's see, how to easily remove",
-                "unneeded portions of food..."
+                "You might be stronger than I thought you would be."
             ]
         }
     },
     "11": {
         "61_0": {
             "lines": [
-                "You're pretty good with magic.",
-                "Ya got anythin' else to show me?"
+                "That was an interesting display of magic, but really,",
+                "I thought you were more powerful than this."
             ]
         },
         "62_0": {
             "lines": [
-                "*sob sob* I'm so anemic",
-                "I can't finish reciting the spells."
+                "Be grateful that you fought me in my weakened state.",
+                "I guess I'll let you pass, but will \"she\" let you?"
             ]
         }
     }

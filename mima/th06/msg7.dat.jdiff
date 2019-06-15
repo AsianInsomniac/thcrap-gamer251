@@ -352,14 +352,14 @@
     "12": {
         "60_0": {
             "lines": [
-                "What?",
+                "What is it?",
                 "You're here again?"
             ]
         },
         "150_0": {
             "lines": [
-                "You?",
-                "Are you the one responsible for this?"
+                "Asking me if I'm here when I'm in plain sight?",
+                "Has your health gone considerably worse?"
             ]
         },
         "221_0": {
@@ -377,54 +377,57 @@
     "10": {
         "60_0": {
             "lines": [
-                "What's going on",
-                "around here?"
+                "Such a commotion down here should not be possible.",
             ]
         },
         "61_0": {
             "lines": [
-                "Remilia should be at the shrine right now."
+                "Remilia and her maid are visiting Reimu at the shrine",
+				"so there shouldn't even be anyone here."
             ]
         },
         "62_0": {
             "lines": [
-                "So why's everyone attacking me",
-                "with so much intensity?"
+                "The librarian alone couldn't possibly have orchestrated",
+				"attacks as ferocious as these..."
             ]
         },
         "64_0": {
             "lines": [
-                "Did someone call me?"
+                "Oh, I see a visitor!"
             ]
         },
         "65_0": {
             "lines": [
-                "Nope, I didn't."
+                "My my, what do we have here?"
             ]
         },
         "246_0": {
             "lines": [
-                "Here I am."
+                "Hello there, and welcome to the Scarlet Devil Mansion!"
             ]
         },
         "247_0": {
             "lines": [
-                "Who're you?"
+                "And who might you be, little vampire?"
             ]
         },
         "248_0": {
             "lines": [
-                "Before you ask for a person's name..."
+                "I'm Remilia's sister!",
+				"Doesn't she talk about me to other people?"
             ]
         },
         "249_0": {
             "lines": [
-                "Oh, me?"
+                "You don't seem to ring a bell.",
+				"(She didn't mention having a sister at all)"
             ]
         },
         "250_0": {
             "lines": [
-                "Right. I'm Reimu Hakurei, the shrine maiden."
+                "Anyway, I am the hero of shining light,",
+				"savior of the sun, Mima!"
             ]
         },
         "252_h1_0": {
@@ -435,30 +438,30 @@
         },
         "251_0": {
             "lines": [
-                "I'm Flandre,",
-                "Miss Marisa. (You could never be a shrine maiden.)"
+                "She doesn't really talk about me at all, I see.",
+                "And I doubt an evil spirit can be a \"savior of the sun\"."
             ]
         },
         "253_0": {
             "lines": [
-                "So who're you?",
-                "(Maybe I should've said nurse?)"
+                "Is that so?",
+                "Has my disguise been compromised so quickly?"
             ]
         },
         "255_0": {
             "lines": [
-                "I've been home for a long time."
+                "Did you really think you could deceive me with that?"
             ]
         },
         "256_0": {
             "lines": [
-                "Even the last time you",
-                "barged in here."
+                You don't even look the part, to be honest."
             ]
         },
         "258_0": {
             "lines": [
-                "You were?"
+                "So, what are you doing here all alone?",
+				"Why aren't you with your sister?"
             ]
         },
         "259_0": {
@@ -473,196 +476,199 @@
         },
         "261_0": {
             "lines": [
-                "That's sweet, I only get weekends off."
+                "Doesn't it eventually get boring staying in a stuffy basement",
+				"after such a long time?"
             ]
         },
         "262_0": {
             "lines": [
-                "I was listening when you quarreled",
-                "with my elder sister."
+                "Yes, it does.",
+                "You fought my sister, didn't you?"
             ]
         },
         "264_0": {
             "lines": [
-                "Elder sister?",
-                "So you're the younger one."
+                "Fought her and beat her, yes.",
+                "I had to, since she's quite the troublemaker."
             ]
         },
         "266_0": {
             "lines": [
-                "I've always been curious about these",
-                "humans, so I came to look."
+                "My sister always gets all the fun she wants to have.",
+                "That's really unfair, isn't it?"
             ]
         },
         "268_0": {
             "lines": [
-                "Well, ain't you in luck.",
-                "Here, here, look as much as you like."
+                "Seems so.",
+                "Maybe you should have a talk with her like I had!"
             ]
         },
         "270_0": {
             "lines": [
-                "Will you play with me?"
+                "Will you play with me as well?"
             ]
         },
         "271_0": {
             "lines": [
-                "What's it worth to ya?"
+                "If you so desire."
             ]
         },
         "272_0": {
             "lines": [
-                "One coin."
+                "Thanks, it would be really nice."
             ]
         },
         "273_0": {
             "lines": [
-                "One coin?",
-                "You can't buy a life with that."
+                "You're welcome.",
+                "Don't go crying to your sister if I hurt you, though."
             ]
         },
         "275_0": {
             "lines": [
-                "I meant that you can't",
-                "use a continue!"
+                "Oh, don't worry, I'm not locked up here for nothing."
             ]
         }
     },
     "11": {
         "61_0": {
             "lines": [
-                "Well? Had enough yet?"
+                "You have quite a lot of power."
             ]
         },
         "62_0": {
             "lines": [
-                "This can't be true...",
-                "I actually lost..."
+                "Did I really lose?",
+                "How could my power be matched?"
             ]
         },
         "64_0": {
             "lines": [
-                "Yeah, maybe it isn't real."
+                "You lack control and focus.",
+				"Maybe I should take you home with me."
             ]
         },
         "65_0": {
             "lines": [
-                "I'm gonna go home now."
+                "You might have more potential than little Marisa!"
             ]
         },
         "66_0": {
             "lines": [
-                "Yes, I've had enough."
+                "My sister said something similar."
             ]
         },
         "67_0": {
             "lines": [
-                "But in the end I'll be all alone again."
+                "That's why I'm confined down here, all alone."
             ]
         },
         "68_0": {
             "lines": [
-                "♪!"
+                "Maybe she's just jealous?"
             ]
         },
         "69_0": {
             "lines": [
-                "Does that mean you're gonna hang yourself?"
+                "Wouldn't surprise me with her personality."
             ]
         },
         "70_0": {
             "lines": [
-                "Why should I?"
+                "Please don't say bad things about my sister."
             ]
         },
         "71_0": {
             "lines": [
-                "She went and hanged herself"
+                "Ah, the bonds of a family sure are strong."
             ]
         },
         "73_0": {
             "lines": [
-                "and then there were none."
+                "But if you come with me, you could achieve your true potential."
             ]
         },
         "75_0": {
             "lines": [
-                "Where did you hear that?"
+                "I really shouldn't.",
+				"Remilia keeps me down here to protect me."
             ]
         },
         "76_0": {
             "lines": [
-                "It's a famous nursery rhyme."
+                "Ah, I was just testing you anyway."
             ]
         },
         "77_0": {
             "lines": [
-                "I planned for <i$you> to be",
-                "the last one."
+                "Did you say teasing? That would be mean.",
+                "Imagine I had accepted that offer."
             ]
         },
         "79_0": {
             "lines": [
-                "Right, you went invisible",
-                "during that attack before."
+                "I know not to just kidnap someone's sister.",
+                "And I can't just abandon her, so it's fine."
             ]
         },
         "81_0": {
             "lines": [
-                "She died by the bullet"
+                "But now I'm curious..."
             ]
         },
         "83_0": {
             "lines": [
-                "and then there were none."
+                "Curious about the outside world..."
             ]
         },
         "85_0": {
             "lines": [
-                "Sorry to disappoint you.",
-                "Unfortunately, I'm pretty good at dodging."
+                "You don't seem so unstable to me,",
+                maybe you just lack experience."
             ]
         },
         "87_0": {
             "lines": [
-                "Well, it doesn't matter.",
-                "I can't die, even if I hang myself."
+                "Is that so? ",
+                "What are you trying to get at?"
             ]
         },
         "89_0": {
             "lines": [
-                "A hanged corpse is pretty ugly."
+                "You should talk with Remilia about moving you upstairs."
             ]
         },
         "90_0": {
             "lines": [
-                "Why don't you do as the real song says?"
+                "After all, the situation may have changed after 495 years."
             ]
         },
         "91_0": {
             "lines": [
-                "The real song?"
+                "So you say I should ask her to let me have a little more freedom?"
             ]
         },
         "92_0": {
             "lines": [
-                "Hey, wait, ya don't know?"
+                "Just go to her.",
+				"What's the worst that could happen?"
             ]
         },
         "93_0": {
             "lines": [
-                "She got married",
-                "and then there were none..."
+                "It's not like she could beat you.",
+                "It's better than being locked up forever."
             ]
         },
         "95_0": {
             "lines": [
-                "Marry who?"
+                "I think I will do that, thanks."
             ]
         },
         "96_0": {
             "lines": [
-                "I'll introduce ya to a girl from the shrine."
+                "No big deal."
             ]
         }
     }
