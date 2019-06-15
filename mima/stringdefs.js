@@ -1,5 +1,5 @@
 {
-    "th06 Bomb Marisa A": "Imitation \"Stardust Reverie\"",
+    "th06 Bomb Marisa A": "Space Sign \"Dark Star Reverie\"",
     "th06 Bomb Marisa B": "Malice Sign \"Light of Dawn\"",
     "th07 Bomb Marisa A focused": "Imitation \"Asteroid Belt\"",
     "th07 Bomb Marisa B unfocused": "Malice Sign \"Blinding Laser\"",

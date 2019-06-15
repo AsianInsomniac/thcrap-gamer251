@@ -7,7 +7,7 @@
         },
         "180_0": {
             "lines": [
-                "Hey, where are you going, pathetic youkai?!"
+                "You're going to set up a formation all by yourself?"
             ]
         }
     },
@@ -126,7 +126,7 @@
         },
         "180_0": {
             "lines": [
-                "I'll let you run."
+                "Hey, where are you going, pathetic youkai?!"
             ]
         }
     },
@@ -166,7 +166,7 @@
         "67_0": {
             "lines": [
                 "First the one clad in red-white, then the one",
-				"in black-white...
+				"in black-white..."
             ]
         },
         "69_0": {
@@ -181,31 +181,31 @@
         },
         "71_0": {
             "lines": [
-                "I'm just a normal person who guards."
+                "Why does it matter?",
+				"Don't think you'll be able to get past me as well!"
             ]
         },
         "72_0": {
             "lines": [
-                "In short, you're a normal person.",
-                "I shall punish you here."
+                "As the unbreakable wall of this sacred mansion..."
             ]
         },
         "74_0": {
             "lines": [
-                "What education did you get?"
+                "...I will halt your advance right here!"
             ]
         }
     },
     "11": {
         "61_0": {
             "lines": [
-                "So much for the unbreakable.",
+                "So much for \"unbreakable\".",
 				"Now tell me, where did they go?"
             ]
         },
         "62_0": {
             "lines": [
-                "I'm sorry, mistress..."
+                "I'm so sorry, mistress..."
             ]
         }
     }
