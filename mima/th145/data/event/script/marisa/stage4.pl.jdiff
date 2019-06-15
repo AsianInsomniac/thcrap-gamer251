@@ -26,7 +26,7 @@
     },
     "6": {
         "lines": [
-            "How do you know\nthat? Were you\nlistening to me?"
+            "How do you know that? \nWere you listening to me?"
         ]
     },
     "7": {
@@ -56,40 +56,35 @@
     },
     "12": {
         "lines": [
-            "Ok, let the battle begin."
+            "That was just the beginning."
         ]
     },
     "13": {
         "lines": [
-            "That was just the beginning."
+            "Come on, I know you can win against me."
         ]
     },
     "14": {
         "lines": [
-            "Come on, I know you can win against me."
+            "There, I won. Now tell me where is tha\nperson I must beat."
         ]
     },
     "15": {
         "lines": [
-            "There, I won. Now tell me where is tha\nperson I must beat."
+            "Go to the Hakurei Shrine and talk to Kasen. She'll help\nyou get to the Outside World."
         ]
     },
     "16": {
         "lines": [
-            "Go to the Hakurei Shrine and talk to Kasen. She'll help\nyou get to the Outside World."
+            "How does she look?"
         ]
     },
     "17": {
         "lines": [
-            "How does she look?"
-        ]
-    },
-    "18": {
-        "lines": [
             "She's a pink haired hermit. You'll\nrecognize her immediately."
         ]
     },
-    "19": {
+    "18": {
         "lines": [
             "Good luck with the\nsecond condition."
         ]
