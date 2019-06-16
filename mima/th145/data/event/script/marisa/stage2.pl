@@ -189,7 +189,7 @@ o\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,ichirin,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,ichirin		,
+,SetFocus,ichirin
 p\,a15x3,0,0
 
 ,Function,"::StopBGM(1500);"
@@ -213,7 +213,7 @@ p\,a15x3,0,0
 
 ,SetFocus,marisa		,
 ,ImageDef,marisa,魔理沙_嬉1,0,0
-q\,a15x3,0,0
+x\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,ichirin		,

@@ -193,8 +193,8 @@ p\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,mamizou,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,mamizou		,
-q\,a15x3,0,0
+,SetFocus,mamizou
+x\,a15x3,0,0
 
 ,Function,"::StopBGM(1500);"
 #コンテニュー処理へのジャンプを予定　現在は仮で次のステージに進んでから一つ戻る処理を行い、同ステージの最初から再開します

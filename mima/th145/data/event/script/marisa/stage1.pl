@@ -160,7 +160,7 @@ p\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,reimu		,
-q\,a15x3,0,0
+x\,a15x3,0,0
 ,ClearBalloon,reimu
 
 
@@ -188,10 +188,9 @@ q\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,reimu,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,reimu		,
+,SetFocus,reimu
 ,ImageDef,reimu,霊夢_汗1,0,0
 r\,a11x2,0,0
-,ClearBalloon,reimu
 
 
 

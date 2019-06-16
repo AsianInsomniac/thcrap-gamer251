@@ -185,9 +185,8 @@ k\,a15x3,0,0
 ,th145_Show,marisa,-1280	,&,#魔理沙フェイス表示開始
 ,th145_Show,mokou,-1280	,#魔理沙フェイス表示開始
 
-,SetFocus,mokou		,#発言中キャラを指定
+,SetFocus,mokou#発言中キャラを指定
 l\,a15x3,0,0
-,ClearBalloon,mokou
 
 
 ,Function,"::StopBGM(1500);"
@@ -221,7 +220,7 @@ p\,a15x3,0,0
 ,ClearBalloon,marisa
 
 ,SetFocus,mokou		,#発言中キャラを指定
-q\,a15x3,0,0
+x\,a15x3,0,0
 ,ClearBalloon,mokou
 
 ,SetFocus,marisa		,#発言中キャラを指定
