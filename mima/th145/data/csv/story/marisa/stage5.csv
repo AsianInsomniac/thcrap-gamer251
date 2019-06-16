@@ -3,4 +3,4 @@ type,i,s,i,i,i,i,i,i,s,s,s,s,s,s,s,s,s
 -0,0,miko,4500,5500,6000,6500,1,5000,,,,,,CPU_Set_A,CPU_Set_A,CPU_Set_A,CPU_Set_A
 1,1,miko,5000,6000,6500,7000,500,5000,怪人「ヘルメティックマント」,怪人「ヘルメティックマント」,怪人「ヘルメティックマント」,怪人「ヘルメティックマント」,,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1,CPU_Set_Boss1
 2,2,miko,5500,6500,7000,7500,1500,5000,＊大怪人の動脈と静脈＊,＊大怪人の動脈と静脈＊,＊大怪人の動脈と静脈＊,＊大怪人の動脈と静脈＊,Common_BattleDemo_main2,CPU_Set_Boss2,CPU_Set_Boss2,CPU_Set_Boss2,CPU_Set_Boss2
-3,3,miko,6000,7000,7500,8000,1500,5000,＊世紀の怪人赤マント青マント＊,＊世紀の怪人赤マント青マント＊,＊世紀の怪人赤マント青マント＊,＊世紀の怪人赤マント青マント＊,,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3
+2,3,miko,6000,7000,7500,8000,1500,5000,＊世紀の怪人赤マント青マント＊,＊世紀の怪人赤マント青マント＊,＊世紀の怪人赤マント青マント＊,＊世紀の怪人赤マント青マント＊,,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3,CPU_Set_Boss3
